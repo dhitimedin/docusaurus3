@@ -99,6 +99,17 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
+  plugins: [
+    [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      //blogRouteBasePath: '/blog', // must correspond to the base route path configured for the blog plugin
+      docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
+      //indexBlog: true, // whether to index blog pages
+      indexDocs: true, // whether to index docs pages
+      indexPages: false, // whether to index static pages
+      // /404.html is never indexed
+      language: "en" // language of your documentation, see next section
+    }]
+  ],  
   presets: [
     [
       '@docusaurus/preset-classic',

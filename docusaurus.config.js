@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/docusaurus3/',
   onBrokenLinks: 'throw',
   favicon: 'img/Mcoms_SquareSun_Black.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'dhitimedin', // Usually your GitHub org/user name.
   projectName: 'docusaurus3', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -17,7 +17,11 @@ module.exports = {
       },
       hideOnScroll: true,      
       items: [
-        /* {
+          {
+            activeBaseRegex: 'hi',
+            prependBaseUrlToHref: 'true',  
+          },
+        /*{
           to: 'docs/',
           //activeBasePath: 'docs',
           label: 'Docs',
@@ -40,8 +44,7 @@ module.exports = {
     announcementBar: {
       id: 'download', // Any value that will identify this message.
       content:
-        '<a href="img/PDFVersion.pdf" target="_blank">Download content of this website in PDF format</a>',
-        //'<a href="static/img/EnglishVersion.pdf" target="_blank"> Download content of this website in PDF format</a>',
+        '<a href="/docusaurus3/img/HindiVersion.pdf" target="_blank">|| पीडीएफ प्रारूप में इस वेबसाइट के हिंदी संस्करण की सामग्री डाउनलोड करें ||</a><a href="/docusaurus3/img/EnglishVersion.pdf" target="_blank"> || Download content of English Version this websites  in PDF format ||</a>',
       backgroundColor: '#fafbfc', // Defaults to `#fff`.
       textColor: '#091E42', // Defaults to `#000`.
       isCloseable: false, // Defaults to `true`.
@@ -101,16 +104,17 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          //path: './docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           routeBasePath: '/', // Set this value to '/'.
           //homePageId: 'welcome',           
-          editUrl:
-            '/',
+          editUrl: '/',
+          lastVersion: "current",    
           versions: { 
             current: {
               label: 'हिंदी',
-              path: 'hi',
+              //path: 'hi',
             },
           'English': {
             label: 'English',
@@ -118,12 +122,12 @@ module.exports = {
             }, 
           },    
         },
-       /* blog: {
+        blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },*/
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

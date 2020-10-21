@@ -25,9 +25,9 @@ sidebar_label: होम स्क्रीन
 
 मुख्य-मुख्य पॉप-अप सूचनाएँ नीचे बताई गई हैं –
 
-| Plant Maintenance Reminder|Generation Error| Consumption Data Reminder| Generation Data Reminder|
+| प्लांट मेंटेनेंस रिमाइंडर|जनरेशन एरर| खपत डेटा अनुस्मारक | जनरेशन डेटा रिमाइंडर |
 |--|--|--|--|
-|Concerns technical servicing issues across various plants| Alert users to anomalies in solar generation| Notifies a user on incomplete consumption data logging| Notifies a user on incomplete generation data logging|
+| विभिन्न संयंत्रों में तकनीकी सर्विसिंग मुद्दों पर चिंता | उपयोगकर्ताओं को सौर पीढ़ी में विसंगतियों के लिए सचेत करें | अपूर्ण उपभोग डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है | अपूर्ण पीढ़ी डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है |
 
 ![Plant Maintenance Reminder](./assets/3.6_PlantMaintenanceRemind.png)
 

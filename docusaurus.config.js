@@ -2,7 +2,7 @@ module.exports = {
   title: 'MCOMS',
   tagline: 'The tagline of my site',
   url: 'https://dhitimedin.github.io',
-  baseUrl: '/docusaurus3/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/Mcoms_SquareSun_Black.png',
   organizationName: 'Dhitimedin', // Usually your GitHub org/user name.
@@ -100,22 +100,36 @@ module.exports = {
     },
   },
   plugins: [
-    [require.resolve('@cmfcmf/docusaurus-search-local'), {
-      //blogRouteBasePath: '/blog', // must correspond to the base route path configured for the blog plugin
+  /*  [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      blogRouteBasePath: '/blog', // must correspond to the base route path configured for the blog plugin
       docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
-      //indexBlog: true, // whether to index blog pages
+      indexBlog: true, // whether to index blog pages
       indexDocs: true, // whether to index docs pages
       indexPages: false, // whether to index static pages
       // /404.html is never indexed
       language: "en" // language of your documentation, see next section
-    }]
-  ],  
+    }]*/
+    //require.resolve('docusaurus-lunr-search') 
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        language: ["en"],
+      indexDocs: true, // whether to index docs pages
+      docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin      
+      },
+    ],
+  ], 
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
-          //path: './docs',
+          path: './docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           routeBasePath: '/', // Set this value to '/'.

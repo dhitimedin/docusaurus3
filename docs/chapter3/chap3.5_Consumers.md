@@ -51,22 +51,22 @@ sidebar_label: उपभोक्ता
 
 * सूचनाएँ कई टैब में रखी जाती हैं, जिनके बारे में नीचे बताया गया है
 
-	> **A Note on Navigating to this Page**
+	> ** इस पृष्ठ पर नेविगेट करने पर एक नोट **
 	> 
-	> This page is central to on-ground operations, and is frequently used by sales agents in managing the relationship with individual customers. 
-	> However, there is no icon for this module on the Home Screen. Instead, field agents will be able to reach this page from:
-	> * The cash register of a particular plant (Section 3.4.4)
-	> * The customer list (Section 3.5.4)
-	> * The customer status list (Section 3.5.5)
+	> यह पृष्ठ ऑन-ग्राउंड ऑपरेशंस के लिए केंद्रीय है, और इसका उपयोग अक्सर बिक्री एजेंटों द्वारा व्यक्तिगत ग्राहकों के साथ संबंधों के प्रबंधन में किया जाता है। 
+	> हालाँकि, होम स्क्रीन पर इस मॉड्यूल के लिए कोई आइकन नहीं है। इसके बजाय, फ़ील्ड एजेंट इस पृष्ठ से यहां तक ​​पहुंचने में सक्षम होंगे:
+	> * किसी विशेष संयंत्र का नकदी रजिस्टर (Section 3.4.4)
+	> * ग्राहक सूची (Section 3.5.4)
+	> * ग्राहक की स्थिति सूची (Section 3.5.5)
 
 **पेज के डिटेल**
 
 खाता-विवरण (अकाउंट डिटेल) पेज में कई टैब होते हैं, जिनमें ग्राहक से संबंधित जानकारी का सारांश होता है –
 
 
-| Profile| Transaction| Cash Ledger| Security and Deposite Ledger| Meter Reading| Service|
+| प्रोफ़ाइल| लेन-देन| कैश लेजर| सुरक्षा और जमाकर्ता लेजर| मीटर अध्ययन| सेवा|
 |---|---|---|---|---|---|
-| detailed account information| chronological list of individual payments| running record of bills, payments, and balance| running record of security charges and payments| energy consumption data from meter reading| service request history and completion information|
+| विस्तृत खाता जानकारी | व्यक्तिगत भुगतान की कालानुक्रमिक सूची | बिलों, भुगतानों और शेष राशि का रिकॉर्ड चलाना | सुरक्षा शुल्क और भुगतान का रिकॉर्ड | मीटर रीडिंग से ऊर्जा की खपत के आंकड़े | सेवा अनुरोध इतिहास और पूर्ण जानकारी |
 
 एक टैब से दूसरे में जाने के लिए या तो नेविगेशन बार का उपयोग करना होता है या स्क्रीन को आड़ी तरह से (हॉरिजॉन्टलि) स्वाइप करना होता है।
 
@@ -257,9 +257,9 @@ sidebar_label: उपभोक्ता
 **पेज के डिटेल**
 ज़्यूमर एक्टिविटी पेज कई टैब में रखा गया है, जिसका प्रोसेस अकाउंट स्टेटस चेंज की तरह है। 
 
-| Request| In Process| Review| Completed|
+| अनुरोध | प्रक्रिया में | समीक्षा | पूरे किए गए |
 |---|---|---|---|
-|Register a customer for de-/re-activation|List of customers whose connection requires attention|Confirming the action has been completed| Historical list of all customer de-/re-activation details|
+| De- / पुनः सक्रियण के लिए एक ग्राहक पंजीकृत करें | उन ग्राहकों की सूची जिनके कनेक्शन पर ध्यान देने की आवश्यकता है | कार्रवाई की पुष्टि की गई है | सभी ग्राहक की ऐतिहासिक सूची de- / पुनः सक्रियण विवरण |
 
 ### 3.5.6.1. रिक्वेस्ट टैब
 ![Consumer Activity](./assets/3.38_ConsumerActivity.png)
@@ -314,9 +314,9 @@ sidebar_label: उपभोक्ता
 
 **पेज के डिटेल**
 
-| Report| Request| Completed|
+| रिपोर्ट | अनुरोध | पूरे किए गए |
 |---|---|---|
-|Overview statistics on completed and pending service requests| Detailed list of pending requests and personnel assignments| Record of all completed requests|
+| पूर्ण और लंबित सेवा अनुरोधों पर अवलोकन आँकड़े | लंबित अनुरोधों और कर्मियों के असाइनमेंट की विस्तृत सूची | सभी पूर्ण अनुरोधों का रिकॉर्ड |
 
 ### 3.5.7.1. रिपोर्ट टैब
 ![Report tab](./assets/3.43_ReportTab1.png)
@@ -506,9 +506,9 @@ sidebar_label: उपभोक्ता
 
 **पेज के डिटेल**
 
-| Pending| In Process| Completed|
+| लंबित | प्रक्रिया में | पूरे किए गए |
 |---|---|---|
-| The theft reports that are reported| Theft reports that are currently being investigated| Theft reports that have been appropriately dealt with|
+| चोरी की रिपोर्ट जो बताई जाती है | चोरी की रिपोर्ट जो वर्तमान में जांच की जा रही है | चोरी की रिपोर्ट जो उचित तरीके से निपटाया गया है |
 
 ### 3.5.12.1. पेंडिंग टैब
 ![Pending tab](./assets/3.54_TheftComplaint.png)

@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/docusaurus3/',
   onBrokenLinks: 'throw',
   favicon: 'img/Mcoms_SquareSun_Black.png',
-  organizationName: 'dhitimedin', // Usually your GitHub org/user name.
+  organizationName: 'Dhitimedin', // Usually your GitHub org/user name.
   projectName: 'docusaurus3', // Usually your repo name.
   themeConfig: {
     navbar: {

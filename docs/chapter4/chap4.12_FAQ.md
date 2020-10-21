@@ -6,35 +6,38 @@ sidebar_label: बार-बार पूछे जाने वाले प्
 
 :::note
 
-	How do I contact the local company representative?
+	मैं स्थानीय कंपनी के प्रतिनिधि से कैसे संपर्क करूं?
 
-* Their number is shown in the Main Menu.
-* In an emergency, you should visit the mini-grid plant in person, and the plant operator will assist you.
-
-:::
-
-:::note
-
-	How do I check my past payments?
-* From the home screen Dashboard, select Billing and Payment Detail.
-* This shows a complete searchable list of all past transactions.
+* उनका नंबर मेन मेन्यू में दिखाया गया है।
+* आपातकालीन स्थिति में, आपको व्यक्तिगत रूप से मिनी ग्रिड प्लांट का दौरा करना चाहिए, और प्लांट ऑपरेटर आपकी सहायता करेगा।
 
 :::
 
 :::note
 
-	What do I do if my connection unexpectedly cuts?
-* Check the Notifications page for any messages about planned electricity outages.
-* Check your balance from the Amount Payable page -- if you have not paid your bill, your connection may be cut automatically.
-* Log a service request through the Service Request page by entering the details of the problem, and a company agent will be notified.
+	मैं अपने पिछले भुगतानों की जाँच कैसे करूँ?
+
+* होम स्क्रीन डैशबोर्ड से, बिलिंग और भुगतान विवरण चुनें।
+* यह पिछले सभी लेन-देन की पूरी खोज योग्य सूची दिखाता है।
 
 :::
 
 :::note
 
-	Can someone get a connection without the smartphone app?
-* Anyone can request a new connection for themselves or for someone else through the smartphone app.
-* A company representative will also be happy to assist in creating an account and registering new users.
+	यदि मेरा कनेक्शन अप्रत्याशित रूप से कट जाता है तो मैं क्या करूं?
+
+* नियोजित बिजली आउटेज के बारे में किसी भी संदेश के लिए अधिसूचना पृष्ठ देखें।
+* राशि देय पृष्ठ से अपना शेष राशि जांचें - यदि आपने अपना बिल नहीं भरा है, तो आपका कनेक्शन अपने आप कट सकता है।
+* समस्या के विवरण दर्ज करके सेवा अनुरोध पृष्ठ के माध्यम से एक सेवा अनुरोध दर्ज करें, और एक कंपनी एजेंट को सूचित किया जाएगा।
+
+:::
+
+:::note
+
+	क्या बिना स्मार्टफोन ऐप के किसी को कनेक्शन मिल सकता है?
+
+* कोई भी व्यक्ति अपने लिए या किसी अन्य व्यक्ति के लिए स्मार्टफोन ऐप के माध्यम से नए कनेक्शन का अनुरोध कर सकता है।
+* एक कंपनी प्रतिनिधि एक खाता बनाने और नए उपयोगकर्ताओं को पंजीकृत करने में सहायता करने के लिए भी खुश होगा।
 
 :::
 

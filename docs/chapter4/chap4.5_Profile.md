@@ -8,9 +8,9 @@ sidebar_label: प्रोफाइल
 * प्रोफाइल पेज से यूज़र अपने खाते के विवरण तक पहुँच सकता है।
 * इसमें स्वयं का विवरण, विगत भुगतान और बिजली की खपत की जानकारी मिल जाती है।
 
-| Profile| Payments| Meter Readings|
+| प्रोफाइल | भुगतान | मीटर रीडिंग |
 |---|---|---|
-| Consists of profile details of the consumer| Chronological list of individual payments| Chronological record of energy consumption|
+| उपभोक्ता के प्रोफाइल विवरण के साथ | व्यक्तिगत भुगतान की कालानुक्रमिक सूची | ऊर्जा खपत का कालानुक्रमिक रिकॉर्ड |
 
 
 ## 4.5.1. प्रोफाइल

@@ -6,59 +6,64 @@ sidebar_label: बार-बार पूछे जाने वाले प्
 
 :::note
 
-	How do I register a customer's payment?
+	मैं ग्राहक के भुगतान को कैसे पंजीकृत करूं?
 
-* Navigate to the Receivable module (from the home page or from the main menu).
-* From the list, select the customer who is making the payment and tap "Add Transaction".
-* Enter the amount paid and for which service the payment is being made.
-* A customer receipt can then be generated from the Transaction tab.
-
-:::
-
-:::note
-
-	How do I update a customer's contact details?
-* Access a specific customer's account page through the Customer List module.
-* Click the pencil icon next to the relevant section.
-* The customer may have to confirm the update through an OTP.
+* प्राप्य मॉड्यूल (मुख पृष्ठ या मुख्य मेनू से) पर नेविगेट करें।
+* सूची से, भुगतान करने वाले ग्राहक का चयन करें और "लेनदेन जोड़ें" पर टैप करें।
+* भुगतान की गई राशि दर्ज करें और किस सेवा के लिए भुगतान किया जा रहा है।
+* एक ग्राहक रसीद तब लेन-देन टैब से उत्पन्न की जा सकती है।
 
 :::
 
 :::note
 
-	How do I assign a pending task to a field agent?
-* Field agents must implement service requests, package changes, meter releases, etc.
-* To assign such a task to a particular agent, go to that task's page and select the "pending" tab.
-* From the list of pending tasks, locate the one you wish to assign and tap its "reassign" button.
-* The field agent may then be selected from a list of available agents. They will be automatically notified of the assignment, and can be contacted through the app for clarification.
+	मैं ग्राहक के संपर्क विवरण को कैसे अपडेट करूं?
+
+* ग्राहक सूची मॉड्यूल के माध्यम से एक विशिष्ट ग्राहक के खाता पृष्ठ पर पहुंचें।
+* संबंधित अनुभाग के बगल में स्थित पेंसिल आइकन पर क्लिक करें।
+* ग्राहक को ओटीपी के माध्यम से अपडेट की पुष्टि करनी पड़ सकती है।
 
 :::
 
 :::note
 
-	How do I identify which customers to approach for billing?
-* Navigate to the Receivable module and select a plant.
-* Customers are listed along with the amount owed.
-* The field agent can sort the list in descending size of bill to prioritise customers
+	मैं एक फील्ड एजेंट को एक लंबित कार्य कैसे सौंपूँ?
+
+* फील्ड एजेंटों को सेवा अनुरोध, पैकेज परिवर्तन, मीटर रिलीज़ आदि को लागू करना चाहिए।
+* किसी विशेष एजेंट को ऐसे कार्य सौंपने के लिए, उस कार्य के पृष्ठ पर जाएं और "लंबित" टैब चुनें।
+* लंबित कार्यों की सूची से, आप जिस "असाइन" बटन को असाइन करना चाहते हैं उसे टैप करें।
+* फ़ील्ड एजेंट को तब उपलब्ध एजेंटों की सूची से चुना जा सकता है। उन्हें स्वचालित रूप से असाइनमेंट के बारे में सूचित किया जाएगा, और स्पष्टीकरण के लिए ऐप के माध्यम से संपर्क किया जा सकता है।
 
 :::
 
 :::note
 
-	How do I monitor which customer meters to read?
-* Meter readings take place towards the end of the month.
-* The Meter Reading page itemises the number of pending readings for each plant.
-* Selecting a plant will show a list of meters to be read.
-* Readings can then be added to each meter.
+	बिलिंग के लिए मैं किस ग्राहक की पहचान करूं?
+
+* प्राप्य मॉड्यूल पर नेविगेट और एक संयंत्र का चयन करें।
+* ग्राहकों को बकाया राशि के साथ सूचीबद्ध किया गया है।
+* क्षेत्र एजेंट ग्राहकों को प्राथमिकता देने के लिए बिल के अवरोही आकार में सूची को सॉर्ट कर सकता है
 
 :::
 
 :::note
 
-	How do I check the amount of cash held by the field team?
-* Go to the Bank Deposit module in the Plant section of the Home Page.
-* Select the In Hand Cash tab.
-* The amount collected and deposited in the billing period will be shown, along with the amount of undeposited cash held locally.
+	मैं किस ग्राहक मीटर को पढ़ने के लिए मॉनिटर करूं?
+
+* मीटर रीडिंग महीने के अंत में होते हैं।
+* मीटर रीडिंग पेज प्रत्येक संयंत्र के लिए लंबित रीडिंग की संख्या को बढ़ाता है।
+* एक संयंत्र का चयन पढ़ने के लिए मीटर की एक सूची दिखाएगा।
+* रीडिंग को फिर प्रत्येक मीटर में जोड़ा जा सकता है।
+
+:::
+
+:::note
+
+	मैं फील्ड टीम द्वारा रखी गई नकदी की राशि की जांच कैसे करूं?
+
+* होम पेज के प्लांट सेक्शन में बैंक डिपॉजिट मॉड्यूल पर जाएं।
+* इन हैंड कैश टैब चुनें।
+* एकत्र की गई राशि और बिलिंग अवधि में जमा की गई राशि, स्थानीय रूप से आयोजित अनिर्दिष्ट नकदी की राशि के साथ दिखाई जाएगी।
 
 :::
 

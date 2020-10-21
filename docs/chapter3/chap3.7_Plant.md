@@ -250,9 +250,9 @@ sidebar_label: प्लांट
 
 पेज में निम्नलिखित टैब रखे गए हैं -
 
-| Bank Deposit| In Hand Cash Report| Bank Deposit Review|
+| बैंक जमा | हाथ में कैश रिपोर्ट | बैंक जमा की समीक्षा |
 |---|---|---|
-| Detailed list of historical bank deposits| Plant-wise overview of collections and deposits| Overview of all the bank deposits made and confirmed|
+| ऐतिहासिक बैंक जमा की विस्तृत सूची | संग्रह और जमा का पौध-वार अवलोकन | सभी बैंक जमाओं का अवलोकन और पुष्टि की गई |
 
 
 ### 3.7.7.1. बैंक डिपॉज़िट टैब

@@ -2,7 +2,7 @@ module.exports = {
   title: 'MCOMS',
   tagline: 'The tagline of my site',
   url: 'https://dhitimedin.github.io',
-  baseUrl: '/',
+  baseUrl: '/docusaurus3/',
   onBrokenLinks: 'throw',
   favicon: 'img/Mcoms_SquareSun_Black.png',
   organizationName: 'Dhitimedin', // Usually your GitHub org/user name.

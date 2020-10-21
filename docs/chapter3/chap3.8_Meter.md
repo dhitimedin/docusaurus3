@@ -70,9 +70,9 @@ sidebar_label: मीटर
 
 इस पेज में निम्नलिखित टैब हैं -
 
-|Pending| Review| Completed|
+| विचाराधीन | समीक्षा | पूरे किए गए |
 |---|---|---|
-| View of pending meter requests, assign to agent, and mark completed| List of completed meter requests| List of historical completed and acknowledged meter requests|
+| लंबित मीटर अनुरोधों को देखें, एजेंट को असाइन करें और पूरा किया गया चिह्न | पूर्ण मीटर अनुरोधों की सूची | ऐतिहासिक पूर्ण और स्वीकृत मीटर अनुरोधों की सूची |
 
 
 ### 3.8.3.1. पेंडिंग टैब

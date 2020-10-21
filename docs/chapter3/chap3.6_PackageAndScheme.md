@@ -48,9 +48,9 @@ sidebar_label: पैकेज और स्कीम
 
 **पेज के डिटेल**
 
-| Request| In Process| Review| Completed|
+| अनुरोध | प्रक्रिया में | समीक्षा | पूरे किए गए |
 |---|---|---|---|
-| Information on package request| Lists requests that are being worked on| Completed requests that are awaiting approval| Details of historical package requests|
+| पैकेज अनुरोध पर सूचना | सूची अनुरोधों पर काम किया जा रहा है | स्वीकृत अनुरोध का इंतजार कर रहे हैं | ऐतिहासिक पैकेज अनुरोधों का विवरण |
 
 
 ### 3.6.2.1. रिक्वेस्ट टैब

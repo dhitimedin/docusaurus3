@@ -120,7 +120,8 @@ module.exports = {
         // ```
         language: ["en"],
       indexDocs: true, // whether to index docs pages
-      docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin      
+      docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
+      indexPages: true, // whether to index static pages
       },
     ],
   ], 

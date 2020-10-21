@@ -14,7 +14,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ![Dashboard](./assets/4.8.2_Dashboard.svg)
 -->
 <br clear="right"/>
-<img align="left" src={useBaseUrl("../docs/chapter4/assets/4.3_Dashboard.png")} alt="Dashboard" />
+<img align="left" src={useBaseUrl("/assets/4.3_Dashboard.png")} alt="Dashboard" />
 <br/>
 <br/>
 

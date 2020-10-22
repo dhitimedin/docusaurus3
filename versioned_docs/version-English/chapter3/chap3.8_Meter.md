@@ -1,17 +1,17 @@
 ---
 id: Meter
-title: Meter
+title: 3.8. Meter
 sidebar_label: Meter
 ---
 
-## Overview
+## 3.8.1. Overview
 ![Meter Tab Functionalities](./assets/3.95_MeterFunctionalities.svg)
 <br/><br/>
 
 ![Meter Tab Screenshot](./assets/3.96_MeterTabScrSht.png)
  
 
-## Change Meter
+## 3.8.2. Change Meter
 **Functionality**
 * Allows users to request replacement of a customer’s energy meter
 
@@ -40,7 +40,7 @@ sidebar_label: Meter
 ![Change Metert](./assets/3.97_ChangeMeter.png)
 
 
-## Unreleased Meter
+## 3.8.3. Unreleased Meter
 **Functionality**
 * Tracks pending and completed meter change tasks
 * These meters are to be unmounted, either because of a malfunction or expiry of the customer’s subscription
@@ -75,27 +75,27 @@ The page is organised into the following tabs
 | View of pending meter requests, assign to agent, and mark completed| List of completed meter requests| List of historical completed and acknowledged meter requests|
 
 
-### Pending tab
+### 3.8.3.1. Pending tab
 ![Pending Tab](./assets/3.98_PendingTab.png)
 
-### Review tab
+### 3.8.3.2. Review tab
 ![Review Tab](./assets/3.99_ReviewTab.png)
 
-### Completed tab
+### 3.8.3.3. Completed tab
 ![Completed Tab](./assets/3.100_CompletedTab.png)
 
 
 
-## Spark Meter Status
+## 3.8.4. Smart Meter Status
 **Functionality**
-* Gives limited access to smart Spark meter data
+* Gives limited access to smart Smart meter data
 * The user may remotely switch meters on and off from here 
 * Refer to Section 3.4.5 for more information
 
 
-## Spark Feeder Status
+## 3.8.5. Smart Feeder Status
 **Functionality**
-* The Spark Feeder Status Section allows a user to reset or change configuration of a Spark Feeder through the application
+* The Smart Feeder Status Section allows a user to reset or change configuration of a Smart Feeder through the application
 
 **Key Users**
 <table>
@@ -124,7 +124,7 @@ The page is organised into the following tabs
 ![Feeder Meter Reset](./assets/3.102_FeederMeterReset2.png)
 
 
-## Meter Reading
+## 3.8.6. Meter Reading
 **Functionality**
 * The Meter Reading Section shows the electricity meter readings which are required at each plant
 
@@ -165,7 +165,7 @@ The page is organised into the following tabs
 ![Meter Reading](./assets/3.104_MeterReading2.png)
 
 
-## Meter Reading Review
+## 3.8.7. Meter Reading Review
 **Functionality**
 * The Meter Reading Review Section displays the number of pending meter readings reviews, plant wise
 * The meter reading process is completed by agents at the beginning or end of a month to record the electricity consumption of households that do not have a smart meter
@@ -199,7 +199,7 @@ The page is organised into the following tabs
 
 ![Meter Reading Approval](./assets/3.105_MeterReadingApproval.png)
 
-## TERMS Status
+## 3.8.8. TERMS Status
 **Functionality**
 * Gives access to smart TERMS meter data
 * The user may remotely switch customer meters on and off from here
@@ -245,7 +245,7 @@ The page is organised into the following tabs
 ![TERMS Reset](./assets/3.107_TermsReset.png)
 
 
-## Battery Maintenance
+## 3.8.9. Battery Maintenance
 **Functionality**
 * The Battery Maintenance Section gives an overview on the battery banks at every plant
 * The section allows the user to switch the battery pack on or off

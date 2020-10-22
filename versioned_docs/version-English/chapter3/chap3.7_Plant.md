@@ -1,10 +1,10 @@
 ---
 id: Plant
-title: Plant
+title: 3.7. Plant
 sidebar_label: Plant
 ---
 
-## Overview
+## 3.7.1. Overview
 The section consists of the following functionalities:
 
 ![Plant Functionalities](./assets/3.70_PlantTabs.svg)
@@ -12,7 +12,7 @@ The section consists of the following functionalities:
 
 ![Consumer Screenshot](./assets/3.71_PlantTabScreenShot.png)
  
-## Plant Performance
+## 3.7.2. Plant Performance
 **Functionality**
 * The Plant Performance Section summarises technical performance metrics for each plant
 
@@ -62,7 +62,7 @@ The section consists of the following functionalities:
 ![Consumption Data](./assets/3.74_ConsumptionData.png)
 
 
-## Plant Utilisation
+## 3.7.3. Plant Utilisation
 **Functionality**
 * The Plant Utilisation Section summarises technical performance metrics and energy consumption for each plant
 * This functionality is only available for HCLF agents
@@ -97,7 +97,7 @@ The section consists of the following functionalities:
 ![Plant Utilization](./assets/3.75_PlantUtilisation.png)
 
 
-## Add Generation Data
+## 3.7.4. Add Generation Data
 **Functionality**
 * The Add Generation Data module allows the user to input energy generation data into the company database
 
@@ -139,7 +139,7 @@ The section consists of the following functionalities:
 
 
 
-## Add Consumption Data
+## 3.7.5. Add Consumption Data
 **Functionality**
 * The Add Consumption Data module allows the user to input energy dispatch data into the company database
 
@@ -179,7 +179,7 @@ The section consists of the following functionalities:
 ![Add Generation Data](./assets/3.79_AddGenData2.png)
 
 
-## Diesel Consumption
+## 3.7.6. Diesel Consumption
 **Functionality**
 * The Diesel Consumption Section allows the user to input details on plant fuel expenses, along with photos of receipts
 * Past expenses and DG usage data can also be reviewed
@@ -216,7 +216,7 @@ The section consists of the following functionalities:
 
 
 
-## Bank Deposit
+## 3.7.7. Bank Deposit
 **Functionality**
 * Interface for registering a deposit of collected cash into the company bank account
 * Record and summary of past deposits can be viewed, along with in-plant cash records
@@ -254,20 +254,20 @@ The page is organised into the following tabs.
 | Detailed list of historical bank deposits| Plant-wise overview of collections and deposits| Overview of all the bank deposits made and confirmed|
 
 
-### Bank Deposit tab
+### 3.7.7.1. Bank Deposit tab
 ![Bank Deposit Tab](./assets/3.83_BankDeposit.png)
 
 ![Bank Deposit Tab](./assets/3.84_AddBankDeposit.png)
 
-### In Hand Cash Report tab
+### 3.7.7.2. In Hand Cash Report tab
 ![In Hand Cash Report tab](./assets/3.85_InHandCashTab.png)
 
-### Bank Deposit Review tab
+### 3.7.7.3. Bank Deposit Review tab
 
 ![Bank Deposit Review tab](./assets/3.86_BankDepositReviewTab.png)
 
 
-## Plant Shutdown Info
+## 3.7.8. Plant Shutdown Info
 **Functionality**
 * The Plant Shutdown Info allows the users to manually shutdown a particular feeder at a specific plant
 
@@ -301,7 +301,7 @@ The page is organised into the following tabs.
 
 
 
-## Plant Maintenance
+## 3.7.9. Plant Maintenance
 **Functionality**
 * Allows the users to log technical maintenance activities which have happened at a plant
 
@@ -330,7 +330,7 @@ The page is organised into the following tabs.
 ![Plant Maintenance](./assets/3.91_PlantMaintenance2.png)
 
 
-## DG Log
+## 3.7.10. DG Log
 **Functionality**
 * The DG Log Section allows users to track diesel generator performance and runtime
 

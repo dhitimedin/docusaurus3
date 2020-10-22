@@ -1,10 +1,10 @@
 ---
 id: Customer-related_Operations
-title: Customer-related Operations
+title: 2.2. Customer-related Operations
 sidebar_label: Customer-related Operations
 ---
 
-## Creating Packages
+## 2.2.1. Creating Packages
 Packages allow customers to prioritise their electricity needs and balance them against price for different levels of service. In designing and choosing packaged, three major supply characteristics must be considered:
 
 * The maximum power or load supported by the connection
@@ -18,14 +18,14 @@ Post-paid packages are billed at the end of each billing period after energy has
 #### Figure 10: Package ID construction example.
 ![Package ID construction example](./assets/2.1_PkgIdCrExp.png)
 
-### Customer Acquisition
+## 2.2.1. Customer Acquisition
 The step-by-step customer acquisition process is depicted in Figure 11. Note that all steps coloured green or blue are done through the MCOMS apps.
 
 #### Figure 11: Adding customers detailed workflow.
 ![Adding customers detailed workflow](./assets/2.2_AddCustDetWorkFlw.svg)
 
 
-#### Unique Customer IDs
+### 2.2.2.1. Unique Customer IDs
 Each customer is assigned a unique identification number the moment their account is created. These numbers play a pivotal role in the structure of MCOMS, as the databases for energy consumption, payment history, etc. are indexed according to this ID. 
 An example customer ID is shown in Figure 12.
 
@@ -33,14 +33,14 @@ An example customer ID is shown in Figure 12.
 ![Customer ID construction example](./assets/2.3_CusCrEx.png)
 
 
-### Customer Status
+## 2.2.3. Customer Status
 A customer’s status can be either “active” or “inactive”/”banned”:
 * Active customers have kept up to date with bills (i.e. have not exceeded their credit limit), and are continuing to avail the services of the mini-grid.
 * Inactive / banned customers are those whose connection has been terminated – either because of non-payment, or the customer’s preference, or in rare cases because electricity demand is exceeding the plant capacity and customers must be dropped.
 
 MCOMS automatically flags customers who are to be deactivated; when the customer is connected through a smart meter, this process can be automatic.
 
-### Metering, Billing, and Collection
+## 2.2.4. Metering, Billing, and Collection
 Metering, billing, and collection (MBC) is the process by which a customer pays for the electricity they have consumed. The process is summarised below and illustrated in Figure 13.
 * Metering
 	* For customers with conventional energy meters, the new reading is noted at the end of the billing period.
@@ -58,7 +58,7 @@ Metering, billing, and collection (MBC) is the process by which a customer pays 
 #### Figure 13: Metering, billing, and collection workflow.
 ![Metering, billing, and collection workflow](./assets/2.4_MetBilColWorkflow.svg)
 
-### Customer Receipts
+## 2.2.5. Customer Receipts
 Ensuring that company and customers alike have access to records of bills and payments is important for transparency and trust, and for forestalling / resolving payment disputes. Customer receipts are the primary proof of billing for any active consumer, and come in a variety of formats:
 
 * **Print-out:** a paper receipt of a transaction can be printed by field agents upon request, using a portable printer.
@@ -66,12 +66,12 @@ Ensuring that company and customers alike have access to records of bills and pa
 * **Screenshot:** customers without the app may request a screenshot of the receipt from a company agent, to be saved as an image file.
 * **SMS:** customers may automatically receive SMS messages notifying them of bills and confirming payment received.
 
-### Editing Profiles
+## 2.2.6. Editing Profiles
 It is important to maintain up-to-date customer records, including information like address and contact number. This ensures that customers can receive bills and payment receipts, and be informed of any service disruptions or company promotions.
 
 Customers may update their own information through the customer app, or field agents may do so with approval (and an OTP) from the customer.
 
-### Service Requests
+## 2.2.7. Service Requests
 Service requests are made by customers when they experience supply disruptions or other issues with their electricity connection. Service requests can be made though:
 
 * The customer app, which has an easy-to-use service request module
@@ -82,10 +82,10 @@ The processing of every Service Request made by all customers is as follows:
 #### Figure 14: Service requests workflow.
 ![Service requests workflow](./assets/2.5_ServiceReqWorkFlw.svg)
 
-### Security Deposits
+## 2.2.8. Security Deposits
 A refundable security deposit is typically taken from every new customer, with the amount depending on their anticipated monthly bill. In the event of a lapse in regular payments, the company can recoup the outstanding amount form the deposit. Otherwise, the deposit is refunded in full when a customer discontinues their subscription. The process for collecting the security deposit is illustrated in **Error! Reference source not found.**
 
-### Package Changes
+## 2.2.9. Package Changes
 Customers whose energy requirements or circumstances change may shift to a different package. For example, a household may upgrade to a higher load limit after buying new electrical appliances, or may opt for longer hours of access.
 
 A package change can be initiated via the customer app, or by a field agent on behalf of the customer. The main steps of the process are:
@@ -96,7 +96,7 @@ A package change can be initiated via the customer app, or by a field agent on b
 * **Database update:** the customer’s assigned package is updated; the change may be implemented immediately or at the beginning of the next billing period
 * **Connection update:** smart meter or load limiter is reprogrammed with the new package details (namely load limit and timing), or the customer is connected to a different feeder
 
-### Complementary Business Services
+## 2.2.10. Complementary Business Services
 Value-added services are those activities which go beyond the core role of providing electricity. These activities are intended to serve multiple purposes: to bring value and opportunities to customers, to positively impact the local community, to raise the profile of the mini-grid operator, and to increase electricity sales.
 
 Some value-added services are geared towards businesses and micro-enterprise development, while others are more focussed on households and personal use. Two examples are given.

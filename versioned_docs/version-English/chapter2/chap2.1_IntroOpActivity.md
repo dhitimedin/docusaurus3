@@ -1,6 +1,6 @@
 ---
 id: Introduction_to_Mini-grid_Operational_Activities
-title: Introduction to Mini-grid Operational Activities
+title: 2.1. Introduction to Mini-grid Operational Activities
 sidebar_label: Introduction to Mini-grid Operational Activities
 ---
 

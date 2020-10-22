@@ -1,16 +1,16 @@
 ---
 id: Package_and_Scheme
-title: Package and Scheme
+title: 3.6. Package and Scheme
 sidebar_label: Package and Scheme
 ---
 
-## Overview
+## 3.6.1. Overview
 ![Package And Scheme Tabs](./assets/3.61_PckAndSchmTabs.svg)
 <br/><br/>
 
 ![Consumer Screenshot](./assets/3.62_ScrShotPckAndSchm.png)
  
-## Package Activity
+## 3.6.2. Package Activity
 **Functionality**
 * The Package Activity section is an interface for changing the package assigned to customers
 * Changes undergo a chain of approval, with details passed to the relevant agent
@@ -53,7 +53,7 @@ sidebar_label: Package and Scheme
 | Information on package request| Lists requests that are being worked on| Completed requests that are awaiting approval| Details of historical package requests|
 
 
-### Request tab
+### 3.6.2.1. Request tab
 
 ![Package Activity Summary](./assets/3.63_PckActivity.png)
 
@@ -61,21 +61,21 @@ sidebar_label: Package and Scheme
 
 
 
-### In Process tab
+### 3.6.2.2. In Process tab
 
 ![In Process tab](./assets/3.65_PckProcessTab.png)
 
-### Review tab
+### 3.6.2.3. Review tab
 
 ![Review tab](./assets/3.66_PckReviewTab.png)
 
 
-### Completed tab
+### 3.6.2.4. Completed tab
 
 ![Security Deposit Ledger tab](./assets/3.67_PckCompletedTab.png)
 
 
-## Scheme
+## 3.6.3. Scheme
 **Functionality**
 * List of customers who are participating in a promotional scheme which offers electrical appliances along with an electricity connection
 * Option to add new customers to a scheme
@@ -110,7 +110,7 @@ sidebar_label: Package and Scheme
 ![Schemes](./assets/3.68_Schemes.png)
 
 
-## Product Inventory
+## 3.6.4. Product Inventory
 **Functionality**
 * Displays all the electrical appliances (for customer schemes) in the company’s warehouse
 

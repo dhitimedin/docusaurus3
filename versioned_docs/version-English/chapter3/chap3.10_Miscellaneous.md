@@ -1,17 +1,17 @@
 ---
 id: Miscellaneous
-title: Miscellaneous
+title: 3.10. Miscellaneous
 sidebar_label: Miscellaneous
 ---
 
-## Overview
+## 3.10.1. Overview
 ![Miscellaneous Functionalities](./assets/3.110_MiscFunctionaties.svg)
 <br/><br/>
 
 ![Miscellaneous Screenshot](./assets/3.111_MiscScreenShot.png)
 
 
-## Gallery
+## 3.10.2. Gallery
 **Functionality**
 * The Gallery Section contains images of each plant
 
@@ -39,7 +39,7 @@ sidebar_label: Miscellaneous
 ![Gallery Sample](./assets/3.112_GallerySample.png)
 
 
-## Add Images
+## 3.10.3. Add Images
 **Functionality**
 * For uploading photos relevant to a particular plant
 
@@ -67,7 +67,7 @@ sidebar_label: Miscellaneous
 ![Add Images](./assets/3.113_AddImages.png)
 
 
-## Contacts
+## 3.10.4. Contacts
 Functionality
 * Lists every operator working for the company along with their contact details
 
@@ -76,7 +76,7 @@ Functionality
 This page is also accessible from the Main Menu: Refer to Section 3.4.7 for details.
 
 
-## Notifications
+## 3.10.5. Notifications
 **Functionality**
 * The Notification Section allows the user to view all the SMS messages that have been sent or received
 
@@ -100,7 +100,7 @@ This page is also accessible from the Main Menu: Refer to Section 3.4.7 for deta
 ![Notification](./assets/3.114_Notification.png)
 
 
-## Plant Shutdown Message
+## 3.10.6. Plant Shutdown Message
 **Functionality**
 * Allows user to send an SMS to a subset of customers, warning them of a plant shutdown
 
@@ -129,7 +129,7 @@ This page is also accessible from the Main Menu: Refer to Section 3.4.7 for deta
 ![Plant Shutdown SMS](./assets/3.115_PlantShutdownSMS.png)
 
 
-## SUG
+## 3.10.7. SUG
 **Functionality**
 * The SUG Section identifies and creates consumer pools in various plants
 * The section is only available for HCLF agents

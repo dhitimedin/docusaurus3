@@ -1,10 +1,10 @@
 ---
 id: Water
-title: Water
+title: 3.9. Water
 sidebar_label: Water
 ---
 
-## Water Camper Sale
+## 3.9.1. Water Camper Sale
 **Functionality**
 * Gives an overview of water sales at relevant plants
 

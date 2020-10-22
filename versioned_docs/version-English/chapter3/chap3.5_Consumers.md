@@ -1,17 +1,17 @@
 ---
 id: Consumers
-title: Consumers
+title: 3.5. Consumers
 sidebar_label: Consumers
 ---
 
-## Overview
+## 3.5.1. Overview
 ![Consumer Screen Key Functionalities](./assets/3.25_ConsuKeyFunc.svg)
 <br/>
 <br/>
 
 ![Consumer Screenshot](./assets/3.26_ConsScreenShot.png)
  
-## Account Details
+## 3.5.2. Account Details
 **Functionality**
 * The Account Detail page contains complete information on a customer’s profile, their package, and payment history.
 
@@ -74,7 +74,7 @@ Switching between tabs can be done either using the top navigation bar, or simpl
 
 Each of these tabs will be discussed in the following sections.
 
-### Profile tab
+### 3.5.2.1. Profile tab
 **Functionality**
 * The Profile tab shows detailed information about the selected customer and their account
 * Some information can be updated/edited by the user1
@@ -83,7 +83,7 @@ Each of these tabs will be discussed in the following sections.
 
 ![Profile Tab](./assets/3.27_ProfileTab.png)
 
-### Transaction tab
+### 3.5.2.2. Transaction tab
 **Functionality**
 * The Transaction page provides a historical account of each customer’s payments
 * Updated in real time as payments are made and recorded
@@ -92,7 +92,7 @@ Each of these tabs will be discussed in the following sections.
 
 ![Transaction Tab](./assets/3.28_TransacTab.png)
 
-### Cash Ledger tab
+### 3.5.2.3. Cash Ledger tab
 **Functionality**
 * Provides a running record of historical bills, payments, and outstanding dues for the selected customer.
 
@@ -101,7 +101,7 @@ Each of these tabs will be discussed in the following sections.
 ![Cash Ledger Tab](./assets/3.29_CashLedgerTab.png)
 
 
-### Security Deposit Ledger tab
+### 3.5.2.4. Security Deposit Ledger tab
 **Functionality**
 * Provides a record of security deposits for the selected customer.
 
@@ -109,7 +109,7 @@ Each of these tabs will be discussed in the following sections.
 
 ![Security Deposit Ledger tab](./assets/3.30_SecDepositLedTab.png)
 
-### Meter Reading Ledger tab
+### 3.5.2.5. Meter Reading Ledger tab
 **Functionality**
 * A chronological list of the customer’s energy meter readings.
 * Only applies to metered customers.
@@ -119,7 +119,7 @@ Each of these tabs will be discussed in the following sections.
 ![Meter Reading Ledger tab](./assets/3.31_MeterReadLedTab.png)
 
 
-### Service tab
+### 3.5.2.6. Service tab
 **Functionality**
 * Provides a record of the service requests made by the customer, and the response by the field team.
 
@@ -128,7 +128,7 @@ Each of these tabs will be discussed in the following sections.
 ![Service tab](./assets/3.32_ServiceTab.png)
 
 
-## Receivable
+## 3.5.3. Receivable
 **Functionality**
 * The receivables section displays customer balances and allows agents to register payments.
 
@@ -136,7 +136,7 @@ Each of these tabs will be discussed in the following sections.
 
 This page is also accessible from the Main Menu. More details can be found in Section 3.4.6.
 
-## Consumer List
+## 3.5.4. Consumer List
 **Functionality**
 * The Consumer List displays the current number of active and inactive customers at each plant.
 * After selecting a particular plant, the user is shown the list of customers, along with records of unpaid bills.
@@ -179,7 +179,7 @@ This page is also accessible from the Main Menu. More details can be found in Se
 ![Consumer List Details Part2](./assets/3.35_ConsumerListDet2.png)
 
 
-### Consumer Status
+## 3.5.5. Consumer Status
 **Functionality**
 * The Consumer Status section tracks progress towards connecting customers to the distribution network.
 * Division of installation status is made into 4 parts namely – At Pole, House wire, Service Wire and Review
@@ -217,7 +217,7 @@ This page is also accessible from the Main Menu. More details can be found in Se
 ![Consumer Status Trend](./assets/3.37_ConsumerStatTrend.png)
 
 
-## Consumer Activity
+## 3.5.6. Consumer Activity
 **Functionality**
 * Provides an interface for deactivating and reactivating customer electricity connections.
 * Changes undergo a chain of approval before they are accepted.
@@ -259,22 +259,22 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 |---|---|---|---|
 |Register a customer for de-/re-activation|List of customers whose connection requires attention|Confirming the action has been completed| Historical list of all customer de-/re-activation details|
 
-### Request tab
+### 3.5.6.1. Request tab
 ![Consumer Activity](./assets/3.38_ConsumerActivity.png)
 
 ![Consumer Activity](./assets/3.39_ConsumerActSum.png)
 
-### In Process tab
+### 3.5.6.2. In Process tab
 ![In Process tab](./assets/3.40_InProcessTab.png)
 
-### Review tab
+### 3.5.6.2. Review tab
 ![Review tab](./assets/3.41_ReviewTab.png)
 
-### Completed tab
+### 3.5.6.4. Completed tab
 ![Completed tab](./assets/3.42_CompletedTab.png)
 
 
-## Consumer Service
+## 3.5.7. Consumer Service
 **Functionality**
 * View existing customer service requests—both technical and non-technical--at different stages of completion
 * Add new service requests
@@ -316,18 +316,18 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 |---|---|---|
 |Overview statistics on completed and pending service requests| Detailed list of pending requests and personnel assignments| Record of all completed requests|
 
-### Report tab
+### 3.5.7.1. Report tab
 ![Report tab](./assets/3.43_ReportTab1.png)
 
 ![Report tab](./assets/3.44_ReportTab2.png)
 
-### Request tab
+### 3.5.7.2. Request tab
 ![Request tab](./assets/3.45_RequestTab.png)
 
-### Completed tab
+### 3.5.7.3. Completed tab
 ![Completed tab](./assets/3.46_CompletedTab.png)
 
-## Temporary Disconnect
+## 3.5.8. Temporary Disconnect
 **Functionality**
 * Allows a user to remotely disconnect the supply of particular customers
 * This functionality is only available for TaraUrja users
@@ -355,7 +355,7 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 ![Temporary Disconnect](./assets/3.47_TemporaryDisconnect.png)
 
 
-## Add Consumer
+## 3.5.9. Add Consumer
 **Functionality**
 * Create a new customer account in the MCOMS system
 
@@ -391,7 +391,7 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 **Page Details**
 ![Add Consumer](./assets/3.48_AddConsumer.png)
 
-## Add Instant Consumer
+## 3.5.10. Add Instant Consumer
 **Functionality**
 * Quickly create a new customer account in the MCOMS system, with only critical information recorded
 * This functionality is only available for TaraUrja users
@@ -423,7 +423,7 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 **Page Details**
 ![Add Instant Consumer](./assets/3.49_AddInstantConsumer.png)
 
-## Catchment Survey
+## 3.5.11. Catchment Survey
 **Functionality**
 * The Catchment Survey Section showcases an overview of all the customers and potential customers present at a plant
 * The ‘catchment’ created intends to assist in reviewing customer behaviour over a period of time
@@ -467,7 +467,7 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 
 ![Catchment Survey](./assets/3.53_CatchmentSurvey3.png)
 
-## Theft Complaint
+## 3.5.12. Theft Complaint
 **Functionality**
 * Used to register possible pilferage from the mini-grid, for follow-up investigation
 * This functionality is only available for HCLF users
@@ -507,21 +507,21 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 |---|---|---|
 | The theft reports that are reported| Theft reports that are currently being investigated| Theft reports that have been appropriately dealt with|
 
-### Pending tab
+### 3.5.12.1. Pending tab
 ![Pending tab](./assets/3.54_TheftComplaint.png)
 
 ![Pending tab](./assets/3.55_TheftComplaintSumm.png)
 
 ![Pending tab](./assets/3.56_NewTheftRequest.png)
 
-### In Process tab
+### 3.5.12.2. In Process tab
 ![In Process tab](./assets/3.57_TheftComplain1.png)
 
 
-### Completed tab
+### 3.5.12.3. Completed tab
 ![Completed tab](./assets/3.58_TheftComplain2.png)
 
-## Coupon Discount
+## 3.5.13. Coupon Discount
 **Functionality**
 * Allows plant personnel to generate coupons for customers
 * Tracks the number of redeemed coupons

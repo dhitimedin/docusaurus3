@@ -1,10 +1,10 @@
 ---
 id: Home_Screen
-title: Home Screen
+title: 3.3. Home Screen
 sidebar_label: Home Screen
 ---
 
-### Overview
+## 3.3.1. Overview
 * The Home Screen is the first page the user views upon logging in.
 * The various functionalities of the application are accessible via the circular module icons.
 * These icons are organised under several headings for ease of navigation, see the figure
@@ -14,7 +14,7 @@ sidebar_label: Home Screen
 ##### FIGURE: FIELD AGENT APP SECTION HEADINGS.
 ![FIELD AGENT APP SECTION HEADINGS](./assets/3.5_AppSecHeadings.svg)
 
-### Pop-up Notifications
+## 3.3.2. Pop-up Notifications
 **Functionality**
 * Upon logging in, the user may see one or more automatic pop-ups.
 * These pop-ups notify the user about outstanding tasks which require attention.
@@ -36,7 +36,7 @@ The main types of pop-up notifications are elaborated below.
 
 ![Consumption Data Reminder](./assets/3.9_ConsDataReminder.png) 
 
-### Notifications Icon
+## 3.3.3. Notifications Icon
 **Functionality**
 * Shows the number of active Customer Service Requests and Meter Release Requests.
 * Tapping navigates to a detailed list of requests.

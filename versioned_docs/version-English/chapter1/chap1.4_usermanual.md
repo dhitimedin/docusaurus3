@@ -1,6 +1,6 @@
 ---
 id: Organisation_of_this_User_Manual
-title: Organisation of this User Manual
+title: 1.4. Organisation of this User Manual
 sidebar_label: Organisation of this User Manual
 ---
 

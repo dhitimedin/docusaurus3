@@ -1,6 +1,6 @@
 ---
 id: FAQ
-title: FAQ
+title: 3.11. FAQ
 sidebar_label: Frequently Asked Questions
 ---
 

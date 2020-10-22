@@ -1,6 +1,6 @@
 ---
 id: Installation_and_Setup
-title: Installation and Setup
+title: 3.2. Installation and Setup
 sidebar_label: Installation and Setup
 ---
 

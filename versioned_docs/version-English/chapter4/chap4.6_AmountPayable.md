@@ -1,6 +1,6 @@
 ---
 id: Amount_Payable
-title: Amount Payable
+title: 4.6. Amount Payable
 sidebar_label: Amount Payable
 ---
 

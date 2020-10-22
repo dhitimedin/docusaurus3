@@ -1,6 +1,6 @@
 ---
 id: Profile
-title: Profile
+title: 4.5. Profile
 sidebar_label: Profile
 ---
 
@@ -13,7 +13,7 @@ sidebar_label: Profile
 | Consists of profile details of the consumer| Chronological list of individual payments| Chronological record of energy consumption|
 
 
-## Profile
+## 4.5.1. Profile
 **Functionality**
 * The Profile section contains important profile information of the user
 
@@ -22,7 +22,7 @@ sidebar_label: Profile
 ![Profile](./assets/4.10_Profile.png)
 
 
-## Payments
+## 4.5.2. Payments
 **Functionality**
 * The Payments page gives a chronological record of bills issued to the customer, and payments they have made
 
@@ -31,7 +31,7 @@ sidebar_label: Profile
 ![Payments](./assets/4.11_Payments.png)
 
 
-## Meter Readings
+## 4.5.3. Meter Readings
 **Functionality**
 * The Meter Reading page give a chronological list of the customer’s energy consumption.
 * The frequency of meter readings will vary depending on their connection type.

@@ -1,6 +1,6 @@
 ---
 id: Installation_and_Setup
-title: Installation and Setup
+title: 4.2. Installation and Setup
 sidebar_label: Installation and Setup
 ---
 
@@ -17,7 +17,7 @@ sidebar_label: Installation and Setup
 	![Set Up Prompt](./assets/4.3_SetupPrompt.svg)
 
 
-## New Connection Request
+## 4.2.1. New Connection Request
 **Functionality**
 * Allows the app user to register a request for a new connection or account
 * This can be done for the user or on behalf of another
@@ -31,7 +31,7 @@ sidebar_label: Installation and Setup
 ![New Connection](./assets/4.6_NewConnectOthers.png)
 
 
-## Login
+## 4.2.2. Login
 **Functionality**
 *The login page allows existing users to securely access their account.
 

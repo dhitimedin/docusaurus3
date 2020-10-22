@@ -1,6 +1,6 @@
 ---
 id: Schemes_and_Offers
-title: Schemes and Offers
+title: 4.11. Schemes and Offers
 sidebar_label: Schemes and Offers
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: Dashboard
-title: Dashboard
+title: 4.3. Dashboard
 sidebar_label: Dashboard
 ---
 

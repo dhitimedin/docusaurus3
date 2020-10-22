@@ -1,6 +1,6 @@
 ---
 id: Main_Menu
-title: Main Menu
+title: 4.4. Main Menu
 sidebar_label: Main Menu
 ---
 

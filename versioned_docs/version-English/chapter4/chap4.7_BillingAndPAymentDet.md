@@ -1,6 +1,6 @@
 ---
 id: Billing_and_Payment_Detail
-title: Billing and Payment Detail
+title: 4.7. Billing and Payment Detail
 sidebar_label: Billing and Payment Detail
 ---
 

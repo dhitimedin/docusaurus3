@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="250"/>
-<br/> <br/>
+<br></br>
 
 > 1. **Notification icon** (The bell shaped icon)is explained in Section 3.3.3
 > 2. **Main Menu** (three horizontal lines) is explained in section 3.4
@@ -29,7 +29,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 
-<br/><br/>
+<br clear="both"/>
 
 ##### चित्र फील्ड एजेंट ऐप के सेक्शन का हैडिंग
 ![FIELD AGENT APP SECTION HEADINGS](./assets/3.5_AppSecHeadings.svg)

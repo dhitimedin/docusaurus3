@@ -20,8 +20,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <br/>
 <br/>
 
-> 1. **Main Menu icon** (See Section 0)
-> 2. **Status of the consumer: either active or inactive**
+> 1. ** मुख्य आइकन आइकन ** (See Section 0)
+> 2. ** उपभोक्ता की स्थिति: सक्रिय या निष्क्रिय **
 
 <br/><br/>
 

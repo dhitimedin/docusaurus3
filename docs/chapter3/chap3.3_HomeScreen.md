@@ -11,25 +11,28 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * इनके आइकॉन को कंज़्यूमर, पैकेज, स्कीम आदि हेडिंग के अंतर्गत रखा गया है।नीचे दिया गया चित्र देखें
 
 
-<br clear="right"/>
+<!-- <br clear="right"/>
+
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="250"/>
-<br></br>
+<br/><br/>
+
+> 1. **Notification icon** (The bell shaped icon)is explained in Section 3.3.3
+> 2. **Main Menu** (three horizontal lines) is explained in section 3.4
+> 3. **Module icons** to access various app functionalities; icons are categorized under heading Consumer, Package and Scheme, etc.
+
+![Home Screen](./assets/3.4_HomScreen.png) 
+<br clear="both"/> -->
+
+![Home Screen](./assets/3.3_1_HomeScreen.png) 
 
 > 1. **Notification icon** (The bell shaped icon)is explained in Section 3.3.3
 > 2. **Main Menu** (three horizontal lines) is explained in section 3.4
 > 3. **Module icons** to access various app functionalities; icons are categorized under heading Consumer, Package and Scheme, etc.
 
 
-<!--
-
-![Home Screen](./assets/3.4_HomScreen.png) 
-
-
--->
 
 
 
-<br clear="both"/>
 
 ##### चित्र फील्ड एजेंट ऐप के सेक्शन का हैडिंग
 ![FIELD AGENT APP SECTION HEADINGS](./assets/3.5_AppSecHeadings.svg)

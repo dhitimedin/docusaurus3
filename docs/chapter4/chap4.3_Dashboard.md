@@ -11,16 +11,17 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 **पेज के डिटेल**
 <!--
-![Dashboard](./assets/4.8.2_Dashboard.svg)
+![Dashboard](./assets/4.3_Dashboard.png)
+
 -->
 <br clear="right"/>
-<img align="left" src={useBaseUrl("/assets/4.3_Dashboard.png")} alt="Dashboard" />
+
+<img align="left" src={useBaseUrl("img/scrnshts/4.3_Dashboard.png")} alt="Dashboard" />
 <br/>
 <br/>
 
 > 1. **Main Menu icon** (See Section 0)
 > 2. **Status of the consumer: either active or inactive**
-
 
 <br/><br/>
 

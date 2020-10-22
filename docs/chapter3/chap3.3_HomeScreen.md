@@ -3,13 +3,33 @@ id: Home_Screen
 title: 3.3. होम स्क्रीन
 sidebar_label: होम स्क्रीन
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## 3.3.1. एक नजर (ओवरव्यू)
 * लॉग-इन करने के बाद यूज़र के सामने सबसे पहले होम स्क्रीन आता है। 
 * एप्लीकेशन की अलग-अलग फंक्शनलिटी तक सर्क्युलर मॉड्यूल के जरिए पहुँचा जा सकता है।
 * इनके आइकॉन को कंज़्यूमर, पैकेज, स्कीम आदि हेडिंग के अंतर्गत रखा गया है।नीचे दिया गया चित्र देखें
 
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="250"/>
+<br/> <br/>
+
+> 1. **Notification icon** (The bell shaped icon)is explained in Section 3.3.3
+> 2. **Main Menu** (three horizontal lines) is explained in section 3.4
+> 3. **Module icons** to access various app functionalities; icons are categorized under heading Consumer, Package and Scheme, etc.
+
+
+<!--
+
 ![Home Screen](./assets/3.4_HomScreen.png) 
+
+
+-->
+
+
+
+<br/><br/>
 
 ##### चित्र फील्ड एजेंट ऐप के सेक्शन का हैडिंग
 ![FIELD AGENT APP SECTION HEADINGS](./assets/3.5_AppSecHeadings.svg)

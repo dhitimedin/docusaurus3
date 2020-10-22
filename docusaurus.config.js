@@ -17,16 +17,19 @@ module.exports = {
       },
       hideOnScroll: true,      
       items: [
-          {
-            activeBaseRegex: 'hi',
-            prependBaseUrlToHref: 'true',  
-          },
-        /*{
-          to: 'docs/',
+        {
+          to: '/',
           //activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
+        {
+          to: 'tutorial/',
+          activeBasePath: 'tutorial',
+          label: 'Admin',
+          position: 'left',
+        },        
+        /*
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -96,7 +99,7 @@ module.exports = {
           ],
         },
       ],*/
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Smart Power India (Powered by The Rockefeller Foundation).`,
     },
   },
   plugins: [
@@ -148,6 +151,10 @@ module.exports = {
             }, 
           },    
         },
+/*        tutorial: {
+            path: './docs/tutorial',
+            sidebarPath: require.resolve('./sidebars.js'),
+        },*/
         blog: {
           showReadingTime: true,
           // Please change this to your repo.

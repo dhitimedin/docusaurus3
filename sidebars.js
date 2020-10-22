@@ -7,4 +7,7 @@ module.exports = {
     'ग्राहक एप्प': ['chapter4/Introduction','chapter4/Installation_and_Setup', 'chapter4/Dashboard', 'chapter4/Main_Menu', 'chapter4/Profile','chapter4/Amount_Payable','chapter4/Billing_and_Payment_Detail','chapter4/Package_Change_Request', 'chapter4/Service_Request', 'chapter4/Notification', 'chapter4/Schemes_and_Offers', 'chapter4/FAQ'],
     'शब्दकोष': ['glssry'],
   },
+  Admin: {
+    'Edit Website': ['admin/doc1','admin/doc2','admin/doc3'],
+  }  
 };

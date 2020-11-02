@@ -23,13 +23,12 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {
+        /*{
           to: 'tutorial/',
           activeBasePath: 'tutorial',
           label: 'Admin',
           position: 'left',
         },        
-        /*
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',

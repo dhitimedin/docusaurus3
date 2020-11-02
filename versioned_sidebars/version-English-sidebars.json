@@ -18,6 +18,10 @@
       "items": [
         {
           "type": "doc",
+          "id": "version-English/chapter1/blank"
+        },                
+        {
+          "type": "doc",
           "id": "version-English/chapter1/Mini-grid_Operational_Challenges"
         },
         {
@@ -39,6 +43,10 @@
       "type": "category",
       "label": "Operations and Their Workflows",
       "items": [
+        {
+          "type": "doc",
+          "id": "version-English/chapter2/blank"
+        },                
         {
           "type": "doc",
           "id": "version-English/chapter2/Introduction_to_Mini-grid_Operational_Activities"
@@ -66,6 +74,10 @@
       "type": "category",
       "label": "Field Agent App",
       "items": [
+        {
+          "type": "doc",
+          "id": "version-English/chapter3/blank"
+        },                
         {
           "type": "doc",
           "id": "version-English/chapter3/introduction"
@@ -117,6 +129,10 @@
       "type": "category",
       "label": "Customer App",
       "items": [
+        {
+          "type": "doc",
+          "id": "version-English/chapter4/blank"
+        },                
         {
           "type": "doc",
           "id": "version-English/chapter4/Introduction"

@@ -20,7 +20,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2. **Main Menu** (three horizontal lines) is explained in section 3.4
 > 3. **Module icons** to access various app functionalities; icons are categorized under heading Consumer, Package and Scheme, etc.
 
-![Home Screen](./assets/3.4_HomScreen.png) 
 <br clear="both"/> -->
 
 ![Home Screen](./assets/3.3_1_HomeScreen.png) 

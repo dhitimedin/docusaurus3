@@ -11,23 +11,23 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * इनके आइकॉन को कंज़्यूमर, पैकेज, स्कीम आदि हेडिंग के अंतर्गत रखा गया है।नीचे दिया गया चित्र देखें
 
 
-<!-- <br clear="right"/>
+<br clear="right"/>
 
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="250"/>
 <br/><br/>
-
-> 1. **Notification icon** (The bell shaped icon)is explained in Section 3.3.3
-> 2. **Main Menu** (three horizontal lines) is explained in section 3.4
-> 3. **Module icons** to access various app functionalities; icons are categorized under heading Consumer, Package and Scheme, etc.
-
-<br clear="both"/> -->
-
-![Home Screen](./assets/3.3_1_HomeScreen.png) 
 
 > 1. ** अधिसूचना आइकन ** (घंटी के आकार का आइकन) 3.3.3 अनुभाग में समझाया गया है 
 > 2. ** मुख्य मेनू ** (तीन क्षैतिज रेखाएं) अनुभाग 3.4 में समझाया गया है
 > 3. ** मॉड्यूल आइकन ** विभिन्न एप्लिकेशन कार्यात्मकताओं का उपयोग करने के लिए; शीर्षकों को उपभोक्ता, पैकेज और योजना आदि के अंतर्गत वर्गीकृत किया जाता है।
 
+<br clear="both"/>
+
+<!-- ![Home Screen](./assets/3.3_1_HomeScreen.png) 
+
+> 1. ** अधिसूचना आइकन ** (घंटी के आकार का आइकन) 3.3.3 अनुभाग में समझाया गया है 
+> 2. ** मुख्य मेनू ** (तीन क्षैतिज रेखाएं) अनुभाग 3.4 में समझाया गया है
+> 3. ** मॉड्यूल आइकन ** विभिन्न एप्लिकेशन कार्यात्मकताओं का उपयोग करने के लिए; शीर्षकों को उपभोक्ता, पैकेज और योजना आदि के अंतर्गत वर्गीकृत किया जाता है।
+-->
 
 
 
@@ -50,6 +50,20 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 | प्लांट मेंटेनेंस रिमाइंडर|जनरेशन एरर| खपत डेटा अनुस्मारक | जनरेशन डेटा रिमाइंडर |
 |--|--|--|--|
 | विभिन्न संयंत्रों में तकनीकी सर्विसिंग मुद्दों पर चिंता | उपयोगकर्ताओं को सौर पीढ़ी में विसंगतियों के लिए सचेत करें | अपूर्ण उपभोग डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है | अपूर्ण पीढ़ी डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है |
+
+<br clear="right"/>
+
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_2_PlantMaintenance.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+> **संयंत्र रखरखाव अनुस्मारक**
+> 1. ** रखरखाव वस्तुओं की सूची ** ध्यान देने की जरूरत है कि विभिन्न सेवा मुद्दों की गणना करता है
+> 2. ** संयंत्र की सूची ** जिसमें विशेष सेवा की आवश्यकता होती है
+> 3. ** पॉप-अप को बंद करने के लिए ** ok टैप करें
+
+<br clear="both"/>
+
+
 
 ![Plant Maintenance Reminder](./assets/3.6_PlantMaintenanceRemind.png)
 

@@ -186,8 +186,12 @@
     {
       "collapsed": true,
       "type": "category",
-      "label": "Glossary",
+      "label": "Appendices",
       "items": [
+        {
+          "type": "doc",
+          "id": "version-English/appendices"
+        },                
         {
           "type": "doc",
           "id": "version-English/glssry"

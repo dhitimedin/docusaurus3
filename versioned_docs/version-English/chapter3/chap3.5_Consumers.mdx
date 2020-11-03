@@ -4,6 +4,8 @@ title: 3.5. Consumers
 sidebar_label: Consumers
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## 3.5.1. Overview
 ![Consumer Screen Key Functionalities](./assets/3.25_ConsuKeyFunc.svg)
 <br/>
@@ -81,7 +83,27 @@ Each of these tabs will be discussed in the following sections.
 
 **Page Details**
 
-![Profile Tab](./assets/3.27_ProfileTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.2.1_1_ProfileTab.png")} alt="Profile Tab" width="250"/>
+
+1.  **Navigation Bar** indicates the current tab and allows switching between tabs
+
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+ 
+2.  **Pencil Icon** for editing selected details
+3.  **Master Information** gives basic information about the customer background and relationship with the company
+4.  **Print Profile Detail** tapping will send the page to a connected printer
+5.  **Mobile** shows the registered mobile number; tapping the phone icon starts a call
+6.  **Outstanding** details, the aggregate payment due for all services
+7.  **Package** details the customer’s electricity package, including fees, load limit, and unit rates
+8.  **Schemes** contains information on any promotions in which the customer is participating, including EMI arrangements
+
+<br clear="both"/>
+<img src={useBaseUrl("img/scrnshts/3.5.2.1_2_ProfileTab.png")} alt="Profile Tab"/>
+<br></br><br></br>
+
+<!-- ![Profile Tab](./assets/3.27_ProfileTab.png) -->
+Edits must be confirmed via an OTP from the customer.
 
 ### 3.5.2.2. Transaction tab
 **Functionality**
@@ -90,7 +112,19 @@ Each of these tabs will be discussed in the following sections.
 
 **Page Details**
 
-![Transaction Tab](./assets/3.28_TransacTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.2.2_TransactionTab.png")} alt="Transaction Tab" width="250"/>
+<br></br><br></br><br></br>
+
+1.  **Print Icon** to print a receipt, or, if not printer is connected, take a shareable screenshot
+2.  **List of Payments** in chronological order, along with other relevant data
+3.  **Navigation Bar** used swipe right across different panels of the account details
+
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+
+<br clear="both"/>
+
+<!-- ![Transaction Tab](./assets/3.28_TransacTab.png) -->
 
 ### 3.5.2.3. Cash Ledger tab
 **Functionality**
@@ -98,7 +132,17 @@ Each of these tabs will be discussed in the following sections.
 
 **Page Details**
 
-![Cash Ledger Tab](./assets/3.29_CashLedgerTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.2.3_CashLedgeTab.png")} alt="Cash Ledger Tab" width="250"/>
+<br></br><br></br><br></br>
+
+1.  **List of Transactions** including bills and payments/credits, along with the cumulative balance owed by the customer
+2.  **Navigation Bar** indicates the current tab and allows switching between tabs
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+
+<br clear="both"/>
+
+<!-- ![Cash Ledger Tab](./assets/3.29_CashLedgerTab.png)  -->
 
 
 ### 3.5.2.4. Security Deposit Ledger tab
@@ -107,7 +151,18 @@ Each of these tabs will be discussed in the following sections.
 
 **Page Details**
 
-![Security Deposit Ledger tab](./assets/3.30_SecDepositLedTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.2.4_SecurityDepositLedgerTab.png")} alt="Security Deposit Ledger tab" width="250"/>
+<br></br><br></br><br></br>
+
+1.  **List of Transactions** including bills and payments/credits, along with the cumulative balance owed by the customer
+2.  **Navigation Bar** indicates the current tab and allows switching between tabs
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+
+
+<br clear="both"/>
+
+<!-- ![Security Deposit Ledger tab](./assets/3.30_SecDepositLedTab.png) -->
 
 ### 3.5.2.5. Meter Reading Ledger tab
 **Functionality**
@@ -116,7 +171,22 @@ Each of these tabs will be discussed in the following sections.
 
 **Page Details**
 
-![Meter Reading Ledger tab](./assets/3.31_MeterReadLedTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.2.5_MeterReadingLedgerTab.png")} alt="Meter Reading Ledger tab" width="250"/>
+
+1.  **Meter Number Panel** is a drop-down list of meters associated with the customer
+2.  **Daily Meter Readings** gives you important detail such as:
+    * Date of the reading
+    * Customer's electricity package
+    * Meter reading (kWh)
+    * Units consumed since the last reading (kWh)
+3.  **Navigation Bar** indicates the current tab and allows switching between tabs
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+
+
+<br clear="both"/>
+
+<!-- ![Meter Reading Ledger tab](./assets/3.31_MeterReadLedTab.png) -->
 
 
 ### 3.5.2.6. Service tab
@@ -125,7 +195,19 @@ Each of these tabs will be discussed in the following sections.
 
 **Page Details**
 
-![Service tab](./assets/3.32_ServiceTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.2.6_ServiceTab.png")} alt="Service tab" width="250"/>
+
+1.  **Service Issue** lists details about each service request made by the customer
+2.  **Request Summary** shows the total number of requests, along with a break-down into pending and completed requests of each type. The average turnaround time is also recorded.
+3.  **Search** allows the user to filter the list of requests by typing in specific information
+4.  **Navigation Bar** indicates the current tab and allows switching between tabs
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+
+
+<br clear="both"/>
+
+<!-- ![Service tab](./assets/3.32_ServiceTab.png) -->
 
 
 ## 3.5.3. Receivable
@@ -172,11 +254,50 @@ This page is also accessible from the Main Menu. More details can be found in Se
 
 **Page Details**
 
-![Consumer List](./assets/3.33_ConsumerList.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.4_ConsumerList.png")} alt="Consumer List" width="250"/>
+
+1.  **List of Plants** showing the number of banned, active and total customers in every plant
+2.  **Green Rows** show total amounts for each cluster of plants
+3.  **Total Bar** shows the sum of each column 
+
+**Tapping any plant will redirect you to the consumer list for that plant, as shown in the next screenshot**
+
+<br clear="both"/>
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.4_2_ConsumerList.png")} alt="Consumer List" width="250"/>
+
+1.  **Individual Customer** shown in each tab along with important information such as:
+    * Customer ID
+    * Package number
+    * Active/banned status
+    * Outstanding amount
+2.  **Search Icon** to filter out the customer list by typing in the name or customer ID
+3.  **Adding Consumer** explained in Section 3.5.9
+
+**Tapping a consumer allows the user to add a transaction, as explained in the next screenshot**
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.4_3_ConsumerList.png")} alt="Consumer List" width="250"/>
+
+Tapping on aconsumer allows the user to choose from three options:
+* Profile — links to account detail which is explained in section 3.5.2
+* Add Transaction — explained below
+* Cancel —returns to the previous page
+1.  **Customer Details** shown with important information
+2.  **Outstanding Value** that displays the total amount of money owed and for which service it was charged
+3.  **Adding Collection** to manually add any payments made by the customer, and for which service
+4.  **Review Tab** to finalise the transaction
+
+<br clear="both"/>
+
+<!-- ![Consumer List](./assets/3.33_ConsumerList.png)
 
 ![Consumer List Details Part1](./assets/3.34_ConsumerListDet1.png)
 
-![Consumer List Details Part2](./assets/3.35_ConsumerListDet2.png)
+![Consumer List Details Part2](./assets/3.35_ConsumerListDet2.png) -->
 
 
 ## 3.5.5. Consumer Status
@@ -212,9 +333,37 @@ This page is also accessible from the Main Menu. More details can be found in Se
 
 **Page Details**
 
-![Consumer Status Summary](./assets/3.36_ConsumerStatus.png)
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.5_1_ConsumerStatus.png")} alt="Consumer Status Summary" width="250"/>
+<br></br><br></br>
 
-![Consumer Status Trend](./assets/3.37_ConsumerStatTrend.png)
+1.  **Filter Bar** gives options for displaying results either cluster-wise or NTP-wise
+2.  **List of Plants** with number of customers at each stage of connection
+3.  **Total Bar** aggregates over plants
+4.  **Information Icon** redirects to the Customer Status Trend page, explained in the next screenshot
+
+<br clear="both"/>
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.5_2_ConsumerStatus.png")} alt="Consumer Status Trend" width="250"/>
+<br></br><br></br>
+
+**Tapping on the information icon redirects to the Customer Status Trend page**
+
+1.  **Filter Bar** modifies result display according to:
+    * Cluster/NTP wise
+    * Month and Year
+    * Acquired/Active
+2.  **List of Plants** with the number of new active customers over four months
+3.  **Total Bar** aggregates over plants
+
+<br clear="both"/>
+
+<!-- ![Consumer Status Summary](./assets/3.36_ConsumerStatus.png)
+
+![Consumer Status Trend](./assets/3.37_ConsumerStatTrend.png) -->
 
 
 ## 3.5.6. Consumer Activity

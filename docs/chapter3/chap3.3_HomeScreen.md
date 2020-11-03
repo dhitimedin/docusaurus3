@@ -56,22 +56,53 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_2_PlantMaintenance.png")} alt="Home Screen" width="250"/>
 <br/><br/><br></br>
 
-> **संयंत्र रखरखाव अनुस्मारक**
+> ***संयंत्र रखरखाव अनुस्मारक***
 > 1. ** रखरखाव वस्तुओं की सूची ** ध्यान देने की जरूरत है कि विभिन्न सेवा मुद्दों की गणना करता है
 > 2. ** संयंत्र की सूची ** जिसमें विशेष सेवा की आवश्यकता होती है
 > 3. ** पॉप-अप को बंद करने के लिए ** ok टैप करें
 
 <br clear="both"/>
 
+<br clear="right"/>
 
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_3_GenerationError.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
 
-![Plant Maintenance Reminder](./assets/3.6_PlantMaintenanceRemind.png)
+> *** जनरेशन एरर ***
+> 1. ** प्लांट की सूची ** विशिष्ट सौर सरणियों / MPPT को बढ़ाता है जो विभिन्न मिनीग्रिड्स में अविकसित हैं
+> 2. ** पॉप-अप को बंद करने के लिए ** ok टैप करें
 
-![Generation Error](./assets/3.7_GenError.png) 
+<br clear="both"/>
+
+<br clear="right"/>
+
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_4_GenerationDataReminder.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+> *** जनरेशन डेटा अनुस्मारक ***
+> 1. ** प्लांट और डेट्स की सूची ** जिसके लिए उत्पादन डेटा गायब है
+> 2. ** पॉप-अप को बंद करने के लिए ** ok टैप करें
+
+<br clear="both"/>
+
+<br clear="right"/>
+
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_5_ConsumptionDataReminder.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+> *** खपत डेटा अनुस्मारक ***
+> 1. ** संयंत्र और तारीखों की सूची ** जिसके लिए प्रेषण डेटा गायब है
+> 2. ** पॉप-अप को बंद करने के लिए ** ok टैप करें
+
+<br clear="both"/>
+
+<!-- ![Plant Maintenance Reminder](./assets/3.6_PlantMaintenanceRemind.png)
+
+![Generation Error](./assets/3.7_GenError.png)
 
 ![Generation Data Reminder](./assets/3.8_GenDataRemind.png) 
 
-![Consumption Data Reminder](./assets/3.9_ConsDataReminder.png) 
+![Consumption Data Reminder](./assets/3.9_ConsDataReminder.png) -->
 
 ## 3.3.3. सूचनाओं के (नोटिफिकेशन्स) आइकॉन
 **फंक्शनलिटी**
@@ -80,5 +111,15 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * ज्यादातर पेज पर यह आइकॉन रखा गया है।
 
 **पेज के डिटेल**
-![Page Details](./assets/3.10_PageDetails.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_6_NotificationIcon.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+> 1. ** अधिसूचना चिह्न: ** लंबित अनुरोधों की कुल संख्या दर्शाता है; आइकन को टैप करने से निम्नलिखित विकल्प प्रस्तुत होते हैं
+> 2. ** ग्राहक सेवा अनुरोध ** टैप किए जाने पर सेवा अनुरोध अनुभाग में अनुप्रेषित (Section 3.5.7)
+> 3. ** मीटर रिलीज़ अनुरोध ** अप्रयुक्त मीटर सेक्शन पर अनुप्रेषित करता है जब टैप किया जाता है (Section 3.8.3)
+
+<br clear="both"/>
+
+<!-- ![Page Details](./assets/3.10_PageDetails.png) -->
 

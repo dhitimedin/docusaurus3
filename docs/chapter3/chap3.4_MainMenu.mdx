@@ -3,6 +3,18 @@ id: Main_Menu
 title: 3.4 मुख्य मेन्यू
 sidebar_label: मुख्य मेन्यू
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      borderRadius: '2px',
+      color: color,
+      padding: '0.2rem',
+      fontWeight: 'bold',
+    }}>
+    {children}
+  </span>
+);
 
 ## 3.4.1. एक नजर (ओवरव्यू)
 * मुख्य मेन्यू में खास-खास सेक्शन तक जाने के शॉर्टकट नीचे बताए अनुसार दिए गए हैं।
@@ -52,22 +64,74 @@ sidebar_label: मुख्य मेन्यू
 </table>
 
 **पेज के डिटेल**
-![Page Details](./assets/3.14_PageDetails.png)
-![Page Details](./assets/3.15_PageDetails2.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4_3_1_Dashboard.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+> 1. ** कुल बिलिंग ** को Section 3.4.3.1 में समझाया गया है
+> 2. ** कुल संचय ** अनुभाग 3.4.3.2 में समझाया गया है
+> 3. **Amounts** billed and collected for various services
+> 4. ** एक विशिष्ट संयंत्र और / या समय अंतराल का चयन करने के लिए ** फ़िल्टर करें
+
+<br clear="both"/>
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4_3_2_Dashboard.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+> 5. ** संग्रह विस्तार ** विवरण संग्रह कैसे बनाया गया है:
+>       - पीओएस - एक क्षेत्र एजेंट द्वारा व्यक्ति में एकत्रित
+>       - वॉलेट - एक इलेक्ट्रॉनिक वॉलेट के माध्यम से भुगतान
+>       - कैश कार्ड - नकद / डेबिट कार्ड के माध्यम से भुगतान
+> 6. ** कुल संचय ** अनुभाग 3.4.3.2 में समझाया गया है
+
+<br clear="both"/>
+
+
+<!-- ![Page Details](./assets/3.14_PageDetails.png)
+
+![Page Details](./assets/3.15_PageDetails2.png) -->
 
 ### 3.4.3.1. बिल की कुल राशि (टोटल बिलिंग)
 **फंक्शनलिटी**
 * टोटल बिलिंग पेज में हर साइट से प्राप्त राजस्व (रेवेन्यू) का सारांश दिया गया है।
 
 **पेज के डिटेल**
-![Page Details](./assets/3.16_PageDetails3.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4_3_3_TotalBilling.png")} alt="Total Billing" width="250"/>
+
+1. ** प्रत्येक कारख़ाना का सारणीबद्ध डेटा ** यहाँ वर्णित है। स्तंभ डेटा में शामिल हैं:
+    * प्रीपेड ग्राहकों को दी जाने वाली राशि
+    * पोस्ट-पेड ग्राहकों को दी जाने वाली राशि
+    * कुल सभी ग्राहकों के लिए बिल की गई राशि
+    * ग्राहकों का प्रतिशत जो बिल किया गया था
+
+एरो रेवेन्यू में मासिक परिवर्तन का संकेत देता है:
+* <Highlight color="#FF0000"> ↓ </Highlight> लाल - राजस्व में कमी
+* <Highlight color="#008000"> ↑ </Highlight> हरा - राजस्व में वृद्धि
+2. ** कुल बार ** सभी कारख़ाना के लिए कुल राशि दर्शाता है
+3. ** हरे पंक्ति ** कारख़ाना के प्रत्येक समूह के लिए कुल मात्रा दिखाती हैं
+
+<br clear="both"/>
+
+<!-- ![Page Details](./assets/3.16_PageDetails3.png) -->
 
 ### 3.4.3.2 कुल प्राप्त राशि (टोटल कलेक्शन)
 **फंक्शनलिटी**
 * टोटल कलेक्शन पेज में हर साइट के प्राप्त राशि का सारांश दिया होता है।
 
 **पेज के डिटेल**
-![Page Details](./assets/3.17_PageDetails4.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4.3.2_TotalCollection.png")} alt="Total Collection" width="250"/>
+<br></br><br></br>
+
+1. ** प्रत्येक योजना का सारणीबद्ध डेटा **
+2. ** कुल बार ** सभी कारख़ाना के लिए कुल राशि दिखाता है
+3. ** हरे पंक्ति ** कारख़ाना के प्रत्येक समूह के लिए कुल मात्रा दिखाती हैं
+
+<br clear="both"/>
+
+<!-- ![Page Details](./assets/3.17_PageDetails4.png) -->
 
 ## 3.4.4. कैश रजिस्टर
 **फंक्शनलिटी**
@@ -100,8 +164,20 @@ sidebar_label: मुख्य मेन्यू
 </table>
 
 **पेज के डिटेल**
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4.4_CashRegister.png")} alt="Cash Register" width="250"/>
+<br></br><br></br>
 
-![Page Details](./assets/3.18_PageDetails5.png)
+1. ** फिल्टर बार ** संयंत्र और समय अंतराल का चयन करने के लिए
+2. ** पाई चार्ट ** अलग-अलग सेवाओं से योगदान में कुल संग्रह को विभाजित करता है
+3. प्रत्येक सेवा के लिए एकत्रित राशि का **संख्यात्मक डेटा**
+4. ** खोज बार ** एक ग्राहक को तुरंत पता लगाने के लिए: उपयोगकर्ता नाम या अद्वितीय ग्राहक आईडी टाइप कर सकता है।
+5. ** लेन-देन का विवरण ** सबसे हाल ही में सबसे पहले के साथ, चयनित समय-सीमा में ग्राहकों से एकत्र किए गए भुगतानों की एक सूची प्रस्तुत करते हैं
+6. ग्राहक के खाता पृष्ठ को देखने के लिए किसी भी प्रविष्टि पर **टैप** करें (Section 3.5.2)
+
+<br clear="both"/>
+
+<!-- ![Page Details](./assets/3.18_PageDetails5.png) -->
 
 ## 3.4.5. स्पार्क सर्वर
 **फंक्शनलिटी**

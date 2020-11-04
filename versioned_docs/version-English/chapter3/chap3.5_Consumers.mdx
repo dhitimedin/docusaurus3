@@ -5,6 +5,17 @@ sidebar_label: Consumers
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      borderRadius: '2px',
+      color: color,
+      padding: '0.2rem',
+      fontWeight: 'bold',
+    }}>
+    {children}
+  </span>
+);
 
 ## 3.5.1. Overview
 ![Consumer Screen Key Functionalities](./assets/3.25_ConsuKeyFunc.svg)
@@ -409,18 +420,82 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 |Register a customer for de-/re-activation|List of customers whose connection requires attention|Confirming the action has been completed| Historical list of all customer de-/re-activation details|
 
 ### 3.5.6.1. Request tab
-![Consumer Activity](./assets/3.38_ConsumerActivity.png)
 
-![Consumer Activity](./assets/3.39_ConsumerActSum.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.6.1_1_RequestTab.png")} alt="Request tab" width="250"/>
+
+1.  **Information Icon** redirects to a plant-by-plant break-down of the number of customer de-activations and re-activations, as shown in a subsequent screenshot
+2.  **Add Activity Icon** used to register a customer status change, as explained in the next screenshot
+3.  **Request Tab** gives us more information on the requested customer request, this can be either rejected or approved
+4.  **Navigation Bar** used to navigate between various sections of the section
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.6.1_2_RequestTab.png")} alt="Request tab" width="250"/>
+<br></br>
+
+1.  **Select Plant** dropdown list
+2.  **Activity Type** dropdown list
+3.  **Consumer Number** dropdown list of all eligible / relevant customers 
+Additional comments can be added at this point
+4.  **Submit Button** completes the information submission
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.6.1_3_RequestTab.png")} alt="Request tab" width="250"/>
+<br></br><br></br>
+
+1.  **Filter Bar** used to select a date range
+2.  **List_of plants** showing the number of banned and reactivated customers in the selected time interval
+3.  **Total Bar** sums the values for all plants
+
+<br clear="both"/>
+
+<!-- ![Consumer Activity](./assets/3.38_ConsumerActivity.png)
+
+![Consumer Activity](./assets/3.39_ConsumerActSum.png) -->
 
 ### 3.5.6.2. In Process tab
-![In Process tab](./assets/3.40_InProcessTab.png)
 
-### 3.5.6.2. Review tab
-![Review tab](./assets/3.41_ReviewTab.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.6.2_InProcessTab.png")} alt="In Process tab" width="250"/>
+<br></br><br></br>
+
+1.  **Information Icon** redirects to a plant-by-plant break-down of the number of customer de-activations and re-activations
+2.  **Request Tab** gives us more information on the in process customer request, including who registered the request and who is tasked with dealing with it
+
+The request can be either rejected, re- assigned to a different agent or executed (processed)
+
+<br clear="both"/>
+
+<!-- ![In Process tab](./assets/3.40_InProcessTab.png) -->
+
+### 3.5.6.3. Review tab
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.6.3_ReviewTab.png")} alt="Review tab" width="250"/>
+<br></br><br></br>
+
+1.  **Information Icon** redirects to a plant-by-plant break-down of the number of customer de-activations and re-activations
+2.  **Request Tab** gives us more information on the completed customer request being reviewed, this can be either rejected or marked completed (processed)
+
+<br clear="both"/>
+
+<!-- ![Review tab](./assets/3.41_ReviewTab.png) -->
 
 ### 3.5.6.4. Completed tab
-![Completed tab](./assets/3.42_CompletedTab.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.6.4_CompletedTab.png")} alt="Completed tab" width="250"/>
+<br></br><br></br>
+
+1.  **Information Icon** redirects to a plant-by-plant break-down of the number of customer de-activations and re-activations
+2.  **Request Details** includes information on historical customer requests in the time period in question, including the personnel responsible
+
+<br clear="both"/>
+
+<!-- ![Completed tab](./assets/3.42_CompletedTab.png) -->
 
 
 ## 3.5.7. Consumer Service
@@ -466,15 +541,77 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 |Overview statistics on completed and pending service requests| Detailed list of pending requests and personnel assignments| Record of all completed requests|
 
 ### 3.5.7.1. Report tab
-![Report tab](./assets/3.43_ReportTab1.png)
 
-![Report tab](./assets/3.44_ReportTab2.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.7.1_1_ReportTab.png")} alt="Report tab" width="250"/>
+
+1.  **Navigation Bar** indicates current tabs; user can switch tabs by tapping or swiping horizontally
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+2.  **Filter Bar** for selecting particular plants and changing the time interval
+3.  **Pie Chart** summarises service request numbers:
+    * <Highlight color="#0000FF">Blue</Highlight> — Pending Requests
+    * <Highlight color="#008000">Green</Highlight> —Completed Requests
+4.  **Total Service Request** is the number of requests registered in the selected time-frame
+5.  **Average Completion Time** between the customer registering a request and marking it complete
+6.  **Rating** of customer satisfaction
+7.  **Add Service Requests** icon to register a new request; explained in the next screenshot
+
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.7.1_2_ReportTab.png")} alt="Report tab" width="250"/>
+<br></br>
+
+**Tapping the add service request Icon leads to the new service request page**
+
+1.  **Add Service Information** to input details of the new service request, including
+    * Plant name (dropdown list)
+    * Consumer name
+    * Type of issue
+    * Other comments
+2.  **Submit Icon** tapped when all information is complete
+
+<br clear="both"/>
+
+<!-- ![Report tab](./assets/3.43_ReportTab1.png)
+
+![Report tab](./assets/3.44_ReportTab2.png) -->
 
 ### 3.5.7.2. Request tab
-![Request tab](./assets/3.45_RequestTab.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.7.2_RequestTab.png")} alt="Request tab" width="250"/>
+<br></br>
+
+1.  **Navigation Bar** (same as previous tab)
+2.  **Filter Bar** (same as previous tab)
+3.  **Service Request List** where pending requests are shown chronologically, along with current personnel assignment.
+
+**Complete/Re-assign** Users may manually close the request or assign it to a different agent
+
+Tap an agent’s name to call them
+
+4.  **Add Service Request** (same as previous tab)
+
+<br clear="both"/>
+
+<!-- ![Request tab](./assets/3.45_RequestTab.png)  -->
 
 ### 3.5.7.3. Completed tab
-![Completed tab](./assets/3.46_CompletedTab.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.7.3_CompletedTab.png")} alt="Request tab" width="250"/>
+<br></br>
+
+1.  **Navigation Bar** (same as previous tab)
+2.  **Filter Bar** (same as previous tab)
+3.  **Completed Service Requests** shown chronologically, with specific details including the turnaround time along with the names of each agent handling the request
+4.  **Add Service Request** (same as previous tab)
+5.  **Search Icon** to filter the list according to customer name, field agent name, or any other relevant parameter
+
+<br clear="both"/>
+
+<!-- ![Completed tab](./assets/3.46_CompletedTab.png) -->
 
 ## 3.5.8. Temporary Disconnect
 **Functionality**
@@ -501,7 +638,19 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 </table>
 
 **Page Details**
-![Temporary Disconnect](./assets/3.47_TemporaryDisconnect.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.8_TemporaryDisconnect.png")} alt="Temporary Disconnect" width="250"/>
+<br></br>
+
+1.  **Plant Dropdown** to show customers of a particular plant
+2.  **Plant Master Switch** used to temporarily disconnect all customers of the plant
+3.  **Individual Customer Switch** displaying the customer name, customer ID, package, and meter number, along with the master power switch
+4.  **Search** for specific customers by typing in their name, customer ID, package ID, or meter number
+
+<br clear="both"/>
+
+<!-- ![Temporary Disconnect](./assets/3.47_TemporaryDisconnect.png) -->
 
 
 ## 3.5.9. Add Consumer
@@ -538,7 +687,25 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 </table>
 
 **Page Details**
-![Add Consumer](./assets/3.48_AddConsumer.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.9_1_AddConsumer.png")} alt="Add Consumer" width="250"/>
+
+![App Data Entry](/img/scrnshts/App_DataEntry.png)
+
+1.  **Customer Information** required is specified line by line
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.9_2_AddConsumer.png")} alt="Add Consumer" width="250"/>
+<br></br>
+
+2.  **Customer Information** continues, and includes which package they have selected
+3.  **Next Button** completes the data submission
+
+<br clear="both"/>
+
+<!-- ![Add Consumer](./assets/3.48_AddConsumer.png) -->
 
 ## 3.5.10. Add Instant Consumer
 **Functionality**
@@ -570,7 +737,19 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 </table>
 
 **Page Details**
-![Add Instant Consumer](./assets/3.49_AddInstantConsumer.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.10_AddInstantConsumer.png")} alt="Add Instant Consumer" width="250"/>
+
+![Left Right Nav](/img/scrnshts/App_DataEntry.png)
+
+1.  **Customer Information** to be added includes only the most critical data
+2.  **Confirm** tapped once data has been reviewed for accuracy
+3.  **Submit** tapped to complete the process
+
+<br clear="both"/>
+
+<!-- ![Add Instant Consumer](./assets/3.49_AddInstantConsumer.png) -->
 
 ## 3.5.11. Catchment Survey
 **Functionality**
@@ -608,13 +787,72 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 </table>
 
 **Page Details**
-![Catchment Survey](./assets/3.50_CatchmentSummary.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.11_1_CatchmentSurvey.png")} alt="Catchment Survey" width="250"/>
+
+1.  **Filter Section** to show customer data Cluster Wise or NTP wise
+2.  **List of Plants** shows the segregation between the status under’ which customers have been grouped, plant wise
+3.  **Total Bar** aggregates the columnar data in the tabular column
+
+**Tapping on a particular plant will redirect the user to its consumer list page**
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.11_2_CatchmentSurvey.png")} alt="Catchment Survey" width="250"/>
+
+1.  **Filter Bar** used to narrow down the results
+2.  **List of Consumers** showing their activity status, and whether their profile has been updated / survey administered
+
+The green tick validates the completion
+
+3.  **Update Profile** option will allow the user to update the profile of any consumer (both active customers and others)
+4.  **Tapping** a consumer will allow the user to:
+    * Update Profile
+    * Complete Survey
+
+**Tapping any of these options will redirect you to either the update profile page or he survey page, both of which have been explained in the following screenshots**
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.11_3_CatchmentSurvey.png")} alt="Catchment Survey" width="250"/>
+<br></br><br></br>
+
+**Update Profile**
+
+1.  **Consumer Profile** Information to be filled by the field agent
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.11_4_CatchmentSurvey.png")} alt="Catchment Survey" width="250"/>
+<br></br><br></br><br></br>
+
+2.  **Submit** tapped to complete the update
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.11_5_CatchmentSurvey.png")} alt="Catchment Survey" width="250"/>
+<br></br><br></br><br></br>
+
+The Survey page allows the user to record information about an existing/prospective customer's energy usage needs
+
+1.  **Survey Information** to be filled by the agent
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.11_6_CatchmentSurvey.png")} alt="Catchment Survey" width="250"/>
+<br></br><br></br><br></br>
+
+2.   **Submit** tapped to complete the survey
+
+<br clear="both"/>
+
+<!-- ![Catchment Survey](./assets/3.50_CatchmentSummary.png)
 
 ![Catchment Survey](./assets/3.51_ConsumerList.png)
 
 ![Catchment Survey](./assets/3.52_CatchmentSurvey2.png)
 
-![Catchment Survey](./assets/3.53_CatchmentSurvey3.png)
+![Catchment Survey](./assets/3.53_CatchmentSurvey3.png) -->
 
 ## 3.5.12. Theft Complaint
 **Functionality**
@@ -657,18 +895,75 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 | The theft reports that are reported| Theft reports that are currently being investigated| Theft reports that have been appropriately dealt with|
 
 ### 3.5.12.1. Pending tab
-![Pending tab](./assets/3.54_TheftComplaint.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.12.1_1_PendingTab.png")} alt="Pending tab" width="250"/>
+
+1.  **Information Icon** tapped for plant-wise overview of complaints, as explained in the next screenshot
+2.  **Navigation Bar** indicates the current tab and allows switching between tabs
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+3.  **Filter Bar** allows the user to restrict attention to a specific plant and time frame
+4.  **Complaint Tab** contains relevant information regarding the theft complaint lodged by a user
+5.  **Add Complaint Button** redirects the user to the New Theft Report page, detailed below
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.12.1_2_PendingTab.png")} alt="Pending tab" width="250"/>
+<br></br><br></br>
+
+**Theft Complaint Summary**
+
+1.  **Filter Bar** allows the user to produce results between a given period of time at a plant
+2.  **Tabular Information** on the theft complaints at various plants is shown
+3.  **Total Bar** gives the user a representation of the aggregated columnar data
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.12.1_3_PendingTab.png")} alt="Pending tab" width="250"/>
+
+![Data Entry](/img/scrnshts/App_DataEntry.png)
+
+**New Theft Report**
+
+1.  **Plant Selection** must be made before filling in the form
+2.  **Complaint Information** itemised line by line, including possibility of adding a photograph
+3.  **Submit** completes the registration process
+
+<br clear="both"/>
+
+
+<!-- ![Pending tab](./assets/3.54_TheftComplaint.png)
 
 ![Pending tab](./assets/3.55_TheftComplaintSumm.png)
 
-![Pending tab](./assets/3.56_NewTheftRequest.png)
+![Pending tab](./assets/3.56_NewTheftRequest.png) -->
 
 ### 3.5.12.2. In Process tab
-![In Process tab](./assets/3.57_TheftComplain1.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.12.2_InProcessTab.png")} alt="In Process tab" width="250"/>
+<br></br><br></br>
+
+1.  **Information Icon** tapped for plant-wise overview of complaints
+2.  **Complaint Tab** gives the user relevant information on a complaint request that is currently being investigated. It can either by rejected or completed
+
+<br clear="both"/>
+
+<!-- ![In Process tab](./assets/3.57_TheftComplain1.png) -->
 
 
 ### 3.5.12.3. Completed tab
-![Completed tab](./assets/3.58_TheftComplain2.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.12.3_CompletedTab.png")} alt="Completed tab" width="250"/>
+<br></br><br></br>
+
+1.  **Information Icon** tapped for plant-wise overview of complaints
+2.  **Complaint Tab** gives the user relevant information on a complaint request that has been completed.
+
+<br clear="both"/>
+
+<!-- ![Completed tab](./assets/3.58_TheftComplain2.png)  -->
 
 ## 3.5.13. Coupon Discount
 **Functionality**
@@ -711,7 +1006,30 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 
 
 **Page Details**
-![Coupon Summary](./assets/3.59_CouponSummary.png)
 
-![Coupon Discount](./assets/3.60_CouponDiscount.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.13_1_CoupounDiscount.png")} alt="Coupon Summary" width="250"/>
+<br></br><br></br>
+
+1.  **Filter Bar** narrows to a given time period
+2.  **List of Plants** showing the number of coupons generated and redeemed at each plant
+3.  **Total Bar** aggregates over all plants
+
+**Tapping on any plant will redirect the user to a list of customers at that plant, as explained in the next screenshot**
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.13_2_CoupounDiscount.png")} alt="Coupon Discount" width="250"/>
+
+1.   **Search Icon** can be used to find a specific customer
+2.   **Filter Bar** allows narrowing the results to a given time period and plant
+3.  **Generate Coupon Code** allows an agent to enable the customer to generate a coupon code that could be redeemed
+
+The particular customer can be contacted by tapping on the phone icon present in every tab
+
+<br clear="both"/>
+
+<!-- ![Coupon Summary](./assets/3.59_CouponSummary.png)
+
+![Coupon Discount](./assets/3.60_CouponDiscount.png)  -->
 

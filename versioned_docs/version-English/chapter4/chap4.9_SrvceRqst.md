@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.9_1_ServiceRequest.png")} alt="Service Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.9_1_ServiceRequest.png")} alt="Service Request" width="45%"/>
 <br></br>
 
 1.  **Past Service Requests** shown chronologically, with relevant information
@@ -23,7 +23,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.9_2_ServiceRequest.png")} alt="New Service Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.9_2_ServiceRequest.png")} alt="New Service Request" width="45%"/>
 <br></br>
 
 1.  **Service Request** Type selected from a dropdown list

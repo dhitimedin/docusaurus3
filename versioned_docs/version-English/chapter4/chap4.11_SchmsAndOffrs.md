@@ -13,14 +13,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.11_1_SchemesAndOffer.png")} alt="Schemes and Offers Details" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.11_1_SchemesAndOffer.png")} alt="Schemes and Offers Details" width="45%"/>
 <br></br><br></br>
 
 1.  **Coupon Details** and reason for discounts are shared by the company at the top of the section
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.11_2_SchemesAndOffer.png")} alt="Schemes and Offers Details" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.11_2_SchemesAndOffer.png")} alt="Schemes and Offers Details" width="45%"/>
 <br></br><br></br>
 
 1.  **Coupon List** shows dates and amounts of past coupons as well as those which will be available in the future; coupons available now can be tapped to begin redeeming them

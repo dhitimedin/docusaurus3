@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.6_AmountPayable.png")} alt="Amount Payable" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.6_AmountPayable.png")} alt="Amount Payable" width="45%"/>
 
 1.  **सेवा प्रकार** उपयोगकर्ता के लिए शुल्क लिया जा रहा है
 2.  **कुल बार** का उपयोग उस राशि को एकत्र करने के लिए किया जाता है जिसे उपयोगकर्ता को कंपनी को भुगतान करना होगा

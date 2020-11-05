@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.9_1_ServiceRequest.png")} alt="Service Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.9_1_ServiceRequest.png")} alt="Service Request" width="45%"/>
 <br></br>
 
 1.  **पिछले सेवा अनुरोध** प्रासंगिक जानकारी के साथ कालानुक्रमिक रूप से दिखाए गए हैं
@@ -23,7 +23,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.9_2_ServiceRequest.png")} alt="New Service Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.9_2_ServiceRequest.png")} alt="New Service Request" width="45%"/>
 <br></br>
 
 1.  **सेवा अनुरोध** ड्रॉपडाउन सूची से चयनित प्रकार

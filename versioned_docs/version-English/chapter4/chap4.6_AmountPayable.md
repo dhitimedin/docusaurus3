@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.6_AmountPayable.png")} alt="Amount Payable" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.6_AmountPayable.png")} alt="Amount Payable" width="45%"/>
 
 1.  **Service Type** the user is being charged for
 2.  **Total bar** used to aggregate the amount the user must pay to the company

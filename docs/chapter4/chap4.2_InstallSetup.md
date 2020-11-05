@@ -28,7 +28,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 1.  **नया ग्राहक अनुरोध** या तो ऐप उपयोगकर्ता के लिए या किसी और के लिए
@@ -37,7 +37,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 **अपने लिए**
@@ -47,7 +47,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 **अन्य के लिए**
@@ -72,7 +72,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 **अन्य के लिए**

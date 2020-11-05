@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.7_BillingAndPaymentDetail.png")} alt="Billing And Payment Detail" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.7_BillingAndPaymentDetail.png")} alt="Billing And Payment Detail" width="45%"/>
 <br></br>
 
 1.  **मास्टर जानकारी** उपयोगकर्ता खाते के बारे में

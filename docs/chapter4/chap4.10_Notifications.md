@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.10_Notification.png")} alt="Notification" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.10_Notification.png")} alt="Notification" width="45%"/>
 <br></br><br></br>
 
 1.  **खोज आइकन** कुंजी शब्दों में लिखकर संदेशों को फ़िल्टर करने के लिए उपयोग किया जाता है

@@ -17,7 +17,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="right"/>
 
-<img align="left" src={useBaseUrl("img/scrnshts/4.3_Dashboard.png")} alt="Dashboard" />
+<img align="left" src={useBaseUrl("img/scrnshts/4.3_Dashboard.png")} alt="Dashboard" width="45%" />
 <br/><br/>
 
 1.  **Main Menu** icon (see Section 0)

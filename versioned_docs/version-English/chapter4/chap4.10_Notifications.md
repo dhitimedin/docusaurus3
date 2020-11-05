@@ -14,7 +14,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.10_Notification.png")} alt="Notification" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.10_Notification.png")} alt="Notification" width="45%"/>
 <br></br><br></br>
 
 1.  **Search Icon** used to filter the messages by typing in key words

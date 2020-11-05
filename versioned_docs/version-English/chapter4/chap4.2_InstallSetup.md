@@ -28,7 +28,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 1.  **New Customer Request** either for the app user or for someone else
@@ -37,7 +37,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 **For Self**
@@ -47,7 +47,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 **For Other**
@@ -73,7 +73,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <br></br>
 
 **For Other**

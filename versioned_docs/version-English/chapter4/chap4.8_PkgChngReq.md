@@ -14,7 +14,7 @@ electricity package.
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.8_1_PackageChangeRequest.png")} alt="Your Package" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.8_1_PackageChangeRequest.png")} alt="Your Package" width="45%"/>
 
 1.  **Subscribed Package List** shows details of past packages
 
@@ -22,7 +22,7 @@ electricity package.
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.8_2_PackageChangeRequest.png")} alt="Change Package" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.8_2_PackageChangeRequest.png")} alt="Change Package" width="45%"/>
 <br></br>
 
 1.  **Subscribed Package** shows details of the current package

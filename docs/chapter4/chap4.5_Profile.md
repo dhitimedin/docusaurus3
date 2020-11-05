@@ -22,7 +22,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="45%"/>
 
 1.  **नेविगेशन बार** वर्तमान टैब को इंगित करता है और टैब के बीच स्विच करने की अनुमति देता है
 ![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
@@ -43,7 +43,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="45%"/>
 <br></br>
 
 1.  **नेविगेशन बार** वर्तमान टैब को इंगित करता है और टैब के बीच स्विच करने की अनुमति देता है
@@ -63,7 +63,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="45%"/>
 <br></br>
 
 1.  **नेविगेशन बार** वर्तमान टैब को इंगित करता है और टैब के बीच स्विच करने की अनुमति देता है

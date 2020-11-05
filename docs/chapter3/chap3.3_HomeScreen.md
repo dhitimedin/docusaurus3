@@ -12,7 +12,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="45%"/>
 
 1. ** अधिसूचना आइकन ** (घंटी के आकार का आइकन) 3.3.3 अनुभाग में समझाया गया है 
 2. ** मुख्य मेनू ** (तीन क्षैतिज रेखाएं) अनुभाग 3.4 में समझाया गया है
@@ -43,7 +43,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/3.3_2_PlantMaintenance.png")} alt="Home Screen" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_2_PlantMaintenance.png")} alt="Home Screen" width="45%"/>
 <br/><br/>
 
 ***संयंत्र रखरखाव अनुस्मारक***
@@ -54,7 +54,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <br clear="both"/>
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/3.3_3_GenerationError.png")} alt="Home Screen" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_3_GenerationError.png")} alt="Home Screen" width="45%"/>
 <br/><br/><br></br>
 
 *** जनरेशन एरर ***
@@ -64,7 +64,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <br clear="both"/>
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/3.3_4_GenerationDataReminder.png")} alt="Home Screen" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_4_GenerationDataReminder.png")} alt="Home Screen" width="45%"/>
 <br/><br/>
 
 *** जनरेशन डेटा अनुस्मारक ***
@@ -74,7 +74,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <br clear="both"/>
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/3.3_5_ConsumptionDataReminder.png")} alt="Home Screen" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_5_ConsumptionDataReminder.png")} alt="Home Screen" width="45%"/>
 <br/><br/><br></br>
 
 *** खपत डेटा अनुस्मारक ***
@@ -101,7 +101,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/3.3_6_NotificationIcon.png")} alt="Home Screen" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.3_6_NotificationIcon.png")} alt="Home Screen" width="45%"/>
 <br/><br/><br></br>
 
 1. ** अधिसूचना चिह्न: ** लंबित अनुरोधों की कुल संख्या दर्शाता है; आइकन को टैप करने से निम्नलिखित विकल्प प्रस्तुत होते हैं

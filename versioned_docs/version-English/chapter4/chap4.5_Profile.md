@@ -22,7 +22,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="45%"/>
 
 1.  **Navigation Bar** indicates the current tab and allows switching between tabs
 ![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
@@ -43,7 +43,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="45%"/>
 <br></br>
 
 1.  **Navigation Bar** indicates the current tab and allows switching between tabs
@@ -63,7 +63,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Page Details**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="45%"/>
 <br></br>
 
 1.  **Navigation Bar** indicates the current tab and allows switching between tabs

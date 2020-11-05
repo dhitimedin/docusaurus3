@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **पेज के डिटेल**
 
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.8_1_PackageChangeRequest.png")} alt="Your Package" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.8_1_PackageChangeRequest.png")} alt="Your Package" width="45%"/>
 
 1.  **सब्स्क्राइब्ड पैकेज लिस्ट** पिछले पैकेजों का विवरण दिखाता है
 
@@ -21,7 +21,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <br clear="both"/>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.8_2_PackageChangeRequest.png")} alt="Change Package" width="250"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.8_2_PackageChangeRequest.png")} alt="Change Package" width="45%"/>
 <br></br>
 
 1.  **सब्स्क्राइब्ड पैकेज** वर्तमान पैकेज का विवरण दिखाता है

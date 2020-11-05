@@ -4,6 +4,8 @@ title: 4.2. Installation and Setup
 sidebar_label: Installation and Setup
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 * The field agent app runs on the Android operating system
 * Hardware requirements are shown in Table.
 	##### Table 2: Customer app hardware requirements.
@@ -24,11 +26,43 @@ sidebar_label: Installation and Setup
 
 
 **Page Details**
-![Connection Request](./assets/4.4_NewCustRequest.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<br></br>
+
+1.  **New Customer Request** either for the app user or for someone else
+
+**Tapping on either of the two option redirects to a new connection page, explained in the next screenshots**
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<br></br>
+
+**For Self**
+
+1.  **Data Sheet** where the user enters relevant data
+2.  **Verify with OTP** button is tapped to trigger OTP sharing via SMS (sent to the submitted phone number). Confirming the OTP completes the process.
+
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<br></br>
+
+**For Other**
+
+1.  **Data Sheet** where the user enters relevant data
+2.  **Verify with OTP** button is tapped to trigger OTP sharing via SMS (sent to the submitted phone number). Confirming the OTP completes the process.
+
+<br clear="both"/>
+
+
+<!-- ![Connection Request](./assets/4.4_NewCustRequest.png)
 
 ![New Connection](./assets/4.5_NewConnectionSelf.png)
 
-![New Connection](./assets/4.6_NewConnectOthers.png)
+![New Connection](./assets/4.6_NewConnectOthers.png) -->
 
 
 ## 4.2.2. Login
@@ -37,5 +71,17 @@ sidebar_label: Installation and Setup
 
 
 **Page Details**
-![Login Others](./assets/4.7_LoginOthers.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="250"/>
+<br></br>
+
+**For Other**
+
+1.  **Mobile Number** registered to the account
+2.  **Log in** by tapping the button
+
+<br clear="both"/>
+
+<!-- ![Login Others](./assets/4.7_LoginOthers.png)  -->
 

@@ -4,6 +4,8 @@ title: 4.5. Profile
 sidebar_label: Profile
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 **Functionality**
 * The Profile page gives the user access to their account details.
 * This includes personal information, past payments, and energy consumption.
@@ -19,7 +21,19 @@ sidebar_label: Profile
 
 **Page Details**
 
-![Profile](./assets/4.10_Profile.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="250"/>
+
+1.  **Navigation Bar** indicates the current tab and allows switching between tabs
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+2.  **Basic Profile** that consists of information on the user
+3.  **Connection Details** shows the customer's electricity package details
+4.  **Mobile** number linked to the account
+
+<br clear="both"/>
+
+
+<!-- ![Profile](./assets/4.10_Profile.png) -->
 
 
 ## 4.5.2. Payments
@@ -28,7 +42,17 @@ sidebar_label: Profile
 
 **Page Details**
 
-![Payments](./assets/4.11_Payments.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="250"/>
+<br></br>
+
+1.  **Navigation Bar** indicates the current tab and allows switching between tabs
+2.  **Payments List** itemises and timestamps all payments made by the customer, along with other relevant information concerning the bill
+
+<br clear="both"/>
+
+
+<!-- ![Payments](./assets/4.11_Payments.png) -->
 
 
 ## 4.5.3. Meter Readings
@@ -37,5 +61,16 @@ sidebar_label: Profile
 * The frequency of meter readings will vary depending on their connection type.
 
 **Page Details**
-![Meter Reading](./assets/4.12_MeterReading.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="250"/>
+<br></br>
+
+1.  **Navigation Bar** indicates the current tab and allows switching between tabs
+2.  **Meter Reading** details shown in a chronological order along with other relevant information concerning the meter reading
+3.  **Meter Number** can be chosen in case the customer has multiple connections
+
+<br clear="both"/>
+
+<!-- ![Meter Reading](./assets/4.12_MeterReading.png) -->
 

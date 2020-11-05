@@ -4,6 +4,8 @@ title: 4.5. प्रोफाइल
 sidebar_label: प्रोफाइल
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 **फंक्शनलिटी**
 * प्रोफाइल पेज से यूज़र अपने खाते के विवरण तक पहुँच सकता है।
 * इसमें स्वयं का विवरण, विगत भुगतान और बिजली की खपत की जानकारी मिल जाती है।
@@ -19,7 +21,19 @@ sidebar_label: प्रोफाइल
 
 **पेज के डिटेल**
 
-![Profile](./assets/4.10_Profile.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="250"/>
+
+1.  **नेविगेशन बार** वर्तमान टैब को इंगित करता है और टैब के बीच स्विच करने की अनुमति देता है
+![Left Right Nav](/img/scrnshts/App_LeftRightNav.png)
+2.  **मूल प्रोफ़ाइल** जिसमें उपयोगकर्ता की जानकारी होती है
+3.  **कनेक्शन विवरण** ग्राहक के बिजली पैकेज विवरण दिखाता है
+4.  **मोबाइल** खाता से जुड़ा नंबर
+
+<br clear="both"/>
+
+
+<!-- ![Profile](./assets/4.10_Profile.png) -->
 
 
 ## 4.5.2 भुगतान
@@ -28,7 +42,17 @@ sidebar_label: प्रोफाइल
 
 **पेज के डिटेल**
 
-![Payments](./assets/4.11_Payments.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="250"/>
+<br></br>
+
+1.  **नेविगेशन बार** वर्तमान टैब को इंगित करता है और टैब के बीच स्विच करने की अनुमति देता है
+2.  **भुगतान सूची** बिल से संबंधित अन्य प्रासंगिक जानकारी के साथ ग्राहक द्वारा किए गए सभी भुगतानों की सूची और टाइमस्टैम्प
+
+<br clear="both"/>
+
+
+<!-- ![Payments](./assets/4.11_Payments.png) -->
 
 
 ## 4.5.3. मीटर रीडिंग
@@ -37,5 +61,16 @@ sidebar_label: प्रोफाइल
 * कनेक्शन के अनुसार मीटर रीडिंग की बारंबारता (फ्रिक्वेंसि) अलग-अलग होती है।
 
 **पेज के डिटेल**
-![Meter Reading](./assets/4.12_MeterReading.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="250"/>
+<br></br>
+
+1.  **नेविगेशन बार** वर्तमान टैब को इंगित करता है और टैब के बीच स्विच करने की अनुमति देता है
+2.  **मीटर रीडिंग** मीटर रीडिंग से संबंधित अन्य प्रासंगिक जानकारी के साथ एक कालानुक्रमिक क्रम में दिखाया गया विवरण
+3.  **मीटर नंबर** ग्राहक के कई कनेक्शन होने की स्थिति में चुना जा सकता है
+
+<br clear="both"/>
+
+<!-- ![Meter Reading](./assets/4.12_MeterReading.png) -->
 

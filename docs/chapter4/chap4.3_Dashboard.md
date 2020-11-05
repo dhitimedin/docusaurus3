@@ -17,12 +17,12 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <br clear="right"/>
 
 <img align="left" src={useBaseUrl("img/scrnshts/4.3_Dashboard.png")} alt="Dashboard" />
-<br/>
-<br/>
+<br/><br/>
 
-> 1. ** मुख्य आइकन आइकन ** (See Section 0)
-> 2. ** उपभोक्ता की स्थिति: सक्रिय या निष्क्रिय **
+1.  **मुख्य मेनू** आइकन (Section 0 देखें)
+2.  **स्थिति** उपभोक्ता का: या तो सक्रिय या निष्क्रिय
 
+<br clear="both"/>
 <br/><br/>
 
 ![Dashboard](./assets/4.8_Dashboard.svg)

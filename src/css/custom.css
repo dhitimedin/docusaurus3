@@ -24,5 +24,9 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-ul {overflow: hidden}
-ol {overflow: hidden}
+/* ul {overflow: hidden}
+ol {overflow: hidden} */
+li {
+    position: relative;
+    left: 1.5em;
+}

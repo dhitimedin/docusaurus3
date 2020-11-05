@@ -66,25 +66,79 @@ Returns user to the Home Screen (Section 3.3).
 
 **Page Details**
 
-<img src="../docs/assets/3.14_PageDetails.png" width="50%"/>
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4_3_1_Dashboard.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+1.  **Total Billing** is explained in Section 3.4.3.1
+2.  **Total Collection** is explained in Section 3.4.3.2
+3.  **Amounts** billed and collected for various services
+4.  **Filter** to select a specific plant and/or time interval
+
+<br clear="both"/>
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4_3_2_Dashboard.png")} alt="Home Screen" width="250"/>
+<br/><br/><br></br>
+
+5.  **Collection Detail** details how the collection has been made:
+    * POS — Collected in person by a field agent
+    * Wallet — Payment made through an electronic wallet
+    * Cash Card — Payments made through credit/debit cards
+6.  **YTD Outstanding** refers to the outstanding payments that are yet to be made by customers from the beginning of the Calendar year
+
+<br clear="both"/>
+
+
+<!-- <img src="../docs/assets/3.14_PageDetails.png" width="50%"/>
 
 ![Page Details](./assets/3.14_PageDetails.png)
 
-![Page Details](./assets/3.15_PageDetails2.png)
+![Page Details](./assets/3.15_PageDetails2.png) -->
 
 ### 3.4.3.1. Total Billing
 **Functionality**
 * The Total Billing page summarises the revenue from each site
 
 **Page Details**
-![Page Details](./assets/3.16_PageDetails3.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4_3_3_TotalBilling.png")} alt="Total Billing" width="250"/>
+
+1.  **Tabular Data** of each plant is described here. The columnar data includes:
+    * Amount billed to prepaid customers
+    * Amount billed to post-paid customers
+    * Total amount billed to all customers
+    * Percentage of customers billed
+
+Arrows indicate month-on-month change in revenue:
+* <Highlight color="#FF0000"> ↓ </Highlight> Red -- revenue decrease
+* <Highlight color="#008000"> ↑ </Highlight> Green -- revenue increase
+2.  **Total Bar** shows the total amount for all plants
+3.  **Green Rows** show total amounts for each cluster of plants
+
+<br clear="both"/>
+
+<!-- ![Page Details](./assets/3.16_PageDetails3.png) -->
 
 ### 3.4.3.2. Total Collection
 **Functionality**
 * The Total Collection page summarises collections at each site
 
 **Page Details**
-![Page Details](./assets/3.17_PageDetails4.png)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4.3.2_TotalCollection.png")} alt="Total Collection" width="250"/>
+<br></br><br></br>
+
+1.  **Tabular Data** of each plant
+2.  **Total Bar** shows the total amount for all plants
+3.  **Green Rows** show the total amounts for each cluster of plants
+
+<br clear="both"/>
+
+<!-- ![Page Details](./assets/3.17_PageDetails4.png) -->
 
 ## 3.4.4. Cash Register
 **Functionality**
@@ -118,7 +172,20 @@ Returns user to the Home Screen (Section 3.3).
 
 **Page Details**
 
-![Page Details](./assets/3.18_PageDetails5.png)
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4.4_CashRegister.png")} alt="Cash Register" width="250"/>
+
+1.  **Filter Bar** for selecting a plant and time interval
+2.  **Pie Chart** splits the total collection into contributions from different services
+3.  **Numerical Data** of amount collected for each service
+4.  **Search Bar** for quickly locating a particular customer: user can type the name or the unique customer ID
+5.  **Transaction Details** presents a list of all payments collected from customers in the selected time-frame, with most recent first
+6.  **Tap** any entry to view customer's account page (Section 3.5.2)
+
+<br clear="both"/>
+
+
+<!-- ![Page Details](./assets/3.18_PageDetails5.png) -->
 
 ## 3.4.5. Spark Server
 **Functionality**
@@ -157,10 +224,35 @@ Returns user to the Home Screen (Section 3.3).
 
 **Page Details**
 
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4.5_1_SparkServer.png")} alt="Spark Server" width="250"/>
+<br></br><br></br>
 
-![Page Details](./assets/3.19_PageDetails6.png)
+1.  **Meter List**, with one row per meter, shows the associated customer and meter state:
+- <Highlight color="#FF0000"> * </Highlight>Red - Inactive
+- <Highlight color="#008000"> * </Highlight> Green - Active
+- <Highlight color="#0000FF"> * </Highlight> Blue - Auto
+2.  **Search Bar**: find a specific entry by typing the customer name, ID, or meter number.
+3.  **Plant Dropdown** used to select a particular plant
 
-![Page Details](./assets/3.20_PageDetails7.png)
+<br clear="both"/>
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.4.5_2_SparkServer.png")} alt="Spark Server" width="250"/>
+<br></br><br></br>
+
+**On tapping any particular meter, the application redirects to the meter’s page**
+
+1.  **Master Details** includes key customer and meter information
+2.  **Meter Status** gives us the current meter activity status, and allows switching between ON, OFF, and AUTO
+3.  **Reset Meter** option used to reset meter settings and details to default
+
+<br clear="both"/>
+
+
+
+<!-- ![Page Details](./assets/3.19_PageDetails6.png)
+
+![Page Details](./assets/3.20_PageDetails7.png) -->
 
 ## 3.4.6. Receivable
 **Functionality**

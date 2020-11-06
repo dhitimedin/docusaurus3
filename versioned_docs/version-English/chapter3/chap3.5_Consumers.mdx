@@ -17,13 +17,39 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
-## 3.5.1. Overview
-![Consumer Screen Key Functionalities](./assets/3.25_ConsuKeyFunc.svg)
-<br/>
-<br/>
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    {children}
+  </th>
+);
 
-![Consumer Screenshot](./assets/3.26_ConsScreenShot.png)
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
+
+## 3.5.1. Overview
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.1_1_ConsuKeyFunc.svg")} alt="Consumer Screen Functionalities" width="55%"/>
+<img align="right" src={useBaseUrl("img/scrnshts/3.5.1_2_ConsScreenShot.png")} alt="Consumer Screen Dashboard" width="45%"/>
+
+<br clear="both"/>
  
+
 ## 3.5.2. Account Details
 **Functionality**
 * The Account Detail page contains complete information on a customer’s profile, their package, and payment history.
@@ -76,10 +102,24 @@ export const Highlight = ({children, color}) => (
 
 The Account Detail page is organised into several tabs, which summarise particular information about a given customer:
 
-
-| Profile| Transaction| Cash Ledger| Security and Deposite Ledger| Meter Reading| Service|
-|---|---|---|---|---|---|
-| detailed account information| chronological list of individual payments| running record of bills, payments, and balance| running record of security charges and payments| energy consumption data from meter reading| service request history and completion information|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Profile</Tabheader>
+        <Tabheader color="#A9CCE3">Transaction</Tabheader>
+        <Tabheader color="#A9CCE3">Cash Ledger</Tabheader>
+        <Tabheader color="#A9CCE3">Security and Deposit Ledger</Tabheader>
+        <Tabheader color="#A9CCE3">Meter Reading</Tabheader>
+        <Tabheader color="#A9CCE3">Service</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">detailed account information</Tabcell>
+        <Tabcell color="#AED6F1">chronological list of individual payments</Tabcell>
+        <Tabcell color="#AED6F1">running record of bills, payments, and balance</Tabcell>
+        <Tabcell color="#AED6F1">running record of security charges and payments</Tabcell>
+        <Tabcell color="#AED6F1">energy consumption data from meter reading</Tabcell>
+        <Tabcell color="#AED6F1">service request history and completion information</Tabcell>
+    </tr>
+</table>
 
 Switching between tabs can be done either using the top navigation bar, or simply swiping the screen horizontally.
 
@@ -797,6 +837,7 @@ Tap an agent’s name to call them
 
 **Tapping on a particular plant will redirect the user to its consumer list page**
 
+<br clear="both"/>
 <br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.5.11_2_CatchmentSurvey.png")} alt="Catchment Survey" width="45%"/>
 
@@ -890,9 +931,20 @@ The Survey page allows the user to record information about an existing/prospect
 
 
 **Page Details**
-| Pending| In Process| Completed|
-|---|---|---|
-| The theft reports that are reported| Theft reports that are currently being investigated| Theft reports that have been appropriately dealt with|
+
+<table>
+    <tr>
+        <th>Pending</th>
+        <th>In Process</th>
+        <th>Completed</th>
+    </tr>
+    <tr>
+         <td>The theft reports that are reported</td>
+         <td>Theft reports that are currently being investigated</td>
+         <td>Theft reports that have been appropriately dealt with</td>
+    </tr>
+</table>
+
 
 ### 3.5.12.1. Pending tab
 

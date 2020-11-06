@@ -18,7 +18,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-English/chapter1/blank"
+          "id": "version-English/chapter1/Introduction"
         },                
         {
           "type": "doc",
@@ -45,7 +45,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-English/chapter2/blank"
+          "id": "version-English/chapter2/Operations_and_Their_Workflows"
         },                
         {
           "type": "doc",
@@ -76,7 +76,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-English/chapter3/blank"
+          "id": "version-English/chapter3/Field_Agent_App"
         },                
         {
           "type": "doc",
@@ -131,7 +131,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-English/chapter4/blank"
+          "id": "version-English/chapter4/Customer_App"
         },                
         {
           "type": "doc",

@@ -17,12 +17,37 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
-## 3.5.1. एक नजर (ओवरव्यू)
-![Consumer Screen Key Functionalities](./assets/3.25_ConsuKeyFunc.svg)
-<br/>
-<br/>
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    {children}
+  </th>
+);
 
-![Consumer Screenshot](./assets/3.26_ConsScreenShot.png)
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
+## 3.5.1. एक नजर (ओवरव्यू)
+
+<br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/3.5.1_1_ConsuKeyFunc.svg")} alt="Consumer Screen Functionalities" width="55%"/>
+<img align="right" src={useBaseUrl("img/scrnshts/3.5.1_2_ConsScreenShot.png")} alt="Consumer Screen Dashboard" width="45%"/>
+
+<br clear="both"/>
+
  
 ## 3.5.2. खाते के विवरण (अकाउन्ट डिटेल्स)
 **फंक्शनलिटी**
@@ -77,9 +102,24 @@ export const Highlight = ({children, color}) => (
 खाता-विवरण (अकाउंट डिटेल) पेज में कई टैब होते हैं, जिनमें ग्राहक से संबंधित जानकारी का सारांश होता है –
 
 
-| प्रोफ़ाइल| लेन-देन| कैश लेजर| सुरक्षा और जमाकर्ता लेजर| मीटर अध्ययन| सेवा|
-|---|---|---|---|---|---|
-| विस्तृत खाता जानकारी | व्यक्तिगत भुगतान की कालानुक्रमिक सूची | बिलों, भुगतानों और शेष राशि का रिकॉर्ड चलाना | सुरक्षा शुल्क और भुगतान का रिकॉर्ड | मीटर रीडिंग से ऊर्जा की खपत के आंकड़े | सेवा अनुरोध इतिहास और पूर्ण जानकारी |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">प्रोफ़ाइल</Tabheader>
+        <Tabheader color="#A9CCE3">लेन-देन</Tabheader>
+        <Tabheader color="#A9CCE3">कैश लेजर</Tabheader>
+        <Tabheader color="#A9CCE3">सुरक्षा और जमाकर्ता लेजर</Tabheader>
+        <Tabheader color="#A9CCE3">मीटर अध्ययन</Tabheader>
+        <Tabheader color="#A9CCE3">सेवा</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">विस्तृत खाता जानकारी </Tabcell>
+        <Tabcell color="#AED6F1">व्यक्तिगत भुगतान की कालानुक्रमिक सूची</Tabcell>
+        <Tabcell color="#AED6F1">बिलों, भुगतानों और शेष राशि का रिकॉर्ड चलाना </Tabcell>
+        <Tabcell color="#AED6F1">सुरक्षा शुल्क और भुगतान का रिकॉर्ड</Tabcell>
+        <Tabcell color="#AED6F1">मीटर रीडिंग से ऊर्जा की खपत के आंकड़े</Tabcell>
+        <Tabcell color="#AED6F1">सेवा अनुरोध इतिहास और पूर्ण जानकारी</Tabcell>
+    </tr>
+</table>
 
 एक टैब से दूसरे में जाने के लिए या तो नेविगेशन बार का उपयोग करना होता है या स्क्रीन को आड़ी तरह से (हॉरिजॉन्टलि) स्वाइप करना होता है।
 
@@ -897,9 +937,19 @@ export const Highlight = ({children, color}) => (
 
 **पेज के डिटेल**
 
-| लंबित | प्रक्रिया में | पूरे किए गए |
-|---|---|---|
-| चोरी की रिपोर्ट जो बताई जाती है | चोरी की रिपोर्ट जो वर्तमान में जांच की जा रही है | चोरी की रिपोर्ट जो उचित तरीके से निपटाया गया है |
+<table>
+    <tr>
+        <th>लंबित</th>
+        <th>प्रक्रिया में</th>
+        <th>पूरे किए गए</th>
+    </tr>
+    <tr>
+         <td>चोरी की रिपोर्ट जो बताई जाती है</td>
+         <td>चोरी की रिपोर्ट जो वर्तमान में जांच की जा रही है</td>
+         <td>चोरी की रिपोर्ट जो उचित तरीके से निपटाया गया है</td>
+    </tr>
+</table>
+
 
 ### 3.5.12.1. पेंडिंग टैब
 

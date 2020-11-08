@@ -20,7 +20,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.9_1_ServiceRequest.png")} alt="Service Request" width="45%"/>
 <Clear>
 
@@ -30,8 +30,8 @@ export const Clear = ({children}) => (
     **Tapping the Add Service Request will redirect you to the Add Service Request Page explained in the following screenshot**
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.9_2_ServiceRequest.png")} alt="New Service Request" width="45%"/>
 <Clear>
 
@@ -40,7 +40,7 @@ export const Clear = ({children}) => (
 3.  <u>Submit</u> must be tapped to complete the form; the new request will be logged on the Service Request page
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Service Request](./assets/4.17_SvrcRqst.png)

@@ -20,7 +20,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.6_AmountPayable.png")} alt="Amount Payable" width="45%"/>
 <Clear>
 
@@ -28,7 +28,7 @@ export const Clear = ({children}) => (
 2.  <u>कुल बार</u> का उपयोग उस राशि को एकत्र करने के लिए किया जाता है जिसे उपयोगकर्ता को कंपनी को भुगतान करना होगा
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Amount Payable](./assets/4.13_AmountPayable.png) -->

@@ -29,7 +29,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="45%"/>
 <Clear>
 
@@ -42,7 +42,7 @@ export const Clear = ({children}) => (
 4.  <u>Mobile</u> number linked to the account
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Profile](./assets/4.10_Profile.png) -->
@@ -54,7 +54,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="45%"/>
 <Clear>
 
@@ -62,7 +62,7 @@ export const Clear = ({children}) => (
 2.  <u>Payments List</u> itemises and timestamps all payments made by the customer, along with other relevant information concerning the bill
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Payments](./assets/4.11_Payments.png) -->
@@ -75,7 +75,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="45%"/>
 <Clear>
 
@@ -84,7 +84,7 @@ export const Clear = ({children}) => (
 3.  <u>Meter Number</u> can be chosen in case the customer has multiple connections
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Meter Reading](./assets/4.12_MeterReading.png) -->
 

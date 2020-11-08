@@ -20,7 +20,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.7_BillingAndPaymentDetail.png")} alt="Billing And Payment Detail" width="45%"/>
 <Clear>
 
@@ -28,6 +28,6 @@ export const Clear = ({children}) => (
 2.  <u>List of Transactions</u> stating the amounts paid by (debit) and credited to the customer, along with the running balance amount owed
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Billing And Payment Detail](./assets/4.14_BillPymtDet.png) -->

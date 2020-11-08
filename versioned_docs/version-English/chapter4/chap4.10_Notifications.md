@@ -21,7 +21,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.10_Notification.png")} alt="Notification" width="45%"/>
 <Clear>
 
@@ -29,6 +29,6 @@ export const Clear = ({children}) => (
 2.  <u>Message List</u> shows all communications from the company in chronological order
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Notification](./assets/4.19_Notification.png) -->

@@ -20,7 +20,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.8_1_PackageChangeRequest.png")} alt="Your Package" width="45%"/>
 <Clear>
 
@@ -29,8 +29,8 @@ export const Clear = ({children}) => (
 **पैकेज सूची आइटम पर टैप करने से परिवर्तन पैकेज अनुभाग में पुनर्निर्देशित होता है, जिसे निम्नलिखित स्क्रीनशॉट में समझाया गया है**
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.8_2_PackageChangeRequest.png")} alt="Change Package" width="45%"/>
 <Clear>
 
@@ -39,7 +39,7 @@ export const Clear = ({children}) => (
 3.  <u>सबमिट करें</u> अनुरोध को पूरा करने के लिए टैप किया गया है, (पुष्टि बॉक्स पर टिक किया गया है)
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Your Package](./assets/4.15_YrPkg.png)
 

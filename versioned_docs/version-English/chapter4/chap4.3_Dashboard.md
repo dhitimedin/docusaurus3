@@ -21,9 +21,10 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
+<figure>
 <br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.3_1_Dashboard.png")} alt="Miscellaneous Functionalities" width="55%"/>
-<img align="right" src={useBaseUrl("img/scrnshts/4.3_2_Dashboard.svg")} alt="Miscellaneous Screenshot" width="45%"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.3_1_Dashboard.png")} alt="Miscellaneous Functionalities" width="50%"/>
+<img align="right" src={useBaseUrl("img/scrnshts/4.3_2_Dashboard.svg")} alt="Miscellaneous Screenshot" width="40%"/>
 <Clear>
 
 1.  <u>Main Menu</u> icon (see Section 0)
@@ -31,9 +32,6 @@ export const Clear = ({children}) => (
 
 </Clear>
 <br clear="both"/>
-
-
-<br clear="both"/>
-<br/><br/>
+</figure>
 
 

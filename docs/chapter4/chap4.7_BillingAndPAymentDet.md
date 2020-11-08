@@ -20,7 +20,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.7_BillingAndPaymentDetail.png")} alt="Billing And Payment Detail" width="45%"/>
 <Clear>
 
@@ -28,6 +28,6 @@ export const Clear = ({children}) => (
 2.  <u>लेन-देन की सूची</u> चलित शेष राशि के साथ, (डेबिट) द्वारा भुगतान की गई राशि ग्राहक को श्रेय दिया जाता है
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Billing And Payment Detail](./assets/4.14_BillPymtDet.png) -->

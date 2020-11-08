@@ -29,7 +29,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.5.1_Profile.png")} alt="Profile" width="45%"/>
 <Clear>
 
@@ -43,7 +43,7 @@ export const Clear = ({children}) => (
 4.  <u>मोबाइल</u> खाता से जुड़ा नंबर
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Profile](./assets/4.10_Profile.png) -->
@@ -55,7 +55,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.5.2_Payment.png")} alt="Payments" width="45%"/>
 <Clear>
 
@@ -63,7 +63,7 @@ export const Clear = ({children}) => (
 2.  <u>भुगतान सूची</u> बिल से संबंधित अन्य प्रासंगिक जानकारी के साथ ग्राहक द्वारा किए गए सभी भुगतानों की सूची और टाइमस्टैम्प
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Payments](./assets/4.11_Payments.png) -->
@@ -76,7 +76,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.5.3_MeterReading.png")} alt="Meter Reading" width="45%"/>
 <Clear>
 
@@ -85,7 +85,7 @@ export const Clear = ({children}) => (
 3.  <u>मीटर नंबर</u> ग्राहक के कई कनेक्शन होने की स्थिति में चुना जा सकता है
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Meter Reading](./assets/4.12_MeterReading.png) -->
 

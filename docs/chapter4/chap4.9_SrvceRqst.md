@@ -21,7 +21,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.9_1_ServiceRequest.png")} alt="Service Request" width="45%"/>
 <Clear>
 
@@ -31,8 +31,8 @@ export const Clear = ({children}) => (
     **सेवा जोड़ें अनुरोध को टैप करने से आप निम्नलिखित स्क्रीनशॉट में बताए गए सेवा अनुरोध पृष्ठ पर पहुंच जाएंगे।**
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.9_2_ServiceRequest.png")} alt="New Service Request" width="45%"/>
 <Clear>
 
@@ -41,7 +41,7 @@ export const Clear = ({children}) => (
 3.  <u>सबमिट करें</u> फॉर्म को पूरा करने के लिए टैप किया जाना चाहिए; नया अनुरोध सेवा अनुरोध पृष्ठ पर लॉग इन किया जाएगा
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Service Request](./assets/4.17_SvrcRqst.png)

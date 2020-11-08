@@ -21,7 +21,7 @@ electricity package.
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.8_1_PackageChangeRequest.png")} alt="Your Package" width="45%"/>
 <Clear>
 
@@ -30,8 +30,8 @@ electricity package.
 **Tapping on the package list item redirects to the change package section, explained in the following screenshot**
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.8_2_PackageChangeRequest.png")} alt="Change Package" width="45%"/>
 <Clear>
 
@@ -40,7 +40,7 @@ electricity package.
 3.  <u>Submit</u> tapped to complete the request, having (ticked the confirm box)
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Your Package](./assets/4.15_YrPkg.png)
 

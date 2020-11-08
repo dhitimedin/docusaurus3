@@ -36,7 +36,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -45,8 +45,8 @@ export const Clear = ({children}) => (
     **Tapping on either of the two option redirects to a new connection page, explained in the next screenshots**
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -56,8 +56,8 @@ export const Clear = ({children}) => (
 2.  <u>Verify with OTP</u> button is tapped to trigger OTP sharing via SMS (sent to the submitted phone number). Confirming the OTP completes the process.
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -67,7 +67,7 @@ export const Clear = ({children}) => (
 2.  <u>Verify with OTP</u> button is tapped to trigger OTP sharing via SMS (sent to the submitted phone number). Confirming the OTP completes the process.
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Connection Request](./assets/4.4_NewCustRequest.png)
@@ -84,7 +84,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -94,7 +94,7 @@ export const Clear = ({children}) => (
 2.  <u>Log in</u> by tapping the button
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Login Others](./assets/4.7_LoginOthers.png)  -->
 

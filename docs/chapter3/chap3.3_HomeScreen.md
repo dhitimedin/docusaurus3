@@ -18,8 +18,8 @@ export const Clear = ({children}) => (
 * एप्लीकेशन की अलग-अलग फंक्शनलिटी तक सर्क्युलर मॉड्यूल के जरिए पहुँचा जा सकता है।
 * इनके आइकॉन को कंज़्यूमर, पैकेज, स्कीम आदि हेडिंग के अंतर्गत रखा गया है।नीचे दिया गया चित्र देखें
 
-<br clear="both"/>
-<br clear="right"/>
+
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_1_HomeScreen.png")} alt="Home Screen" width="45%"/>
 <Clear>
 
@@ -28,7 +28,7 @@ export const Clear = ({children}) => (
 3. <u>मॉड्यूल आइकन </u> विभिन्न एप्लिकेशन कार्यात्मकताओं का उपयोग करने के लिए; शीर्षकों को उपभोक्ता, पैकेज और योजना आदि के अंतर्गत वर्गीकृत किया जाता है।
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Home Screen](./assets/3.3_1_HomeScreen.png)  -->
 
@@ -51,8 +51,8 @@ export const Clear = ({children}) => (
 |--|--|--|--|
 | विभिन्न संयंत्रों में तकनीकी सर्विसिंग मुद्दों पर चिंता | उपयोगकर्ताओं को सौर पीढ़ी में विसंगतियों के लिए सचेत करें | अपूर्ण उपभोग डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है | अपूर्ण पीढ़ी डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है |
 
-<br clear="both"/>
-<br clear="right"/>
+
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_2_PlantMaintenance.png")} alt="Home Screen" width="45%"/>
 <Clear>
 
@@ -62,9 +62,9 @@ export const Clear = ({children}) => (
 3. <u> पॉप-अप को बंद करने के लिए </u> ok टैप करें
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_3_GenerationError.png")} alt="Home Screen" width="45%"/>
 <Clear>
 
@@ -73,9 +73,9 @@ export const Clear = ({children}) => (
 2. <u> पॉप-अप को बंद करने के लिए </u> ok टैप करें
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_4_GenerationDataReminder.png")} alt="Home Screen" width="45%"/>
 <Clear>
 
@@ -84,9 +84,9 @@ export const Clear = ({children}) => (
 2. <u> पॉप-अप को बंद करने के लिए </u> ok टैप करें
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_5_ConsumptionDataReminder.png")} alt="Home Screen" width="45%"/>
 <Clear>
 
@@ -95,7 +95,7 @@ export const Clear = ({children}) => (
 2. <u> पॉप-अप को बंद करने के लिए </u> ok टैप करें
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Plant Maintenance Reminder](./assets/3.6_PlantMaintenanceRemind.png)
 
@@ -113,8 +113,8 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="both"/>
-<br clear="right"/>
+
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.3_6_NotificationIcon.png")} alt="Home Screen" width="45%"/>
 <Clear>
 
@@ -123,7 +123,7 @@ export const Clear = ({children}) => (
 3. <u> मीटर रिलीज़ अनुरोध </u> अप्रयुक्त मीटर सेक्शन पर अनुप्रेषित करता है जब टैप किया जाता है (Section 3.8.3)
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Page Details](./assets/3.10_PageDetails.png) -->
 

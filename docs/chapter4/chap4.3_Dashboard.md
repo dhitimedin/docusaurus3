@@ -19,16 +19,16 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
-<img align="left" src={useBaseUrl("img/scrnshts/4.3_1_Dashboard.png")} alt="Miscellaneous Functionalities" width="55%"/>
-<img align="right" src={useBaseUrl("img/scrnshts/4.3_2_Dashboard.svg")} alt="Miscellaneous Screenshot" width="45%"/>
+<figure><br clear="right"/>
+<img align="left" src={useBaseUrl("img/scrnshts/4.3_1_Dashboard.png")} alt="Miscellaneous Functionalities" width="50%"/>
+<img align="right" src={useBaseUrl("img/scrnshts/4.3_2_Dashboard.svg")} alt="Miscellaneous Screenshot" width="40%"/>
 <Clear>
 
 1.  <u>मुख्य मेनू</u> आइकन (Section 0 देखें)
 2.  <u>स्थिति</u> उपभोक्ता का: या तो सक्रिय या निष्क्रिय
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 

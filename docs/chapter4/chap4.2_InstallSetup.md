@@ -35,7 +35,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_1_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -44,8 +44,8 @@ export const Clear = ({children}) => (
     ** किसी भी दो विकल्प पर टैप करके एक नए कनेक्शन पेज पर रीडायरेक्ट करता है, अगले स्क्रीनशॉट में समझाया गया है **
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_2_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -55,8 +55,8 @@ export const Clear = ({children}) => (
 2.  <u>ओटीपी के साथ सत्यापित करें</u> बटन को एसएमएस के माध्यम से ओटीपी साझा करने (सबमिट किए गए फोन नंबर पर भेजा गया) को ट्रिगर करने के लिए टैप किया गया है। ओटीपी की पुष्टि करने की प्रक्रिया पूरी होती है।
 
 </Clear>
-<br clear="both"/>
-<br clear="right"/>
+<br clear="both"/></figure>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -66,7 +66,7 @@ export const Clear = ({children}) => (
 2.  <u>ओटीपी के साथ सत्यापित करें</u> बटन को एसएमएस के माध्यम से ओटीपी साझा करने (सबमिट किए गए फोन नंबर पर भेजा गया) को ट्रिगर करने के लिए टैप किया गया है। ओटीपी की पुष्टि करने की प्रक्रिया पूरी होती है।
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Connection Request](./assets/4.4_NewCustRequest.png)
 
@@ -82,7 +82,7 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.2.1_3_NewConnectionRequest.png")} alt="New Connection Request" width="45%"/>
 <Clear>
 
@@ -92,7 +92,7 @@ export const Clear = ({children}) => (
 2.  <u>लॉग इन</u> बटन टैप करके
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 <!-- ![Login Others](./assets/4.7_LoginOthers.png) -->
 

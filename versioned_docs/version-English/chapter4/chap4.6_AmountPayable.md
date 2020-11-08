@@ -20,7 +20,7 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-<br clear="right"/>
+<figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/4.6_AmountPayable.png")} alt="Amount Payable" width="45%"/>
 <Clear>
 
@@ -28,7 +28,7 @@ export const Clear = ({children}) => (
 2.  <u>Total bar</u> used to aggregate the amount the user must pay to the company
 
 </Clear>
-<br clear="both"/>
+<br clear="both"/></figure>
 
 
 <!-- ![Amount Payable](./assets/4.13_AmountPayable.png) -->

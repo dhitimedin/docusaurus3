@@ -44,7 +44,7 @@ MCOMS automatically flags customers who are to be deactivated; when the customer
 Metering, billing, and collection (MBC) is the process by which a customer pays for the electricity they have consumed. The process is summarised below and illustrated in Figure 13.
 * Metering
 	* For customers with conventional energy meters, the new reading is noted at the end of the billing period.
-	* For customers with smart meters (see Section 1.3.2.3), energy consumption is automatically calculated.
+	* For customers with smart meters (see [Section 1.3.2.3](../chapter1/MCOMS_Interfaces_and_System_Integration#1323-smart-meters)), energy consumption is automatically calculated.
 	* For customers with load limiters (pre-paid), no metering is necessary.
 * Billing
 	* For metered customers, energy consumption is multiplied by the appropriate tariff to arrive at the final bill.

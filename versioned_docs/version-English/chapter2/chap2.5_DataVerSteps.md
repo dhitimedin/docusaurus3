@@ -22,7 +22,7 @@ Many database entries can be amended from the front-end of the web platform, pro
 All edits to MCOMS databases are logged, along with the timestamp of the change and which user made the change. This ensures that all data can be restored in the case of accident, and it also gaurds against malicious meddling with stored information.
 
 ## 2.5.5. Numerical Checks
-Certain automated checks are programmed into the MCOMS server to ensure that database entries make sense. An example would be ensuring that equipment efficiencies are between 0% and 100%, or that daily energy generation falls within expected ranges. There is some overlap between this and the checks in Section 2.5.1; the difference is that here, database calculations are scheduled on the server side, whereas in Section 2.5.1 the input into the database is restricted before it is submitted.
+Certain automated checks are programmed into the MCOMS server to ensure that database entries make sense. An example would be ensuring that equipment efficiencies are between 0% and 100%, or that daily energy generation falls within expected ranges. There is some overlap between this and the checks in [Section 2.5.1](./Data_Verification_Steps#251-input-checks); the difference is that here, database calculations are scheduled on the server side, whereas in [Section 2.5.1](./Data_Verification_Steps#251-input-checks) the input into the database is restricted before it is submitted.
 
 ## 2.5.6. Customer Validation
 Where changes to customer information, or updates of customer accounts are involved, MCOMS will frequently require the customer themselves to validate the change. A common way to do this is for the customer to confirm the change with an OTP sent to their registered mobile number.

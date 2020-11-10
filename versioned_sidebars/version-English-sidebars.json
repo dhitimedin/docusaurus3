@@ -8,7 +8,12 @@
         {
           "type": "doc",
           "id": "version-English/welcome"
-        }
+        },
+        {
+            "type": "link",
+            "label": "Download content of this website in PDF format",
+            "href": "https://dhitimedin.github.io/docusaurus3/img/EnglishVersion.pdf"
+        }        
       ]
     },
     {

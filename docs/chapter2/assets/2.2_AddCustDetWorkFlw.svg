@@ -1,107 +1,100 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3140" height="3821" viewBox="0 0 3140 3821">
-  <g id="Group_3258" data-name="Group 3258" transform="translate(4667 1468)">
-    <path id="Path_5510" data-name="Path 5510" d="M0,0H3140V3821H0Z" transform="translate(-4667 -1468)" fill="#fff"/>
-    <rect id="Rectangle_1001" data-name="Rectangle 1001" width="500" height="300" transform="translate(-2549.001 1368.551)" fill="#ffdeb2"/>
-    <rect id="Rectangle_997" data-name="Rectangle 997" width="500" height="300" transform="translate(-3237.001 1833.551)" fill="#93ffa9"/>
-    <rect id="Rectangle_996" data-name="Rectangle 996" width="500" height="300" transform="translate(-3237.001 1368.551)" fill="#cbdbe8"/>
-    <rect id="Rectangle_995" data-name="Rectangle 995" width="500" height="300" transform="translate(-3237.001 927)" fill="#93ffa9"/>
-    <rect id="Rectangle_994" data-name="Rectangle 994" width="500" height="300" transform="translate(-3237.001 484)" fill="#cbdbe8"/>
-    <rect id="Rectangle_1002" data-name="Rectangle 1002" width="500" height="300" transform="translate(-2549.001 1833.551)" fill="#cbdbe8"/>
-    <rect id="Rectangle_990" data-name="Rectangle 990" width="500" height="300" transform="translate(-3931.001 1834)" fill="#cbdbe8"/>
-    <rect id="Rectangle_989" data-name="Rectangle 989" width="500" height="300" transform="translate(-3931.001 1369)" fill="#cbdbe8"/>
-    <rect id="Rectangle_988" data-name="Rectangle 988" width="500" height="300" transform="translate(-3931.001 926.551)" fill="#cbdbe8"/>
-    <rect id="Rectangle_987" data-name="Rectangle 987" width="500" height="300" transform="translate(-3931.001 483.551)" fill="#cbdbe8"/>
-    <rect id="Rectangle_993" data-name="Rectangle 993" width="500" height="300" transform="translate(-3237.001 28)" fill="#ffdeb2"/>
-    <rect id="Rectangle_986" data-name="Rectangle 986" width="500" height="300" transform="translate(-3931.001 30.551)" fill="#cbdbe8"/>
-    <rect id="Rectangle_1000" data-name="Rectangle 1000" width="500" height="300" transform="translate(-2549.001 -425.449)" fill="#cbdbe8"/>
-    <rect id="Rectangle_992" data-name="Rectangle 992" width="500" height="300" transform="translate(-3237.001 -425)" fill="#93ffa9"/>
-    <rect id="Rectangle_984" data-name="Rectangle 984" width="500" height="300" transform="translate(-3931.001 -871)" fill="#ffdeb2"/>
-    <rect id="Rectangle_985" data-name="Rectangle 985" width="500" height="300" transform="translate(-3931.001 -425.449)" fill="#ffdeb2"/>
-    <rect id="Rectangle_241" data-name="Rectangle 241" width="500" height="300" transform="translate(-3931.001 -1328.449)" fill="#ffdeb2"/>
-    <rect id="Rectangle_998" data-name="Rectangle 998" width="500" height="300" transform="translate(-3237.001 -1328.449)" fill="#ffdeb2"/>
-    <rect id="Rectangle_999" data-name="Rectangle 999" width="500" height="300" transform="translate(-2549.001 -1328)" fill="#cbdbe8"/>
-    <text id="Customer_given_hard_copy_of_supplier_s_commitments" data-name="Customer given
-hard copy of
-supplier’s
-commitments" transform="translate(-3226.001 48.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="44.51" y="58">Customer given</tspan><tspan x="84.047" y="116">hard copy of</tspan><tspan x="122.161" y="174">supplier’s</tspan><tspan x="67.001" y="232">commitments</tspan></text>
-    <text id="Survey_potential_customers_within_30m_of_distribution_poles" data-name="Survey potential
-customers within
-30m of
-distribution poles" transform="translate(-3908.001 -1307.449)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="20.984" y="58">Survey potential</tspan><tspan x="8.341" y="116">customers within</tspan><tspan x="136.538" y="174">30m of</tspan><tspan x="4.28" y="232">distribution poles</tspan></text>
-    <text id="Data_entry_templates_on_the_field_force_app" data-name="Data entry
-templates on the
-field force app" transform="translate(-2521.001 -1274.449)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="92.861" y="58">Data entry</tspan><tspan x="11.096" y="116">templates on the</tspan><tspan x="43.884" y="174">field force app</tspan></text>
-    <text id="Identify_customer_segments_and_asses_requirements" data-name="Identify customer
-segments
-and asses
-requirements" transform="translate(-3219.001 -1310.449)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="8.147" y="58">Identify customer</tspan><tspan x="107.433" y="116">segments</tspan><tspan x="105.548" y="174">and asses</tspan><tspan x="57.968" y="232">requirements</tspan></text>
-    <text id="Door-to-door_group_discussion_leaflets_word-of-mouth" data-name="Door-to-door
-group discussion,
-leaflets,
-word-of-mouth" transform="translate(-3915.001 -853)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="65.78" y="58">Door-to-door</tspan><tspan x="12.479" y="116">group discussion,</tspan><tspan x="135.35" y="174">leaflets,</tspan><tspan x="40.692" y="232">word-of-mouth</tspan></text>
-    <text id="In-person_acquisition_during_field_personnel_visit" data-name="In-person
-acquisition
-during field
-personnel visit" transform="translate(-3903.001 -406.449)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="99.237" y="58">In-person</tspan><tspan x="83.733" y="116">acquisition</tspan><tspan x="76.654" y="174">during field</tspan><tspan x="36.866" y="232">personnel visit</tspan></text>
-    <text id="or_referral_self-referral_through_customer_app" data-name="or referral 
- self-referral
-through
-customer app" transform="translate(-3198.001 -403.449)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="85.302" y="58">or referral </tspan><tspan x="59.937" y="116" xml:space="preserve"> self-referral</tspan><tspan x="112.631" y="174">through</tspan><tspan x="39.449" y="232">customer app</tspan></text>
-    <text id="Connection_request_assigned_to_sales_team" data-name="Connection
-request assigned
-to sales team" transform="translate(-2521.001 -374.449)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="81.272" y="58">Connection</tspan><tspan x="10.477" y="116">request assigned</tspan><tspan x="57.568" y="174">to sales team</tspan></text>
-    <text id="Required_info_KYC_ID_proof_entered_into_field_force_app" data-name="Required info,
-KYC, ID proof
-entered into field
-force app" transform="translate(-3913.001 56.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="55.51" y="58">Required info,</tspan><tspan x="66.584" y="116">KYC, ID proof</tspan><tspan x="15.617" y="174">entered into field</tspan><tspan x="112.898" y="232">force app</tspan></text>
-    <text id="Assign_package_to_customer_using_field_force_app" data-name="Assign package
-to customer
-using field
-force app" transform="translate(-3900.001 509.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="26.903" y="58">Assign package</tspan><tspan x="66.216" y="116">to customer</tspan><tspan x="89.34" y="174">using field</tspan><tspan x="98.898" y="232">force app</tspan></text>
-    <text id="Security_deposit_and_activation_charge_notifications" data-name="Security deposit
-and activation
-charge
-notifications" transform="translate(-3189.001 511.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="0.818" y="58">Security deposit</tspan><tspan x="24.839" y="116">and activation</tspan><tspan x="116.597" y="174">charge</tspan><tspan x="46.79" y="232">notifications</tspan></text>
-    <text id="Customer_profile_created_with_unique_ID" data-name="Customer profile
-created with
-unique ID" transform="translate(-3910.001 975.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="16.546" y="58">Customer profile</tspan><tspan x="72.788" y="116">created with</tspan><tspan x="106.538" y="174">unique ID</tspan></text>
-    <text id="Customer_profile_pushed_to_customer_app" data-name="Customer profile
-pushed to
-customer app" transform="translate(-3205.001 973.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="7.546" y="58">Customer profile</tspan><tspan x="92.884" y="116">pushed to</tspan><tspan x="45.449" y="174">customer app</tspan></text>
-    <text id="Sales_team_submit_connection_details_to_technical_team" data-name="Sales team
-submit connection
-details to
-technical team" transform="translate(-3921.001 1392.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="105.484" y="58">Sales team</tspan><tspan x="7.965" y="116">submit connection</tspan><tspan x="126.367" y="174">details to</tspan><tspan x="57.97" y="232">technical team</tspan></text>
-    <text id="Meter_ID_selected_from_inventory_and_assigned_to_customer" data-name="Meter ID selected
-from inventory
-and assigned
-to customer" transform="translate(-3229.001 1392.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="23.452" y="58">Meter ID selected</tspan><tspan x="56.279" y="116">from inventory</tspan><tspan x="78.19" y="174">and assigned</tspan><tspan x="91.716" y="232">to customer</tspan></text>
-    <text id="Meter_installed_by_technical_team" data-name="Meter installed
-by
-technical team" transform="translate(-2518.001 1426.551)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="31.08" y="58">Meter installed</tspan><tspan x="189.349" y="116">by</tspan><tspan x="35.47" y="174">technical team</tspan></text>
-    <text id="Technical_team_confirm_connection_using_field_force_app" data-name="Technical team
-confirm
-connection using
-field force app" transform="translate(-3898.001 1850)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="28.065" y="58">Technical team</tspan><tspan x="119.651" y="116">confirm</tspan><tspan x="3.293" y="174">connection using</tspan><tspan x="36.384" y="232">field force app</tspan></text>
-    <text id="Customer_account_activated" data-name="Customer
-account
-activated" transform="translate(-3164.001 1886)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="44.391" y="58">Customer</tspan><tspan x="68.292" y="116">account</tspan><tspan x="54.001" y="174">activated</tspan></text>
-    <text id="Customer_added_to_plant_register" data-name="Customer added
-to plant register" transform="translate(-2514.001 1905)" fill="#21232a" font-size="54" font-family="OpenSans-Regular, Open Sans"><tspan x="5.077" y="58">Customer added</tspan><tspan x="14.767" y="116">to plant register</tspan></text>
-    <text id="Catchment_Survey" data-name="Catchment
-Survey" transform="translate(-4284.001 -1105.449)" fill="#21232a" font-size="54" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-148.79" y="0">Catchment</tspan><tspan x="-91.547" y="74">Survey</tspan></text>
-    <text id="Marketing" transform="translate(-4283.001 -626.449)" fill="#21232a" font-size="54" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-139.68" y="0">Marketing</tspan></text>
-    <text id="Customer_Acquisition" data-name="Customer
-Acquisition" transform="translate(-4281.001 -209.449)" fill="#21232a" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-133.969" y="0">Customer</tspan><tspan x="-154.473" y="75">Acquisition</tspan></text>
-    <text id="Customer_KYC" data-name="Customer
-KYC" transform="translate(-4280.001 250.551)" fill="#21232a" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-133.969" y="0">Customer</tspan><tspan x="-52.946" y="75">KYC</tspan></text>
-    <text id="Package_Assignment" data-name="Package
-Assignment" transform="translate(-4284.001 655.551)" fill="#21232a" font-size="54" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-111.401" y="0">Package</tspan><tspan x="-158.638" y="74">Assignment</tspan></text>
-    <text id="Meter_Installation" data-name="Meter
-Installation" transform="translate(-4284.001 1577.551)" fill="#21232a" font-size="54" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-81.343" y="0">Meter</tspan><tspan x="-155.342" y="74">Installation</tspan></text>
-    <text id="Customer_Activation" data-name="Customer
-Activation" transform="translate(-4279.001 2043.551)" fill="#21232a" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-133.969" y="0">Customer</tspan><tspan x="-141.125" y="75">Activation</tspan></text>
-    <g id="survey_1_" data-name="survey (1)" transform="translate(-4328.892 -1313.276)">
+  <g id="Group_3327" data-name="Group 3327" transform="translate(4630 6413)">
+    <path id="Path_5510" data-name="Path 5510" d="M0,0H3140V3821H0Z" transform="translate(-4630 -6413)" fill="#fff"/>
+    <g id="Group_3319" data-name="Group 3319" transform="translate(38 -4943)">
+      <rect id="Rectangle_993" data-name="Rectangle 993" width="500" height="300" transform="translate(-3235 28)" fill="#ffdeb2"/>
+      <text id="सप्लायर_के_वचनपत्र_की_हार्ड_कॉपी_ग्राहक_को_दी_जाती_है" data-name="सप्लायर के वचनपत्र
+की हार्ड कॉपी ग्राहक को दी जाती है" transform="translate(-3227 79)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="27.551" y="65">सप्लायर के वचनपत्र</tspan><tspan x="31.639" y="119">की हार्ड कॉपी ग्राहक </tspan><tspan x="88.742" y="173">को दी जाती है</tspan></text>
+    </g>
+    <g id="Group_3315" data-name="Group 3315" transform="translate(40 -4945)">
+      <rect id="Rectangle_241" data-name="Rectangle 241" width="500" height="300" transform="translate(-3931 -1328)" fill="#ffdeb2"/>
+      <text id="बिजली_वितरण_के_खंभों_के_30_मीटर_के_दायरे_में_संभावित_ग्राहकों_का_पता_लगाना" data-name="बिजली वितरण के
+खंभों के 30 मीटर के दायरे में संभावित ग्राहकों का पता लगाना" transform="translate(-3927 -1312)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="55.824" y="65">बिजली वितरण के</tspan><tspan x="22.588" y="123">खंभों के 30 मीटर के </tspan><tspan x="63.721" y="181">दायरे में संभावित </tspan><tspan x="5.652" y="239">ग्राहकों का पता लगाना</tspan></text>
+    </g>
+    <g id="Group_3317" data-name="Group 3317" transform="translate(37 -4945)">
+      <rect id="Rectangle_999" data-name="Rectangle 999" width="500" height="300" transform="translate(-2549 -1328)" fill="#cbdbe8"/>
+      <text id="फील्ड_फोर्स_एप्प_में_डेटा_एंट्री_के_टेंम्प्लेट्स्" data-name="फील्ड फोर्स एप्प में डेटा एंट्री के टेंम्प्लेट्स्" transform="translate(-2524 -1283)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="21.9" y="65">फील्ड फोर्स एप्प में </tspan><tspan x="105.41" y="119">डेटा एंट्री के </tspan><tspan x="130.699" y="173">टेंम्प्लेट्स्</tspan></text>
+    </g>
+    <g id="Group_3316" data-name="Group 3316" transform="translate(40.001 -4945)">
+      <rect id="Rectangle_998" data-name="Rectangle 998" width="500" height="300" transform="translate(-3237.001 -1328)" fill="#ffdeb2"/>
+      <text id="ग्राहक_के_सेगमेंट_की_पहचान_करना_और_उसकी_आवश्यकता_का_अनुमान_लगाना_" data-name="ग्राहक के सेगमेंट की पहचान करना और उसकी आवश्यकता का अनुमान लगाना
+" transform="translate(-3219.001 -1312)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="12.512" y="65">ग्राहक के सेगमेंट की </tspan><tspan x="34.576" y="119">पहचान करना और </tspan><tspan x="38.41" y="173">उसकी आवश्यकता </tspan><tspan x="26.73" y="227">का अनुमान लगाना</tspan></text>
+    </g>
+    <g id="Group_3314" data-name="Group 3314" transform="translate(40 -4945)">
+      <rect id="Rectangle_984" data-name="Rectangle 984" width="500" height="300" transform="translate(-3931 -871)" fill="#ffdeb2"/>
+      <text id="घर-घर_जाकर_समूह-चर्चा_पर्चे_बाँटकर_बातचीत_कर_" data-name="घर-घर जाकर, समूह-चर्चा, पर्चे बाँटकर, बातचीत कर
+" transform="translate(-3914 -824)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="6.574" y="65">घर-घर जाकर, समूह-</tspan><tspan x="45.168" y="119">चर्चा, पर्चे बाँटकर, </tspan><tspan x="104.938" y="173">बातचीत कर</tspan></text>
+    </g>
+    <g id="Group_3313" data-name="Group 3313" transform="translate(40 -4945)">
+      <rect id="Rectangle_985" data-name="Rectangle 985" width="500" height="300" transform="translate(-3931 -425)" fill="#ffdeb2"/>
+      <text id="फील्ड_कर्मचारी_के_दौरे_के_समय_व्यक्तिगत_प्रयास_द्वारा_" data-name="फील्ड कर्मचारी के दौरे के समय व्यक्तिगत प्रयास द्वारा
+" transform="translate(-3902 -382)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="34.488" y="65">फील्ड कर्मचारी के </tspan><tspan x="84.66" y="119">दौरे के समय </tspan><tspan x="1.125" y="173">व्यक्तिगत प्रयास द्वारा</tspan></text>
+    </g>
+    <g id="Group_3318" data-name="Group 3318" transform="translate(40 -4945)">
+      <rect id="Rectangle_992" data-name="Rectangle 992" width="500" height="300" transform="translate(-3237 -425)" fill="#93ffa9"/>
+      <text id="_..या_संदर्भ_दिए_जाने_पर_कस्टमर_एप्प_द्वारा_स्वयं_संदर्भ_देकर" data-name="..या संदर्भ दिए जाने पर/ कस्टमर एप्प द्वारा स्वयं संदर्भ देकर" transform="translate(-3201 -405)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="55.791" y="65">..या संदर्भ दिए </tspan><tspan x="17.832" y="119">जाने पर/ कस्टमर </tspan><tspan x="56.477" y="173">एप्प द्वारा स्वयं </tspan><tspan x="100.631" y="227">संदर्भ देकर</tspan></text>
+    </g>
+    <g id="Group_3326" data-name="Group 3326" transform="translate(37 -4945)">
+      <rect id="Rectangle_1000" data-name="Rectangle 1000" width="500" height="300" transform="translate(-2549 -425)" fill="#cbdbe8"/>
+      <text id="बिक्री_टीम_को_कनेक्शन_का_अनुरोध_असाइन_करना_" data-name="बिक्री टीम को कनेक्शन का अनुरोध असाइन करना
+" transform="translate(-2524 -375)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="80.35" y="65">बिक्री टीम को </tspan><tspan x="5.828" y="119">कनेक्शन का अनुरोध </tspan><tspan x="77.1" y="173">असाइन करना</tspan></text>
+    </g>
+    <g id="Group_3312" data-name="Group 3312" transform="translate(40 -4946)">
+      <rect id="Rectangle_986" data-name="Rectangle 986" width="500" height="300" transform="translate(-3931 31)" fill="#cbdbe8"/>
+      <text id="जरूरी_जानकारी_केवायसी_पहचान_का_प्रमाण_फील्ड_फोर्स_एप्प_में_दर्ज_करना_" data-name="जरूरी जानकारी, केवायसी, पहचान का प्रमाण फील्ड फोर्स एप्प में दर्ज करना
+" transform="translate(-3914 53)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="65.303" y="65">जरूरी जानकारी, </tspan><tspan x="13.633" y="119">केवायसी, पहचान का </tspan><tspan x="41.918" y="173">प्रमाण फील्ड फोर्स </tspan><tspan x="39.607" y="227">एप्प में दर्ज करना</tspan></text>
+    </g>
+    <g id="Group_3311" data-name="Group 3311" transform="translate(40 -4945)">
+      <rect id="Rectangle_987" data-name="Rectangle 987" width="500" height="300" transform="translate(-3931 484)" fill="#cbdbe8"/>
+      <text id="फील्ड_फोर्स_एप्प_का_प्रयोग_कर_ग्राहक_को_पैकेज_असाइन_करना" data-name="फील्ड फोर्स एप्प का प्रयोग कर ग्राहक को पैकेज असाइन करना" transform="translate(-3900 520)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="7.275" y="65">फील्ड फोर्स एप्प का </tspan><tspan x="2.248" y="119">प्रयोग कर ग्राहक को </tspan><tspan x="1.334" y="173">पैकेज असाइन करना</tspan></text>
+    </g>
+    <g id="Group_3320" data-name="Group 3320" transform="translate(40 -4945)">
+      <rect id="Rectangle_994" data-name="Rectangle 994" width="500" height="300" transform="translate(-3237 484)" fill="#cbdbe8"/>
+      <text id="सिक्युरिटी_डिपॉज़िट_और_एक्टिवेशन_शुल्क_की_सूचनाएँ" data-name="सिक्युरिटी डिपॉज़िट और एक्टिवेशन शुल्क की सूचनाएँ" transform="translate(-3189 504)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="98.965" y="65">सिक्युरिटी </tspan><tspan x="61.412" y="119">डिपॉज़िट और </tspan><tspan x="27.668" y="173">एक्टिवेशन शुल्क </tspan><tspan x="84.594" y="227">की सूचनाएँ</tspan></text>
+    </g>
+    <g id="Group_3310" data-name="Group 3310" transform="translate(40 -4945)">
+      <rect id="Rectangle_988" data-name="Rectangle 988" width="500" height="300" transform="translate(-3931 927)" fill="#cbdbe8"/>
+      <text id="ग्राहक_को_यूनिक_आइडी_देकर_उस_आइडी_से_खाता_खोला_जाता_है_" data-name="ग्राहक को यूनिक आइडी देकर उस आइडी से खाता खोला जाता है 
+" transform="translate(-3910 940)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="52.688" y="65">ग्राहक को यूनिक </tspan><tspan x="59.111" y="119">आइडी देकर उस </tspan><tspan x="1.703" y="173">आइडी से खाता खोला </tspan><tspan x="150.568" y="227">जाता है </tspan></text>
+    </g>
+    <g id="Group_3321" data-name="Group 3321" transform="translate(40 -4945)">
+      <rect id="Rectangle_995" data-name="Rectangle 995" width="500" height="300" transform="translate(-3237 927)" fill="#93ffa9"/>
+      <text id="ग्राहक_का_प्रोफाइल_कस्टमर_एप्प_में_ले_जाया_जाता_है" data-name="ग्राहक का प्रोफाइल कस्टमर एप्प में ले जाया जाता है" transform="translate(-3207 972)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="24.67" y="65">ग्राहक का प्रोफाइल </tspan><tspan x="18.932" y="119">कस्टमर एप्प में ले </tspan><tspan x="77.051" y="173">जाया जाता है</tspan></text>
+    </g>
+    <g id="Group_3309" data-name="Group 3309" transform="translate(33 -4945)">
+      <rect id="Rectangle_989" data-name="Rectangle 989" width="500" height="300" transform="translate(-3924 1369)" fill="#cbdbe8"/>
+      <text id="बिक्री_टीम_कनेक्शन_का_विवरण_तकनीकी_टीम_को_देती_है" data-name="बिक्री टीम कनेक्शन का विवरण तकनीकी टीम को देती है" transform="translate(-3916 1419)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="33.645" y="65">बिक्री टीम कनेक्शन </tspan><tspan x="27.424" y="119">का विवरण तकनीकी </tspan><tspan x="81.938" y="173">टीम को देती है</tspan></text>
+    </g>
+    <g id="Group_3322" data-name="Group 3322" transform="translate(34 -4945)">
+      <rect id="Rectangle_996" data-name="Rectangle 996" width="500" height="300" transform="translate(-3231 1369)" fill="#cbdbe8"/>
+      <text id="इन्वेन्टरी_में_से_मीटर_आइडी_सिलेक्ट_कर_ग्राहक_को_असाइन_किया_जाता_है_" data-name="इन्वेन्टरी में से मीटर आइडी सिलेक्ट कर ग्राहक को असाइन किया जाता है
+" transform="translate(-3225 1391)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="23.279" y="65">इन्वेन्टरी में से मीटर </tspan><tspan x="45.623" y="119">आइडी सिलेक्ट कर </tspan><tspan x="53.418" y="173">ग्राहक को असाइन </tspan><tspan x="99.705" y="227">किया जाता है</tspan></text>
+    </g>
+    <g id="Group_3325" data-name="Group 3325" transform="translate(37 -4945)">
+      <rect id="Rectangle_1001" data-name="Rectangle 1001" width="500" height="300" transform="translate(-2549 1369)" fill="#ffdeb2"/>
+      <text id="तकनीकी_टीम_मीटर_इंस्टाल_करती_है" data-name="तकनीकी टीम मीटर इंस्टाल करती है" transform="translate(-2519 1443)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="10.764" y="65">तकनीकी टीम मीटर </tspan><tspan x="52.785" y="119">इंस्टाल करती है</tspan></text>
+    </g>
+    <g id="Group_3308" data-name="Group 3308" transform="translate(40 -4944)">
+      <rect id="Rectangle_990" data-name="Rectangle 990" width="500" height="300" transform="translate(-3931 1832)" fill="#cbdbe8"/>
+      <text id="तकनीकी_टीम_फील्ड_फोर्स_एप्प_द्वारा_कनेक्शन_की_पुष्टि_करती_है" data-name="तकनीकी टीम फील्ड फोर्स एप्प द्वारा कनेक्शन की पुष्टि करती है" transform="translate(-3899 1851)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="5.361" y="65">तकनीकी टीम फील्ड </tspan><tspan x="62.008" y="119">फोर्स एप्प द्वारा </tspan><tspan x="34.256" y="173">कनेक्शन की पुष्टि </tspan><tspan x="133.66" y="227">करती है</tspan></text>
+    </g>
+    <g id="Group_3323" data-name="Group 3323" transform="translate(40 -4946)">
+      <rect id="Rectangle_997" data-name="Rectangle 997" width="500" height="300" transform="translate(-3237 1834)" fill="#93ffa9"/>
+      <text id="ग्राहक_का_खाता_एक्टिवेट_हो_जाता_है" data-name="ग्राहक का खाता एक्टिवेट हो जाता है" transform="translate(-3155 1905)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="2.859" y="65">ग्राहक का खाता </tspan><tspan x="48.537" y="119">एक्टिवेट हो </tspan></text>
+    </g>
+    <g id="Group_3324" data-name="Group 3324" transform="translate(37 -4946)">
+      <rect id="Rectangle_1002" data-name="Rectangle 1002" width="500" height="300" transform="translate(-2549 1834)" fill="#cbdbe8"/>
+      <text id="ग्राहक_का_नाम_प्लांट_के_रजिस्टर_में_शामिल_कर_लिया_जाता_है_" data-name="ग्राहक का नाम प्लांट के रजिस्टर में शामिल कर लिया जाता है
+" transform="translate(-2515 1880)" fill="#21232a" font-size="52" font-family="Mangal-Regular, Mangal"><tspan x="59.5" y="65">ग्राहक का नाम </tspan><tspan x="2.244" y="119">प्लांट के रजिस्टर में </tspan><tspan x="33.602" y="173">शामिल कर लिया </tspan></text>
+    </g>
+    <text id="कैचमेंट_सर्वे" data-name="कैचमेंट सर्वे" transform="translate(-4247.001 -6050.449)" fill="#21232a" font-size="54" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-125.771" y="0">कैचमेंट</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">सर्वे</tspan></text>
+    <text id="विपणन_मार्केटिंग_" data-name="विपणन (मार्केटिंग)" transform="translate(-4246.001 -5571.449)" fill="#21232a" font-size="54" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-204.702" y="0">विपणन</tspan><tspan y="0" xml:space="preserve" font-family="OpenSans-Bold, Open Sans"> (</tspan><tspan y="0">मार्केटिंग</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans">)</tspan></text>
+    <text id="ग्राहक_बनाना" data-name="ग्राहक बनाना" transform="translate(-4244.001 -5154.449)" fill="#21232a" font-size="55" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-149.719" y="0">ग्राहक</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">बनाना</tspan></text>
+    <text id="ग्राहक_का_केवायसी" data-name="ग्राहक का केवायसी" transform="translate(-4243.001 -4694.449)" fill="#21232a" font-size="55" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-216.737" y="0">ग्राहक</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">का</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">केवायसी</tspan></text>
+    <text id="पैकेज_असाइन_करना" data-name="पैकेज असाइन करना" transform="translate(-4247.001 -4289.449)" fill="#21232a" font-size="54" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-231.425" y="0">पैकेज</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">असाइन</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">करना</tspan></text>
+    <text id="मीटर_इंस्टाल_करना" data-name="मीटर इंस्टाल करना" transform="translate(-4247.001 -3367.449)" fill="#21232a" font-size="54" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-214.339" y="0">मीटर</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">इंस्टाल</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">करना</tspan></text>
+    <text id="ग्राहक_एक्टिवेशन" data-name="ग्राहक एक्टिवेशन" transform="translate(-4242.001 -2901.449)" fill="#21232a" font-size="55" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-195.575" y="0">ग्राहक</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">एक्टिवेशन</tspan></text>
+    <g id="survey_1_" data-name="survey (1)" transform="translate(-4291.892 -6258.276)">
       <path id="Path_935" data-name="Path 935" d="M34.142,25A19.142,19.142,0,1,0,53.285,44.142,19.165,19.165,0,0,0,34.142,25Zm0,34.8A15.662,15.662,0,1,1,49.8,44.142,15.68,15.68,0,0,1,34.142,59.8Z" transform="translate(9.363 16.765)" fill="#707070"/>
       <path id="Path_936" data-name="Path 936" d="M81.05,67.128V75.6l12.709-8.471h2.953a8.711,8.711,0,0,0,8.7-8.7V37.545a8.711,8.711,0,0,0-8.7-8.7H87.4a10.424,10.424,0,0,0-19.664,0h-9.31a8.693,8.693,0,0,0-1.74.176V16.662a8.711,8.711,0,0,0-8.7-8.7h-9.31a10.424,10.424,0,0,0-19.664,0H9.7a8.711,8.711,0,0,0-8.7,8.7V37.545a8.711,8.711,0,0,0,8.7,8.7h13.97A25.928,25.928,0,0,0,22.629,76.1l-2.487,2.487-1.74-1.74L3.313,91.94A7.893,7.893,0,0,0,14.475,103.1L29.564,88.011l-1.74-1.74,2.487-2.487A26.063,26.063,0,0,0,70.083,67.128Zm6.961-34.8h8.7a5.227,5.227,0,0,1,5.221,5.221V58.427a5.227,5.227,0,0,1-5.221,5.221H92.7L84.531,69.1v-5.45H70.52c.038-.578.089-1.152.089-1.74s-.05-1.162-.089-1.74H94.972v-3.48A17.42,17.42,0,0,0,84,40.533,10.422,10.422,0,0,0,88.011,32.324ZM82.658,56.687,81.595,43.364a13.944,13.944,0,0,1,9.9,13.323Zm-4.6-13.9,1.11,13.9H75.974l1.109-13.892c.164-.005.324-.03.487-.03S77.893,42.784,78.055,42.79Zm-5.574,13.9h-2.4a25.9,25.9,0,0,0-3.454-8.569,13.876,13.876,0,0,1,6.916-4.733ZM77.57,25.363a6.961,6.961,0,1,1-6.961,6.961A6.968,6.968,0,0,1,77.57,25.363ZM67.128,32.324a10.423,10.423,0,0,0,4,8.205,17.379,17.379,0,0,0-6.613,4.652,26.18,26.18,0,0,0-11.292-7.845,5.216,5.216,0,0,1,5.2-5.012ZM39.285,11.441h8.7a5.227,5.227,0,0,1,5.221,5.221V30.629a8.656,8.656,0,0,0-3.36,5.731,25.777,25.777,0,0,0-3.6-.465V35.8A17.42,17.42,0,0,0,35.275,19.65,10.422,10.422,0,0,0,39.285,11.441ZM14.922,35.8a13.943,13.943,0,0,1,9.9-13.323L23.755,35.8Zm13.436-13.9c.162-.005.322-.024.486-.024s.324.019.486.024l1.11,13.9H27.248Zm4.509.574a13.943,13.943,0,0,1,9.9,13.323H33.932Zm-4.023-18a6.961,6.961,0,1,1-6.961,6.961A6.968,6.968,0,0,1,28.844,4.48ZM4.48,37.545V16.662A5.227,5.227,0,0,1,9.7,11.441h8.7a10.422,10.422,0,0,0,4.009,8.209A17.42,17.42,0,0,0,11.441,35.8v3.48h20.1a26.2,26.2,0,0,0-4.719,3.48H9.7A5.227,5.227,0,0,1,4.48,37.545Zm7.533,63.1a4.413,4.413,0,1,1-6.24-6.24L18.4,81.771l6.24,6.24ZM25.363,83.81,22.6,81.05l2.139-2.139a26.489,26.489,0,0,0,2.76,2.76Zm19.142.72A22.623,22.623,0,1,1,67.128,61.908,22.649,22.649,0,0,1,44.506,84.531Z" transform="translate(-1 -1)" fill="#707070"/>
       <path id="Path_937" data-name="Path 937" d="M75.545,45H44.221A5.227,5.227,0,0,0,39,50.221V71.1a5.227,5.227,0,0,0,5.221,5.221H75.545A5.227,5.227,0,0,0,80.765,71.1V50.221A5.227,5.227,0,0,0,75.545,45Zm1.74,26.1a1.742,1.742,0,0,1-1.74,1.74H44.221a1.742,1.742,0,0,1-1.74-1.74V50.221a1.742,1.742,0,0,1,1.74-1.74H75.545a1.742,1.742,0,0,1,1.74,1.74Z" transform="translate(27.128 31.57)" fill="#707070"/>
@@ -111,8 +104,8 @@ Activation" transform="translate(-4279.001 2043.551)" fill="#21232a" font-size="
       <path id="Path_941" data-name="Path 941" d="M5,9H8.48v3.48H5Z" transform="translate(1.961 4.922)" fill="#707070"/>
       <path id="Path_942" data-name="Path 942" d="M5,13H8.48v3.48H5Z" transform="translate(1.961 7.883)" fill="#707070"/>
     </g>
-    <path id="marketing-2" data-name="marketing" d="M92.8,46.827A11.87,11.87,0,0,0,81.089,26.536L73.678,13.7A8.007,8.007,0,0,0,59.97,13.43a117.783,117.783,0,0,1-35.68,36.09,1.914,1.914,0,0,0-.64,2.518c.078.143,12.355,21.4,12.436,21.545A1.913,1.913,0,0,0,39.4,71.67L27.887,51.729A121.548,121.548,0,0,0,63.206,15.47a4.181,4.181,0,0,1,7.158.142L96.9,61.579a4.181,4.181,0,0,1-3.457,6.27A121.613,121.613,0,0,0,42.759,81.121c-.067.034-17.965,10.369-19.2,11.081a6.706,6.706,0,0,1-9.152-2.452L4.721,72.967a6.707,6.707,0,0,1,2.452-9.152l11.661-6.732a1.913,1.913,0,0,0-1.913-3.313L5.261,60.5A10.537,10.537,0,0,0,1.408,74.88L11.1,91.662a10.537,10.537,0,0,0,14.378,3.852l.441-.255,11.962,20.719a6.216,6.216,0,0,0,8.5,2.276l4.2-2.422a6.215,6.215,0,0,0,2.276-8.5L44.367,92.653a1.913,1.913,0,0,0-3.313,1.913l8.478,14.684a2.392,2.392,0,0,1-.876,3.269l-4.2,2.422a2.392,2.392,0,0,1-3.269-.876L29.229,93.347,44.545,84.5A117.779,117.779,0,0,1,93.6,71.671a8.006,8.006,0,0,0,6.62-12.006Zm-.546-13.211a8.058,8.058,0,0,1-1.4,9.833L83.039,29.913A8.043,8.043,0,0,1,92.258,33.616Zm18.709-8.5-4.949,2.857a1.913,1.913,0,1,1-1.913-3.313l4.949-2.857a1.913,1.913,0,0,1,1.913,3.313ZM89.682,14.21l1.207-4.5a1.913,1.913,0,1,1,3.7.99l-1.207,4.5a1.913,1.913,0,1,1-3.7-.99ZM114.7,45.536a1.914,1.914,0,0,1-1.847,1.418c-.346,0-.1.039-5-1.272a1.913,1.913,0,1,1,.99-3.7l4.5,1.207a1.913,1.913,0,0,1,1.353,2.343Z" transform="translate(-4334.206 -846.994)" fill="#707070"/>
-    <g id="mentor" transform="translate(-4331.549 -424.203)">
+    <path id="marketing" d="M92.8,46.827A11.87,11.87,0,0,0,81.089,26.536L73.678,13.7A8.007,8.007,0,0,0,59.97,13.43a117.783,117.783,0,0,1-35.68,36.09,1.914,1.914,0,0,0-.64,2.518c.078.143,12.355,21.4,12.436,21.545A1.913,1.913,0,0,0,39.4,71.67L27.887,51.729A121.548,121.548,0,0,0,63.206,15.47a4.181,4.181,0,0,1,7.158.142L96.9,61.579a4.181,4.181,0,0,1-3.457,6.27A121.613,121.613,0,0,0,42.759,81.121c-.067.034-17.965,10.369-19.2,11.081a6.706,6.706,0,0,1-9.152-2.452L4.721,72.967a6.707,6.707,0,0,1,2.452-9.152l11.661-6.732a1.913,1.913,0,0,0-1.913-3.313L5.261,60.5A10.537,10.537,0,0,0,1.408,74.88L11.1,91.662a10.537,10.537,0,0,0,14.378,3.852l.441-.255,11.962,20.719a6.216,6.216,0,0,0,8.5,2.276l4.2-2.422a6.215,6.215,0,0,0,2.276-8.5L44.367,92.653a1.913,1.913,0,0,0-3.313,1.913l8.478,14.684a2.392,2.392,0,0,1-.876,3.269l-4.2,2.422a2.392,2.392,0,0,1-3.269-.876L29.229,93.347,44.545,84.5A117.779,117.779,0,0,1,93.6,71.671a8.006,8.006,0,0,0,6.62-12.006Zm-.546-13.211a8.058,8.058,0,0,1-1.4,9.833L83.039,29.913A8.043,8.043,0,0,1,92.258,33.616Zm18.709-8.5-4.949,2.857a1.913,1.913,0,1,1-1.913-3.313l4.949-2.857a1.913,1.913,0,0,1,1.913,3.313ZM89.682,14.21l1.207-4.5a1.913,1.913,0,1,1,3.7.99l-1.207,4.5a1.913,1.913,0,1,1-3.7-.99ZM114.7,45.536a1.914,1.914,0,0,1-1.847,1.418c-.346,0-.1.039-5-1.272a1.913,1.913,0,1,1,.99-3.7l4.5,1.207a1.913,1.913,0,0,1,1.353,2.343Z" transform="translate(-4297.206 -5791.994)" fill="#707070"/>
+    <g id="mentor" transform="translate(-4294.549 -5369.203)">
       <path id="Path_879" data-name="Path 879" d="M67.839,52.978a12.066,12.066,0,1,0-13.756,0A18.983,18.983,0,0,0,42,70.646V82.712a1.729,1.729,0,0,0,1.724,1.724H78.2a1.729,1.729,0,0,0,1.724-1.724V70.646A18.983,18.983,0,0,0,67.839,52.978Zm-10.532-2.1a6.875,6.875,0,0,0,3.654-6.085H57.514a3.458,3.458,0,0,1-3.447,3.448,8.517,8.517,0,0,1-1.724-5.171,8.611,8.611,0,1,1,4.964,7.809ZM76.475,80.989H45.447V70.646a15.514,15.514,0,1,1,31.027,0Z" transform="translate(30.397 18.989)" fill="#707070"/>
       <path id="Path_880" data-name="Path 880" d="M56.866,52.978A12.066,12.066,0,1,0,38.422,39.619H32.751v3.447h5.171a12.063,12.063,0,0,0,5.188,9.912,19.022,19.022,0,0,0-8.653,6.792A18.867,18.867,0,0,0,25.822,53a12.07,12.07,0,1,0-13.738-.017A18.624,18.624,0,0,0,5.55,57.235,18.826,18.826,0,0,0,0,70.646V82.712a1.729,1.729,0,0,0,1.724,1.724h65.5a1.729,1.729,0,0,0,1.724-1.724V70.646A18.983,18.983,0,0,0,56.866,52.978ZM10.342,43.066a8.619,8.619,0,0,1,17.237,0,8.517,8.517,0,0,1-1.724,5.171,3.458,3.458,0,0,1-3.447-3.448H18.961a6.875,6.875,0,0,0,3.654,6.085,8.624,8.624,0,0,1-12.273-7.809Zm20.685,27.58V80.989H3.447V70.646a15.5,15.5,0,0,1,29.1-7.464A19.18,19.18,0,0,0,31.027,70.646Zm18.961-36.2A8.668,8.668,0,0,1,57.9,39.619H42.077A8.668,8.668,0,0,1,49.989,34.447Zm-6.895,13.79a8.517,8.517,0,0,1-1.724-5.171H58.607a8.624,8.624,0,0,1-12.273,7.809,6.875,6.875,0,0,0,3.654-6.085H46.541a3.458,3.458,0,0,1-3.447,3.448ZM65.5,80.989H34.475V70.646a15.514,15.514,0,1,1,31.027,0Z" transform="translate(0 18.989)" fill="#707070"/>
       <path id="Path_881" data-name="Path 881" d="M52,47h3.448v3.447H52Z" transform="translate(37.635 30.569)" fill="#707070"/>
@@ -128,10 +121,9 @@ Activation" transform="translate(-4279.001 2043.551)" fill="#21232a" font-size="
       <path id="Path_891" data-name="Path 891" d="M55,8h3.448v3.447H55Z" transform="translate(39.806 2.342)" fill="#707070"/>
       <path id="Path_892" data-name="Path 892" d="M55.895,18.895A6.9,6.9,0,0,1,49,12h3.447a3.447,3.447,0,0,0,6.895,0H62.79A6.9,6.9,0,0,1,55.895,18.895Z" transform="translate(35.464 5.237)" fill="#707070"/>
     </g>
-    <text id="Customer_Account_Creation" data-name="Customer
-Account
-Creation" transform="translate(-4280.001 1092.551)" fill="#21232a" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-133.969" y="0">Customer</tspan><tspan x="-112.363" y="75">Account</tspan><tspan x="-118.298" y="150">Creation</tspan></text>
-    <g id="report" transform="translate(-4328.892 46.099)">
+    <text id="ग्राहक_का_खाता_खोलना" data-name="ग्राहक का
+खाता खोलना" transform="translate(-4243.001 -3852.449)" fill="#21232a" font-size="55" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-109.987" y="0">ग्राहक</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="0">का</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans"></tspan><tspan x="-151.827" y="75">खाता</tspan><tspan y="75" font-family="OpenSans-Bold, Open Sans"> </tspan><tspan y="75">खोलना</tspan></text>
+    <g id="report" transform="translate(-4291.892 -4898.901)">
       <path id="Path_907" data-name="Path 907" d="M99.081,50.38H83.967V14.419L69.548,0H0V104.119H83.967V94.043H99.081A5.045,5.045,0,0,0,104.119,89V55.418A5.045,5.045,0,0,0,99.081,50.38ZM73.891,16.793V26.869H43.663V10.076H67.173v6.717Zm-3.359-3.359v-7.7l7.7,7.7ZM80.608,100.76H3.359V3.359H67.173V6.717H40.3V30.228H77.249V16.793h3.359V50.38H45.342A5.045,5.045,0,0,0,40.3,55.418V89a5.045,5.045,0,0,0,5.038,5.038H80.608ZM100.76,89a1.682,1.682,0,0,1-1.679,1.679H45.342A1.682,1.682,0,0,1,43.663,89V55.418a1.682,1.682,0,0,1,1.679-1.679H99.081a1.682,1.682,0,0,1,1.679,1.679Zm0,0" fill="#707070"/>
       <path id="Path_908" data-name="Path 908" d="M254.228,275.359A3.362,3.362,0,0,0,250.869,272H227.359A3.362,3.362,0,0,0,224,275.359v10.076a3.362,3.362,0,0,0,3.359,3.359h23.511a3.362,3.362,0,0,0,3.359-3.359Zm-3.359,10.076H227.359l0-10.076h23.512Zm0,0" transform="translate(-176.979 -214.903)" fill="#707070"/>
       <path id="Path_909" data-name="Path 909" d="M384,272h16.793v3.359H384Zm0,0" transform="translate(-303.392 -214.903)" fill="#707070"/>
@@ -149,7 +141,7 @@ Creation" transform="translate(-4280.001 1092.551)" fill="#21232a" font-size="55
       <path id="Path_921" data-name="Path 921" d="M224,208h30.228v3.359H224Zm0,0" transform="translate(-176.979 -164.337)" fill="#707070"/>
       <path id="Path_922" data-name="Path 922" d="M224,176h30.228v3.359H224Zm0,0" transform="translate(-176.979 -139.055)" fill="#707070"/>
     </g>
-    <g id="Delivery" transform="translate(-4326.235 471.23)">
+    <g id="Delivery" transform="translate(-4289.235 -4473.77)">
       <path id="Path_872" data-name="Path 872" d="M101.016,7H12.342L7.883,2.535A1.675,1.675,0,1,0,5.513,4.9l34.806,34.8L14.26,65.766,4.581,56.088a1.675,1.675,0,1,0-2.369,2.369l6.675,6.675V92.423A1.675,1.675,0,0,0,10.563,94.1h29.66l6.018,6.018a4.915,4.915,0,0,0,3.467,1.461h.131a4.931,4.931,0,0,0,3.518-1.462,4.986,4.986,0,0,0,1.057-1.556,5.058,5.058,0,0,0,7.107-2.365,4.893,4.893,0,0,0,2.471.648,5.193,5.193,0,0,0,3.578-1.461,5.025,5.025,0,0,0,.988-1.4A5.047,5.047,0,0,0,74.9,94.1h26.114a1.675,1.675,0,0,0,1.675-1.675V8.671A1.675,1.675,0,0,0,101.016,7Zm-38.526,3.35V27.1h-13.4V10.346Zm-50.251,80.4V68.482l.838.838a1.675,1.675,0,0,0,2.369,0l2.369-2.369.441.441a8.4,8.4,0,0,1,2.178,3.8l.295,1.137a11.741,11.741,0,0,0,3.055,5.328L36.873,90.748Zm59.543,1.065a1.732,1.732,0,0,1-1.159-.479L67.56,88.271h0a1.675,1.675,0,1,0-2.37,2.369,1.675,1.675,0,0,1,0,2.369,1.608,1.608,0,0,1-1.209.481,1.707,1.707,0,0,1-1.161-.479l-2.369-2.369a1.675,1.675,0,0,0-2.367,2.368h0a1.675,1.675,0,0,1,0,2.363,1.752,1.752,0,0,1-1.206.481,1.439,1.439,0,0,1-1.162-.481l-2.369-2.363a1.675,1.675,0,0,0-2.37,2.369,1.675,1.675,0,0,1,0,2.369,1.546,1.546,0,0,1-1.206.481,1.653,1.653,0,0,1-1.162-.481L26.163,75.291a8.375,8.375,0,0,1-2.178-3.8l-.3-1.137a11.747,11.747,0,0,0-3.054-5.327l-.441-.441L37.948,46.815,39.637,48.5a5.015,5.015,0,0,0,2.427,1.34l8.375,1.923a25.173,25.173,0,0,1,14.441,9.38l8.56,11.367-.156.156a3.32,3.32,0,0,1-2.367.982h0a3.335,3.335,0,0,1-2.369-.983L64.36,68.478a4.082,4.082,0,0,0-2.911-1.209h0a4.214,4.214,0,0,0-2.958,7.189L72.868,88.835a1.814,1.814,0,0,1,.238,2.389h0a1.765,1.765,0,0,1-1.325.59Zm27.56-1.065H76.757a5.307,5.307,0,0,0-1.531-4.286L60.85,72.085a.853.853,0,0,1-.248-.6.908.908,0,0,1,.293-.647.769.769,0,0,1,1.087,0l4.188,4.188a6.663,6.663,0,0,0,4.737,1.965h0a6.648,6.648,0,0,0,4.735-1.963l1.184-1.184a1.675,1.675,0,0,0,.154-2.193L67.545,59.121A28.519,28.519,0,0,0,51.179,48.5L42.8,46.575a1.685,1.685,0,0,1-.812-.451L40.3,44.436l3.554-3.554a1.675,1.675,0,0,0,0-2.369L15.692,10.346H45.739V28.771a1.675,1.675,0,0,0,1.675,1.675h16.75a1.675,1.675,0,0,0,1.675-1.675V10.346h33.5Z" transform="translate(-1.722 -2.044)" fill="#707070"/>
       <path id="Path_873" data-name="Path 873" d="M48.675,48.35H57.05a1.675,1.675,0,1,0,0-3.35H48.675a1.675,1.675,0,0,0,0,3.35Z" transform="translate(28.843 26.954)" fill="#707070"/>
       <path id="Path_874" data-name="Path 874" d="M56.675,48.35H58.35a1.675,1.675,0,1,0,0-3.35H56.675a1.675,1.675,0,1,0,0,3.35Z" transform="translate(34.243 26.954)" fill="#707070"/>
@@ -158,7 +150,7 @@ Creation" transform="translate(-4280.001 1092.551)" fill="#21232a" font-size="55
       <path id="Path_877" data-name="Path 877" d="M58.4,49H46.675a1.675,1.675,0,0,0,0,3.35H58.4a1.675,1.675,0,0,0,0-3.35Z" transform="translate(27.493 29.654)" fill="#707070"/>
       <path id="Path_878" data-name="Path 878" d="M56.675,52.35H58.35a1.675,1.675,0,1,0,0-3.35H56.675a1.675,1.675,0,1,0,0,3.35Z" transform="translate(34.243 29.654)" fill="#707070"/>
     </g>
-    <g id="profile" transform="translate(-4323.578 901.677)">
+    <g id="profile" transform="translate(-4286.578 -4043.323)">
       <path id="Path_900" data-name="Path 900" d="M89.648,28.481H6.923A6.938,6.938,0,0,0,0,35.419v73.148a5.736,5.736,0,0,0,5.718,5.741H90.853a5.736,5.736,0,0,0,5.718-5.741V35.419a6.938,6.938,0,0,0-6.923-6.938ZM3.772,35.419a3.162,3.162,0,0,1,3.151-3.166H89.648A3.162,3.162,0,0,1,92.8,35.419v11.21H3.772ZM92.8,108.567a1.96,1.96,0,0,1-1.946,1.968H5.718a1.959,1.959,0,0,1-1.946-1.968V50.4H92.8Z" transform="translate(0 -28.481)" fill="#707070"/>
       <path id="Path_901" data-name="Path 901" d="M309.959,76.589h-2.534a1.886,1.886,0,1,0,0,3.772h2.534a1.886,1.886,0,0,0,0-3.772Z" transform="translate(-247.91 -67.515)" fill="#707070"/>
       <path id="Path_902" data-name="Path 902" d="M372.091,76.589h-2.534a1.886,1.886,0,1,0,0,3.772h2.534a1.886,1.886,0,1,0,0-3.772Z" transform="translate(-298.323 -67.515)" fill="#707070"/>
@@ -167,7 +159,7 @@ Creation" transform="translate(-4280.001 1092.551)" fill="#21232a" font-size="55
       <path id="Path_905" data-name="Path 905" d="M143.714,218.842a26.1,26.1,0,1,0-26.1-26.1A26.132,26.132,0,0,0,143.714,218.842Zm0-48.432a22.33,22.33,0,1,1-22.33,22.33A22.355,22.355,0,0,1,143.714,170.41Z" transform="translate(-95.429 -140.579)" fill="#707070"/>
       <path id="Path_906" data-name="Path 906" d="M194.289,251.876h20.218a1.886,1.886,0,0,0,1.886-1.886v-6.465a8.513,8.513,0,0,0-4.453-7.45,9.717,9.717,0,1,0-15.086,0,8.5,8.5,0,0,0-4.451,7.451v6.465A1.887,1.887,0,0,0,194.289,251.876ZM204.4,224.01a5.945,5.945,0,1,1-5.945,5.945A5.952,5.952,0,0,1,204.4,224.01Zm-8.223,19.515a4.712,4.712,0,0,1,4.3-4.681,9.715,9.715,0,0,0,7.849,0,4.716,4.716,0,0,1,4.3,4.681V248.1H196.176v-4.578Z" transform="translate(-156.113 -184.07)" fill="#707070"/>
     </g>
-    <g id="meter" transform="translate(-4326.235 1377.293)">
+    <g id="meter" transform="translate(-4289.235 -3567.707)">
       <path id="Path_893" data-name="Path 893" d="M86.183,14.786a50.485,50.485,0,0,0-71.4,71.4,50.485,50.485,0,0,0,71.4-71.4ZM83.394,83.394a46.526,46.526,0,0,1-77.022-18.1H41.628a1.972,1.972,0,1,0,0-3.944H5.245a46.53,46.53,0,1,1,90.481,0H59.337a1.972,1.972,0,1,0,0,3.944H94.6A46.255,46.255,0,0,1,83.394,83.394Z" transform="translate(-0.001 0)" fill="#707070"/>
       <path id="Path_894" data-name="Path 894" d="M91.514,61.433a1.972,1.972,0,1,0,3.944,0V52.576a35.751,35.751,0,0,1,9.955,1.98l-1.305,3.155a1.972,1.972,0,1,0,3.645,1.508l1.3-3.151a36.1,36.1,0,0,1,8.182,5.432L111,67.736a1.972,1.972,0,0,0,2.788,2.79l6.267-6.263a36.124,36.124,0,0,1,5.866,8.668l-3.151,1.3a1.972,1.972,0,1,0,1.508,3.645l3.155-1.305a35.745,35.745,0,0,1,1.98,9.955h-8.857a1.972,1.972,0,0,0,0,3.944h10.884a1.4,1.4,0,0,0,.147-.007A1.971,1.971,0,0,0,133.41,88.5a39.92,39.92,0,1,0-79.841,0,1.972,1.972,0,0,0,1.972,1.972H66.425a1.972,1.972,0,0,0,0-3.944H57.568a35.745,35.745,0,0,1,1.98-9.955L62.7,77.879a1.972,1.972,0,0,0,1.508-3.645l-3.152-1.3a36.112,36.112,0,0,1,5.865-8.668l6.262,6.262a1.972,1.972,0,0,0,2.789-2.789L69.739,61.5a36.1,36.1,0,0,1,8.18-5.432l1.308,3.153a1.972,1.972,0,1,0,3.643-1.512l-1.308-3.153a35.738,35.738,0,0,1,9.953-1.98v8.857Z" transform="translate(-43.005 -38.997)" fill="#707070"/>
       <path id="Path_895" data-name="Path 895" d="M231.265,174.968l-.016-.039L226.2,163.105a1.972,1.972,0,0,0-1.813-1.2h0a1.972,1.972,0,0,0-1.813,1.2l-5.048,11.823-.021.051a9.09,9.09,0,0,0-.881,3.563,7.766,7.766,0,1,0,15.532,0A9.125,9.125,0,0,0,231.265,174.968Zm-6.883,7.4a3.826,3.826,0,0,1-3.819-3.825,5.721,5.721,0,0,1,.593-2.085l3.227-7.558,3.231,7.558a5.72,5.72,0,0,1,.593,2.084A3.83,3.83,0,0,1,224.382,182.368Z" transform="translate(-173.901 -129.979)" fill="#707070"/>
@@ -176,7 +168,7 @@ Creation" transform="translate(-4280.001 1092.551)" fill="#21232a" font-size="55
       <path id="Path_898" data-name="Path 898" d="M315.619,385.451h-7a1.972,1.972,0,0,0,0,3.944h7a1.972,1.972,0,0,0,0-3.944Z" transform="translate(-246.176 -309.438)" fill="#707070"/>
       <path id="Path_899" data-name="Path 899" d="M247.969,315.042a1.978,1.978,0,1,0-.011,0Z" transform="translate(-197.477 -249.748)" fill="#707070"/>
     </g>
-    <g id="Group_352" data-name="Group 352" transform="translate(-4334.207 1821.024)">
+    <g id="Group_352" data-name="Group 352" transform="translate(-4297.207 -3123.976)">
       <g id="Outline">
         <path id="Path_927" data-name="Path 927" d="M41.785,162.775h7.14V196.69H52.5V162.775h71.4V196.69h3.57V162.775h7.14a1.785,1.785,0,0,0,1.706-2.31l-7.14-23.2a1.785,1.785,0,0,0-1.706-1.26H122.11v3.57h4.037l6.041,19.635H44.2l6.041-19.635H54.28V136H48.925a1.785,1.785,0,0,0-1.706,1.26l-7.14,23.205a1.785,1.785,0,0,0,1.706,2.31Z" transform="translate(-36.428 -95.94)" fill="#707070"/>
         <rect id="Rectangle_216" data-name="Rectangle 216" width="3.199" height="3.998" transform="translate(48.242 91.652)" fill="#707070"/>
@@ -192,63 +184,63 @@ Creation" transform="translate(-4280.001 1092.551)" fill="#21232a" font-size="55
         <path id="Path_934" data-name="Path 934" d="M21.209,31.076a2.031,2.031,0,0,1-1.438-.6l-5.425-5.425a2.035,2.035,0,1,1,2.878-2.878l3.89,3.887L34.491,14.193a2.036,2.036,0,0,1,3.063,2.683L22.745,30.384a2.064,2.064,0,0,1-1.468.692Z" transform="translate(-13.75 -13.501)" fill="#707070"/>
       </g>
     </g>
-    <line id="Line_268" data-name="Line 268" y1="3655.725" transform="translate(-4027.314 -1396)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.497"/>
-    <line id="Line_35" data-name="Line 35" x1="2561.418" transform="translate(-4576 -946.318)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <path id="Path_5464" data-name="Path 5464" d="M0,3655.725V0" transform="translate(-3336.475 -1396)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.497"/>
-    <line id="Line_270" data-name="Line 270" y1="3655.725" transform="translate(-2645.636 -1396)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.497"/>
-    <line id="Line_271" data-name="Line 271" x1="2561.418" transform="translate(-4576 -494.615)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <line id="Line_272" data-name="Line 272" x1="2561.418" transform="translate(-4576 -42.913)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <line id="Line_273" data-name="Line 273" x1="1930.364" transform="translate(-4576 408.79)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <line id="Line_274" data-name="Line 274" x1="1930.364" transform="translate(-4576 860.492)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <line id="Line_275" data-name="Line 275" x1="1930.364" transform="translate(-4576 1312.195)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <line id="Line_276" data-name="Line 276" x1="2561.418" transform="translate(-4576 1763.897)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
-    <rect id="Rectangle_258" data-name="Rectangle 258" width="346" height="165" transform="translate(-2494.001 628)" fill="#ffdeb2"/>
-    <rect id="Rectangle_259" data-name="Rectangle 259" width="346" height="164" transform="translate(-2494.001 813)" fill="#58ff7b" opacity="0.646"/>
-    <rect id="Rectangle_1054" data-name="Rectangle 1054" width="346" height="164" transform="translate(-2496.001 997)" fill="#afc8db" opacity="0.646"/>
-    <text id="Manual" transform="translate(-2322.001 724.551)" fill="#21232a" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-75.41" y="0">Manual</tspan></text>
-    <text id="Automated_Customer_App_" data-name="Automated
-(Customer App)" transform="translate(-2323.001 888.551)" fill="#21232a" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-112.881" y="0">Automated</tspan><tspan x="-155.293" y="49">(Customer App)</tspan></text>
-    <text id="Automated_Field_Force_App_" data-name="Automated
-(Field Force App)" transform="translate(-2323.001 1070)" fill="#21232a" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-112.881" y="0">Automated</tspan><tspan x="-165.254" y="49">(Field Force App)</tspan></text>
-    <text id="LEGENDS" transform="translate(-2321.001 580.551)" fill="#21232a" font-size="46" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="0.2em"><tspan x="-131.403" y="0">LEGENDS</tspan></text>
-    <g id="Group_3087" data-name="Group 3087" transform="translate(-4025.924 -1194.386)">
+    <line id="Line_268" data-name="Line 268" y1="3655.725" transform="translate(-3990.314 -6341)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.497"/>
+    <line id="Line_35" data-name="Line 35" x1="2561.418" transform="translate(-4539 -5891.317)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <path id="Path_5464" data-name="Path 5464" d="M0,3655.725V0" transform="translate(-3299.475 -6341)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.497"/>
+    <line id="Line_270" data-name="Line 270" y1="3655.725" transform="translate(-2608.636 -6341)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.497"/>
+    <line id="Line_271" data-name="Line 271" x1="2561.418" transform="translate(-4539 -5439.615)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <line id="Line_272" data-name="Line 272" x1="2561.418" transform="translate(-4539 -4987.913)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <line id="Line_273" data-name="Line 273" x1="1930.364" transform="translate(-4539 -4536.21)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <line id="Line_274" data-name="Line 274" x1="1930.364" transform="translate(-4539 -4084.508)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <line id="Line_275" data-name="Line 275" x1="1930.364" transform="translate(-4539 -3632.805)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <line id="Line_276" data-name="Line 276" x1="2561.418" transform="translate(-4539 -3181.103)" fill="none" stroke="rgba(112,112,112,0.53)" stroke-width="1" opacity="0.502"/>
+    <rect id="Rectangle_258" data-name="Rectangle 258" width="346" height="165" transform="translate(-2457.001 -4317)" fill="#ffdeb2"/>
+    <rect id="Rectangle_259" data-name="Rectangle 259" width="346" height="164" transform="translate(-2457.001 -4132)" fill="#58ff7b" opacity="0.646"/>
+    <rect id="Rectangle_1054" data-name="Rectangle 1054" width="346" height="164" transform="translate(-2459.001 -3948)" fill="#afc8db" opacity="0.646"/>
+    <text id="मैनुअल" transform="translate(-2285.001 -4220.449)" fill="#21232a" font-size="48" font-family="Mangal-Regular, Mangal"><tspan x="-70.102" y="0">मैनुअल</tspan></text>
+    <text id="ऑटोमेटेड_कस्टमर_एप_" data-name="ऑटोमेटेड
+(कस्टमर एप)" transform="translate(-2286.001 -4056.449)" fill="#21232a" font-size="48" font-family="Mangal-Regular, Mangal"><tspan x="-89.672" y="0">ऑटोमेटेड</tspan><tspan x="-135.914" y="49">(कस्टमर एप)</tspan></text>
+    <text id="ऑटोमेटेड_फील्ड_फोर्स_एप्प_" data-name="ऑटोमेटेड 
+(फील्ड फोर्स एप्प)" transform="translate(-2286.001 -3875)" fill="#21232a" font-size="47" font-family="Mangal-Regular, Mangal"><tspan x="-99.554" y="0">ऑटोमेटेड </tspan><tspan x="-174.253" y="49">(फील्ड फोर्स एप्प)</tspan></text>
+    <text id="संकेत" transform="translate(-2284.001 -4364.449)" fill="#21232a" font-size="52" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700" letter-spacing="0.2em"><tspan x="-71.693" y="0">संकेत</tspan></text>
+    <g id="Group_3087" data-name="Group 3087" transform="translate(-3988.924 -6139.386)">
       <path id="Polygon_9" data-name="Polygon 9" d="M15.5,0,31,26H0Z" transform="translate(25.923 0.386) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22" data-name="Polygon 22" d="M15.5,0,31,28H0Z" transform="translate(717.923 0.386) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_23" data-name="Polygon 23" d="M15.5,0,31,26H0Z" transform="translate(1407.923 0.386) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3088" data-name="Group 3088" transform="translate(-4025.924 -737.569)">
+    <g id="Group_3088" data-name="Group 3088" transform="translate(-3988.924 -5682.569)">
       <path id="Polygon_9-2" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 -0.431) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Path_5465" data-name="Path 5465" d="M31.885,0h0Z" transform="translate(1381.616 0.28) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3089" data-name="Group 3089" transform="translate(-4025.924 -290.781)">
+    <g id="Group_3089" data-name="Group 3089" transform="translate(-3988.924 -5235.781)">
       <path id="Polygon_9-3" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 -0.219) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22-2" data-name="Polygon 22" d="M16,0,32,28H0Z" transform="translate(717.923 -0.219) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_23-2" data-name="Polygon 23" d="M16,0,32,26H0Z" transform="translate(1407.923 -0.219) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3090" data-name="Group 3090" transform="translate(-4025.924 161)">
+    <g id="Group_3090" data-name="Group 3090" transform="translate(-3988.924 -4784)">
       <path id="Polygon_9-4" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 0.227) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22-3" data-name="Polygon 22" d="M16,0,32,28H0Z" transform="translate(717.923 0.227) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Path_5466" data-name="Path 5466" d="M31.885,0h0Z" transform="translate(1381.616 0) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3091" data-name="Group 3091" transform="translate(-4025.924 618.474)">
+    <g id="Group_3091" data-name="Group 3091" transform="translate(-3988.924 -4326.526)">
       <path id="Polygon_9-5" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 -0.473) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22-4" data-name="Polygon 22" d="M16,0,32,28H0Z" transform="translate(717.923 -0.473) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3092" data-name="Group 3092" transform="translate(-4025.924 1061.367)">
+    <g id="Group_3092" data-name="Group 3092" transform="translate(-3988.924 -3883.633)">
       <path id="Polygon_9-6" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 -0.367) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22-5" data-name="Polygon 22" d="M16,0,32,28H0Z" transform="translate(717.923 -0.367) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3093" data-name="Group 3093" transform="translate(-4025.924 1503.273)">
+    <g id="Group_3093" data-name="Group 3093" transform="translate(-3988.924 -3441.728)">
       <path id="Polygon_9-7" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 -0.273) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22-6" data-name="Polygon 22" d="M16,0,32,28H0Z" transform="translate(717.923 -0.273) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_23-3" data-name="Polygon 23" d="M16,0,32,26H0Z" transform="translate(1407.923 -0.273) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3094" data-name="Group 3094" transform="translate(-4025.924 1968.167)">
+    <g id="Group_3094" data-name="Group 3094" transform="translate(-3988.924 -2976.833)">
       <path id="Polygon_9-8" data-name="Polygon 9" d="M16,0,32,26H0Z" transform="translate(25.923 -0.166) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_22-7" data-name="Polygon 22" d="M16,0,32,28H0Z" transform="translate(717.923 -0.166) rotate(90)" fill="#707070" opacity="0.303"/>
       <path id="Polygon_23-4" data-name="Polygon 23" d="M16,0,32,26H0Z" transform="translate(1407.923 -0.166) rotate(90)" fill="#707070" opacity="0.303"/>
     </g>
-    <g id="Group_3095" data-name="Group 3095" transform="translate(-4025.944 986.606)" opacity="0.197">
+    <g id="Group_3095" data-name="Group 3095" transform="translate(-3988.944 -3958.394)" opacity="0.197">
       <g id="Group_349" data-name="Group 349" transform="translate(2155.187)">
         <g id="Group_348" data-name="Group 348">
           <g id="Group_346" data-name="Group 346" transform="translate(50.183)">

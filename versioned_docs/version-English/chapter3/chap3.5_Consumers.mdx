@@ -25,7 +25,7 @@ export const Tabheader = ({children, color}) => (
       height: '1.5rem',
       width: '2rem',
     }}>
-    {children}
+    *{children}
   </th>
 );
 
@@ -491,9 +491,21 @@ Tapping on aconsumer allows the user to choose from three options:
 **Page Details**
 The Consumer Activity page is organised into several tabs, which follow the process of the account status change.
 
-| Request| In Process| Review| Completed|
-|---|---|---|---|
-|Register a customer for de-/re-activation|List of customers whose connection requires attention|Confirming the action has been completed| Historical list of all customer de-/re-activation details|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Request</Tabheader>
+        <Tabheader color="#A9CCE3">In Process</Tabheader>
+        <Tabheader color="#A9CCE3">Review</Tabheader>
+        <Tabheader color="#A9CCE3">Completed</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Register a customer for de-/re-activation</Tabcell>
+        <Tabcell color="#AED6F1">List of customers whose connection requires attention</Tabcell>
+        <Tabcell color="#AED6F1">Confirming the action has been completed</Tabcell>
+        <Tabcell color="#AED6F1">Historical list of all customer de-/re-activation details</Tabcell>
+    </tr>
+</table>
+
 
 ### 3.5.6.1. Request tab
 
@@ -620,9 +632,18 @@ The Consumer Activity page is organised into several tabs, which follow the proc
 
 **Page Details**
 
-| Report| Request| Completed|
-|---|---|---|
-|Overview statistics on completed and pending service requests| Detailed list of pending requests and personnel assignments| Record of all completed requests|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Report</Tabheader>
+        <Tabheader color="#A9CCE3">Request</Tabheader>
+        <Tabheader color="#A9CCE3">Completed</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Overview statistics on completed and pending service requests</Tabcell>
+        <Tabcell color="#AED6F1">Detailed list of pending requests and personnel assignments</Tabcell>
+        <Tabcell color="#AED6F1">Record of all completed requests</Tabcell>
+    </tr>
+</table>
 
 ### 3.5.7.1. Report tab
 
@@ -1003,17 +1024,16 @@ The Survey page allows the user to record information about an existing/prospect
 
 <table>
     <tr>
-        <th>Pending</th>
-        <th>In Process</th>
-        <th>Completed</th>
+        <Tabheader color="#A9CCE3 ">Pending</Tabheader>
+        <Tabheader color="#A9CCE3">In Process</Tabheader>
+        <Tabheader color="#A9CCE3">Completed</Tabheader>
     </tr>
     <tr>
-         <td>The theft reports that are reported</td>
-         <td>Theft reports that are currently being investigated</td>
-         <td>Theft reports that have been appropriately dealt with</td>
+        <Tabcell color="#AED6F1">The theft reports that are reported</Tabcell>
+        <Tabcell color="#AED6F1">Theft reports that are currently being investigated</Tabcell>
+        <Tabcell color="#AED6F1">Theft reports that have been appropriately dealt with</Tabcell>
     </tr>
 </table>
-
 
 ### 3.5.12.1. Pending tab
 

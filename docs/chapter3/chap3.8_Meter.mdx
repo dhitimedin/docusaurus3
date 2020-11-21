@@ -17,6 +17,29 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 export const Clear = ({children}) => (
   <div
     style={{ 
@@ -106,9 +129,18 @@ export const Clear = ({children}) => (
 
 इस पेज में निम्नलिखित टैब हैं -
 
-| विचाराधीन | समीक्षा | पूरे किए गए |
-|---|---|---|
-| लंबित मीटर अनुरोधों को देखें, एजेंट को असाइन करें और पूरा किया गया चिह्न | पूर्ण मीटर अनुरोधों की सूची | ऐतिहासिक पूर्ण और स्वीकृत मीटर अनुरोधों की सूची |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">विचाराधीन</Tabheader>
+        <Tabheader color="#A9CCE3">समीक्षा</Tabheader>
+        <Tabheader color="#A9CCE3">पूरे किए गए</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">लंबित मीटर अनुरोधों को देखें, एजेंट को असाइन करें और पूरा किया गया चिह्न</Tabcell>
+        <Tabcell color="#AED6F1">पूर्ण मीटर अनुरोधों की सूची</Tabcell>
+        <Tabcell color="#AED6F1">ऐतिहासिक पूर्ण और स्वीकृत मीटर अनुरोधों की सूची</Tabcell>
+    </tr>
+</table>
 
 
 ### 3.8.3.1. पेंडिंग टैब

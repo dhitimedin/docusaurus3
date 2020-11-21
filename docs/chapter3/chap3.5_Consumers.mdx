@@ -495,9 +495,21 @@ export const Clear = ({children}) => (
 **पेज के डिटेल**
 ज़्यूमर एक्टिविटी पेज कई टैब में रखा गया है, जिसका प्रोसेस अकाउंट स्टेटस चेंज की तरह है। 
 
-| अनुरोध | प्रक्रिया में | समीक्षा | पूरे किए गए |
-|---|---|---|---|
-| De- / पुनः सक्रियण के लिए एक ग्राहक पंजीकृत करें | उन ग्राहकों की सूची जिनके कनेक्शन पर ध्यान देने की आवश्यकता है | कार्रवाई की पुष्टि की गई है | सभी ग्राहक की ऐतिहासिक सूची de- / पुनः सक्रियण विवरण |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">अनुरोध</Tabheader>
+        <Tabheader color="#A9CCE3">प्रक्रिया में</Tabheader>
+        <Tabheader color="#A9CCE3">समीक्षा</Tabheader>
+        <Tabheader color="#A9CCE3">पूरे किए गए</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">डी/पुनः सक्रियण के लिए एक ग्राहक पंजीकृत करें </Tabcell>
+        <Tabcell color="#AED6F1">उन ग्राहकों की सूची जिनके कनेक्शन पर ध्यान देने की आवश्यकता है</Tabcell>
+        <Tabcell color="#AED6F1">कार्रवाई की पुष्टि की गई है</Tabcell>
+        <Tabcell color="#AED6F1">सभी ग्राहक की ऐतिहासिक सूची डी/पुनः सक्रियण विवरण</Tabcell>
+    </tr>
+</table>
+
 
 ### 3.5.6.1. रिक्वेस्ट टैब
 
@@ -627,9 +639,19 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-| रिपोर्ट | अनुरोध | पूरे किए गए |
-|---|---|---|
-| पूर्ण और लंबित सेवा अनुरोधों पर अवलोकन आँकड़े | लंबित अनुरोधों और कर्मियों के असाइनमेंट की विस्तृत सूची | सभी पूर्ण अनुरोधों का रिकॉर्ड |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">रिपोर्ट </Tabheader>
+        <Tabheader color="#A9CCE3">अनुरोध</Tabheader>
+        <Tabheader color="#A9CCE3">पूरे किए गए</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">पूर्ण और लंबित सेवा अनुरोधों पर अवलोकन आँकड़े</Tabcell>
+        <Tabcell color="#AED6F1">लंबित अनुरोधों और कर्मियों के असाइनमेंट की विस्तृत सूची</Tabcell>
+        <Tabcell color="#AED6F1">सभी पूर्ण अनुरोधों का रिकॉर्ड</Tabcell>
+    </tr>
+</table>
+
 
 ### 3.5.7.1. रिपोर्ट टैब
 
@@ -1019,14 +1041,14 @@ export const Clear = ({children}) => (
 
 <table>
     <tr>
-        <th>लंबित</th>
-        <th>प्रक्रिया में</th>
-        <th>पूरे किए गए</th>
+        <Tabheader color="#A9CCE3 ">लंबित</Tabheader>
+        <Tabheader color="#A9CCE3">प्रक्रिया में</Tabheader>
+        <Tabheader color="#A9CCE3">पूरे किए गए</Tabheader>
     </tr>
     <tr>
-         <td>चोरी की रिपोर्ट जो बताई जाती है</td>
-         <td>चोरी की रिपोर्ट जो वर्तमान में जांच की जा रही है</td>
-         <td>चोरी की रिपोर्ट जो उचित तरीके से निपटाया गया है</td>
+        <Tabcell color="#AED6F1">चोरी की रिपोर्ट जो बताई जाती है</Tabcell>
+        <Tabcell color="#AED6F1">चोरी की रिपोर्ट जो वर्तमान में जांच की जा रही है</Tabcell>
+        <Tabcell color="#AED6F1">चोरी की रिपोर्ट जो उचित तरीके से निपटाया गया है</Tabcell>
     </tr>
 </table>
 

@@ -14,13 +14,45 @@ export const Clear = ({children}) => (
   </div>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 **फंक्शनलिटी**
 * प्रोफाइल पेज से यूज़र अपने खाते के विवरण तक पहुँच सकता है।
 * इसमें स्वयं का विवरण, विगत भुगतान और बिजली की खपत की जानकारी मिल जाती है।
 
-| प्रोफाइल | भुगतान | मीटर रीडिंग |
-|---|---|---|
-| उपभोक्ता के प्रोफाइल विवरण के साथ | व्यक्तिगत भुगतान की कालानुक्रमिक सूची | ऊर्जा खपत का कालानुक्रमिक रिकॉर्ड |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">प्रोफाइल</Tabheader>
+        <Tabheader color="#A9CCE3">भुगतान</Tabheader>
+        <Tabheader color="#A9CCE3">मीटर रीडिंग</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">उपभोक्ता के प्रोफाइल विवरण के साथ</Tabcell>
+        <Tabcell color="#AED6F1">व्यक्तिगत भुगतान की कालानुक्रमिक सूची</Tabcell>
+        <Tabcell color="#AED6F1">ऊर्जा खपत का कालानुक्रमिक रिकॉर्ड</Tabcell>
+    </tr>
+</table>
 
 
 ## 4.5.1. प्रोफाइल

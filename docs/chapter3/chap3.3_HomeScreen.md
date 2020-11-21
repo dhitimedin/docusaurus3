@@ -13,6 +13,30 @@ export const Clear = ({children}) => (
   </div>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
+
 ## 3.3.1. एक नजर (ओवरव्यू)
 * लॉग-इन करने के बाद यूज़र के सामने सबसे पहले होम स्क्रीन आता है। 
 * एप्लीकेशन की अलग-अलग फंक्शनलिटी तक सर्क्युलर मॉड्यूल के जरिए पहुँचा जा सकता है।
@@ -47,9 +71,20 @@ export const Clear = ({children}) => (
 
 मुख्य-मुख्य पॉप-अप सूचनाएँ नीचे बताई गई हैं –
 
-| प्लांट मेंटेनेंस रिमाइंडर|जनरेशन एरर| खपत डेटा अनुस्मारक | जनरेशन डेटा रिमाइंडर |
-|--|--|--|--|
-| विभिन्न संयंत्रों में तकनीकी सर्विसिंग मुद्दों पर चिंता | उपयोगकर्ताओं को सौर पीढ़ी में विसंगतियों के लिए सचेत करें | अपूर्ण उपभोग डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है | अपूर्ण पीढ़ी डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">प्लांट मेंटेनेंस रिमाइंडर</Tabheader>
+        <Tabheader color="#A9CCE3">जनरेशन एरर</Tabheader>
+        <Tabheader color="#A9CCE3">खपत डेटा अनुस्मारक</Tabheader>
+        <Tabheader color="#A9CCE3">जनरेशन डेटा रिमाइंडर</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">विभिन्न संयंत्रों में तकनीकी सर्विसिंग मुद्दों पर चिंता</Tabcell>
+        <Tabcell color="#AED6F1">उपयोगकर्ताओं को सौर पीढ़ी में विसंगतियों के लिए सचेत करें</Tabcell>
+        <Tabcell color="#AED6F1">अपूर्ण उपभोग डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है</Tabcell>
+        <Tabcell color="#AED6F1">अपूर्ण पीढ़ी डेटा लॉगिंग पर एक उपयोगकर्ता को सूचित करता है</Tabcell>
+    </tr>
+</table>
 
 
 <figure><br clear="right"/>

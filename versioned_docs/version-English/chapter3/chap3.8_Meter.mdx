@@ -17,6 +17,29 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 export const Clear = ({children}) => (
   <div
     style={{ 
@@ -110,9 +133,18 @@ export const Clear = ({children}) => (
 
 The page is organised into the following tabs
 
-|Pending| Review| Completed|
-|---|---|---|
-| View of pending meter requests, assign to agent, and mark completed| List of completed meter requests| List of historical completed and acknowledged meter requests|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Pending</Tabheader>
+        <Tabheader color="#A9CCE3">Review</Tabheader>
+        <Tabheader color="#A9CCE3">Completed</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">View of pending meter requests, assign to agent, and mark completed</Tabcell>
+        <Tabcell color="#AED6F1">List of completed meter requests</Tabcell>
+        <Tabcell color="#AED6F1">List of historical completed and acknowledged meter requests</Tabcell>
+    </tr>
+</table>
 
 
 ### 3.8.3.1. Pending tab

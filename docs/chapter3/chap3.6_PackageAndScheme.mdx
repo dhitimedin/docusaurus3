@@ -17,6 +17,29 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 export const Clear = ({children}) => (
   <div
     style={{ 
@@ -73,9 +96,20 @@ export const Clear = ({children}) => (
 
 **पेज के डिटेल**
 
-| अनुरोध | प्रक्रिया में | समीक्षा | पूरे किए गए |
-|---|---|---|---|
-| पैकेज अनुरोध पर सूचना | सूची अनुरोधों पर काम किया जा रहा है | स्वीकृत अनुरोध का इंतजार कर रहे हैं | ऐतिहासिक पैकेज अनुरोधों का विवरण |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">अनुरोध</Tabheader>
+        <Tabheader color="#A9CCE3">प्रक्रिया में</Tabheader>
+        <Tabheader color="#A9CCE3">समीक्षा</Tabheader>
+        <Tabheader color="#A9CCE3">पूरे किए गए</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">पैकेज अनुरोध पर सूचना</Tabcell>
+        <Tabcell color="#AED6F1">सूची अनुरोधों पर काम किया जा रहा है</Tabcell>
+        <Tabcell color="#AED6F1">स्वीकृत अनुरोध का इंतजार कर रहे हैं</Tabcell>
+        <Tabcell color="#AED6F1">ऐतिहासिक पैकेज अनुरोधों का विवरण</Tabcell>
+    </tr>
+</table>
 
 
 ### 3.6.2.1. रिक्वेस्ट टैब

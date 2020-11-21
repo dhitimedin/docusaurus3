@@ -17,6 +17,29 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 export const Clear = ({children}) => (
   <div
     style={{ 
@@ -73,9 +96,20 @@ export const Clear = ({children}) => (
 
 **Page Details**
 
-| Request| In Process| Review| Completed|
-|---|---|---|---|
-| Information on package request| Lists requests that are being worked on| Completed requests that are awaiting approval| Details of historical package requests|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Request</Tabheader>
+        <Tabheader color="#A9CCE3">In Process</Tabheader>
+        <Tabheader color="#A9CCE3">Review</Tabheader>
+        <Tabheader color="#A9CCE3">Completed</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Information on package request</Tabcell>
+        <Tabcell color="#AED6F1">Lists requests that are being worked on</Tabcell>
+        <Tabcell color="#AED6F1">Completed requests that are awaiting approval</Tabcell>
+        <Tabcell color="#AED6F1">Details of historical package requests</Tabcell>
+    </tr>
+</table>
 
 
 ### 3.6.2.1. Request tab

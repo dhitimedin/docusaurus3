@@ -14,6 +14,29 @@ export const Clear = ({children}) => (
   </div>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 ## 3.3.1. Overview
 * The Home Screen is the first page the user views upon logging in.
 * The various functionalities of the application are accessible via the circular module icons.
@@ -48,9 +71,21 @@ export const Clear = ({children}) => (
 
 The main types of pop-up notifications are elaborated below.
 
-| Plant Maintenance Reminder|Generation Error| Consumption Data Reminder| Generation Data Reminder|
-|--|--|--|--|
-|Concerns technical servicing issues across various plants| Alert users to anomalies in solar generation| Notifies a user on incomplete consumption data logging| Notifies a user on incomplete generation data logging|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Plant Maintenance Reminder</Tabheader>
+        <Tabheader color="#A9CCE3">Generation Error</Tabheader>
+        <Tabheader color="#A9CCE3">Consumption Data Reminder</Tabheader>
+        <Tabheader color="#A9CCE3">Generation Data Reminder</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Concerns technical servicing issues across various plants</Tabcell>
+        <Tabcell color="#AED6F1">Alert users to anomalies in solar generation</Tabcell>
+        <Tabcell color="#AED6F1">Notifies a user on incomplete consumption data logging</Tabcell>
+        <Tabcell color="#AED6F1">Notifies a user on incomplete generation data logging</Tabcell>
+    </tr>
+</table>
+
 
 <figure>
 <br clear="right"/>

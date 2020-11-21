@@ -14,6 +14,29 @@ export const Clear = ({children}) => (
   </div>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 
 ## 3.7.1. एक नजर
 इस सेक्शन में नीचे बताई हुई फंक्शनलिटी हैं
@@ -440,9 +463,18 @@ export const Clear = ({children}) => (
 
 पेज में निम्नलिखित टैब रखे गए हैं -
 
-| बैंक जमा | हाथ में कैश रिपोर्ट | बैंक जमा की समीक्षा |
-|---|---|---|
-| ऐतिहासिक बैंक जमा की विस्तृत सूची | संग्रह और जमा का पौध-वार अवलोकन | सभी बैंक जमाओं का अवलोकन और पुष्टि की गई |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">बैंक जमा</Tabheader>
+        <Tabheader color="#A9CCE3">हाथ में कैश रिपोर्ट</Tabheader>
+        <Tabheader color="#A9CCE3">बैंक जमा की समीक्षा</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1"> ऐतिहासिक बैंक जमा की विस्तृत सूची </Tabcell>
+        <Tabcell color="#AED6F1">संग्रह और जमा का पौध-वार अवलोकन</Tabcell>
+        <Tabcell color="#AED6F1"> सभी बैंक जमाओं का अवलोकन और पुष्टि की गई </Tabcell>
+    </tr>
+</table>
 
 
 ### 3.7.7.1. बैंक डिपॉज़िट टैब

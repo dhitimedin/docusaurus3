@@ -17,6 +17,29 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 export const Clear = ({children}) => (
   <div
     style={{ 
@@ -383,9 +406,17 @@ Note that this page is also accessible directly from the Home Screen – see [Se
 
 The following are the pages that can be viewed through this functionality:
 
-| Active | Banned |
-|--|--|
-|Detailed list of Active consumer statistics for every plant| Detailed list of Banned consumers for every plant|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Active</Tabheader>
+        <Tabheader color="#A9CCE3">Banned</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Detailed list of Active consumer statistics for every plant</Tabcell>
+        <Tabcell color="#AED6F1">Detailed list of Banned consumers for every plant</Tabcell>
+    </tr>
+</table>
+
 
 <figure>
 <br clear="right"/>

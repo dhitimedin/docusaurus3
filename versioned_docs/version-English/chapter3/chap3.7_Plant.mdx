@@ -14,6 +14,28 @@ export const Clear = ({children}) => (
   </div>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
 
 ## 3.7.1. Overview
 The section consists of the following functionalities:
@@ -445,9 +467,18 @@ This page allows user to view recent diesel expenses for each plant
 
 The page is organised into the following tabs.
 
-| Bank Deposit| In Hand Cash Report| Bank Deposit Review|
-|---|---|---|
-| Detailed list of historical bank deposits| Plant-wise overview of collections and deposits| Overview of all the bank deposits made and confirmed|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Bank Deposit</Tabheader>
+        <Tabheader color="#A9CCE3">In Hand Cash Report</Tabheader>
+        <Tabheader color="#A9CCE3">Bank Deposit Review</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Detailed list of historical bank deposits</Tabcell>
+        <Tabcell color="#AED6F1">Plant-wise overview of collections and deposits</Tabcell>
+        <Tabcell color="#AED6F1">Overview of all the bank deposits made and confirmed</Tabcell>
+    </tr>
+</table>
 
 
 ### 3.7.7.1. Bank Deposit tab

@@ -14,13 +14,45 @@ export const Clear = ({children}) => (
   </div>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 **Functionality**
 * The Profile page gives the user access to their account details.
 * This includes personal information, past payments, and energy consumption.
 
-| Profile| Payments| Meter Readings|
-|---|---|---|
-| Consists of profile details of the consumer| Chronological list of individual payments| Chronological record of energy consumption|
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">Profile</Tabheader>
+        <Tabheader color="#A9CCE3">Payments</Tabheader>
+        <Tabheader color="#A9CCE3">Meter Readings</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">Consists of profile details of the consumer</Tabcell>
+        <Tabcell color="#AED6F1">Chronological list of individual payments</Tabcell>
+        <Tabcell color="#AED6F1">Chronological record of energy consumption</Tabcell>
+    </tr>
+</table>
 
 
 ## 4.5.1. Profile

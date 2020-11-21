@@ -16,6 +16,29 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '1.5rem',
+      width: '2rem',
+    }}>
+    *{children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '0.5rem solid white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
 export const Clear = ({children}) => (
   <div
     style={{ 
@@ -337,9 +360,17 @@ export const Clear = ({children}) => (
 
 इस फंक्शनलिटी से निम्नलिखित पेज देखे जा सकते हैं –
 
-| सक्रिय | प्रतिबंधित |
-|--|--|
-| हर संयंत्र के लिए सक्रिय उपभोक्ता आंकड़ों की विस्तृत सूची | हर संयंत्र के लिए प्रतिबंधित उपभोक्ताओं की विस्तृत सूची |
+<table>
+    <tr>
+        <Tabheader color="#A9CCE3 ">सक्रिय</Tabheader>
+        <Tabheader color="#A9CCE3">प्रतिबंधित</Tabheader>
+    </tr>
+    <tr>
+        <Tabcell color="#AED6F1">हर संयंत्र के लिए सक्रिय उपभोक्ता आंकड़ों की विस्तृत सूची</Tabcell>
+        <Tabcell color="#AED6F1">हर संयंत्र के लिए प्रतिबंधित उपभोक्ताओं की विस्तृत सूची</Tabcell>
+    </tr>
+</table>
+
 
 <figure><br clear="right"/>
 <img align="left" src={useBaseUrl("img/scrnshts/3.4.6_2_AgingReceivables.png")} alt="Spark Server" width="45%"/>

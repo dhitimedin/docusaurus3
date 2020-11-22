@@ -4,6 +4,35 @@ title: 1.2. मिनी ग्रिड के प्रबंध में ए
 sidebar_label: मिनी ग्रिड के प्रबंध में एमकॉम्स की भूमिका
 ---
 
+
+export const Tabheader = ({children, color}) => (
+  <th
+    style={{
+      backgroundColor: color,
+      borderRight: '1rem solid white',
+      borderColor: 'white',
+      borderSpacing: '1rem',
+      height: '1.5rem',
+      width: '2rem',
+      textAlign: 'left',
+    }}>
+    {children}
+  </th>
+);
+
+export const Tabcell = ({children, color}) => (
+  <td
+    style={{
+      backgroundColor: color,
+      borderRight: '1rem solid white',
+      borderColor: 'white',
+      height: '100px',
+    }}>
+    {children}
+  </td>
+);
+
+
 ## 1.2.1. प्रयोजन
 मिनी ग्रिड से जुड़े सभी पक्षों (स्टेकहोल्डर) को भलीभाँति संप्रेषण (कम्युनिकेशन) के लिए प्लेटफॉर्म प्रदान करना एमकॉम्स का लक्ष्य है। इसमें कामकाज का निश्चित क्रम (वर्कफ्लो) है, आसान इंटरफेस है, अन्य लोगों (थर्ड पार्टी) के हार्डवेअर ऑपरेट किए जा सकते हैं। डेटा अपने आप बहुत तेजी से एकत्रित होता है और पारदर्शी (ट्रांसपरेंट) तथा भरोसेमंद रिकॉर्ड तैयार होता है।
 
@@ -14,20 +43,28 @@ sidebar_label: मिनी ग्रिड के प्रबंध में 
 
 <table>
     <tr>
-        <th>सटीक और व्यापक रिकॉर्ड रखते हुए</th>
-        <th>वास्तविक समय संचार, नियंत्रण, और अद्यतन</th>
+        <Tabheader color="#FFE5CC ">
+            <ol>
+                <li>सटीक और व्यापक रिकॉर्ड रखते हुए</li>
+            </ol>
+         </Tabheader>
+        <Tabheader color="#FFE5CC ">
+            <ol>
+                <li>वास्तविक समय संचार, नियंत्रण, और अद्यतन</li>
+            </ol>
+        </Tabheader>
     </tr>
     <tr>
-        <td>
+        <Tabcell color="#FFB266">
             <ul>
                 <li>जिसमें ऐतिहासिक तकनीकी और वित्तीय डेटा, उपयोगकर्ता की जानकारी, पौधों की विशिष्टताओं, प्रणाली में बदलाव आदि के केंद्रीकृत डेटाबेस शामिल हैं।</li>
             </ul>
-        </td>
-        <td>
+        </Tabcell>
+        <Tabcell color="#FFB266">
             <ul>
                 <li>किसी भी नोड से जारी किए गए आदेशों का सटीक रूप से प्रचार और वितरण, सभी उपयोगकर्ताओं को नवीनतम जानकारी प्रदान करने के लिए</li>
             </ul>
-        </td>
+        </Tabcell>
     </tr>
 </table>
 
